@@ -2551,33 +2551,6 @@ tunneling logic. Rinetd is designed to use a configuration file stored on the
 machine. To get around this, the malware author has modified the function that
 parses the configuration in order to directly take the required values normally
 found in the configuration file.&lt;/p&gt;
-&lt;h2&gt;Detection &amp;amp; Response&lt;span class="hx:absolute hx:-mt-20" id="detection--response"&gt;&lt;/span&gt;
-&lt;a href="#detection--response" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Detect if a Machine in Your Network Has Been Compromised&lt;span class="hx:absolute hx:-mt-20" id="detect-if-a-machine-in-your-network-has-been-compromised"&gt;&lt;/span&gt;
-&lt;a href="#detect-if-a-machine-in-your-network-has-been-compromised" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Use a Cloud Workload Protection Platform like
-&lt;a href="https://intezer.com/intezer-protect"target="_blank" rel="noopener"&gt;Intezer Protect&lt;/a&gt; to gain full runtime
-visibility over the code in your Linux-based systems and get alerted on any
-malicious or unauthorized code or commands.
-&lt;a href="https://protect.intezer.com/signup"target="_blank" rel="noopener"&gt;Try our free community edition&lt;/a&gt; Figure 13
-emphasizes an Intezer Protect alert on a compromised machine. The alert
-provides additional context about the malicious code including threat
-classification (RedXOR), binary’s path on the disk, process tree, command, and
-hash.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-&lt;img src="https://research.intezer.com/blog/2021/03/new-linux-backdoor-redxor-likely-operated-by-chinese-nation-state-actor/images/fig13.png" title="Figure 13: Intezer Protect alerts on RedXOR" alt="" loading="lazy" /&gt;
-&lt;figcaption&gt;Figure 13: Intezer Protect alerts on RedXOR&lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;We also recommend using the IOCs section below to ensure that the RedXOR
-process and the files it creates do not exist on your system.&lt;/p&gt;
-&lt;p&gt;Intezer Protect defends all types of compute resources—including VMs,
-containers and Kubernetes—against the latest Linux threats in runtime.
-&lt;a href="https://protect.intezer.com/signup"target="_blank" rel="noopener"&gt;Try our free community edition&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;Response&lt;span class="hx:absolute hx:-mt-20" id="response"&gt;&lt;/span&gt;
-&lt;a href="#response" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;If you are a victim of this operation, take the following steps:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Kill the process and delete all files related to the malware.&lt;/li&gt;
-&lt;li&gt;Make sure your machine is clean and running only trusted code using a Cloud
-Workload Protection Platform like Intezer Protect.&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h2&gt;Wrap Up&lt;span class="hx:absolute hx:-mt-20" id="wrap-up"&gt;&lt;/span&gt;
 &lt;a href="#wrap-up" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Linux systems are under constant attack given that Linux runs on most of the
 public cloud workload. A
@@ -2590,8 +2563,8 @@ threats like RedXOR developed by
 RedXOR samples are indexed in Intezer Analyze so that you can detect any
 suspicious file that shares code with this malware.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
-&lt;img src="https://research.intezer.com/blog/2021/03/new-linux-backdoor-redxor-likely-operated-by-chinese-nation-state-actor/images/fig14.png" title="Figure 14: RedXOR sample in Intezer Analyze" alt="" loading="lazy" /&gt;
-&lt;figcaption&gt;Figure 14: RedXOR sample in Intezer Analyze&lt;/figcaption&gt;
+&lt;img src="https://research.intezer.com/blog/2021/03/new-linux-backdoor-redxor-likely-operated-by-chinese-nation-state-actor/images/fig14.png" title="Figure 13: RedXOR sample in Intezer Analyze" alt="" loading="lazy" /&gt;
+&lt;figcaption&gt;Figure 13: RedXOR sample in Intezer Analyze&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;h2&gt;IoCs&lt;span class="hx:absolute hx:-mt-20" id="iocs"&gt;&lt;/span&gt;
 &lt;a href="#iocs" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Files&lt;span class="hx:absolute hx:-mt-20" id="files"&gt;&lt;/span&gt;

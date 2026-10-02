@@ -1316,16 +1316,6 @@ Linux—which has a large presence in the cloud. Since the malware is derived
 from the same codebase, detection based on
 &lt;a href="https://analyze.intezer.com/files/338e41f1a8be56339b039835b06d815a3666c8b0d5725b63be7bf54c8745704a"target="_blank" rel="noopener"&gt;code reuse&lt;/a&gt;
 has proven to be very effective.&lt;/p&gt;
-&lt;p&gt;Runtime protection with &lt;a href="https://intezer.com/forensic-ai-soc/"target="_blank" rel="noopener"&gt;Intezer Protect&lt;/a&gt;
-gives you immediate visibility over all code running in your systems and alerts
-you whenever unauthorized or malicious code is executed. Intezer Protect users
-can detect and mitigate threats like HabitsRAT on their Linux systems. Protect
-10 hosts &lt;a href="https://protect.intezer.com/signup"target="_blank" rel="noopener"&gt;for free&lt;/a&gt; with our community
-edition.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-&lt;img src="https://research.intezer.com/blog/2021/04/habitsrat-used-to-target-linux-and-windows-servers/images/fig3.gif" title="Figure 3: HabitsRAT detection in Intezer Protect." alt="" loading="lazy" /&gt;
-&lt;figcaption&gt;Figure 3: HabitsRAT detection in Intezer Protect.&lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
 &lt;h2&gt;IoCs&lt;span class="hx:absolute hx:-mt-20" id="iocs"&gt;&lt;/span&gt;
 &lt;a href="#iocs" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Hashes&lt;span class="hx:absolute hx:-mt-20" id="hashes"&gt;&lt;/span&gt;
 &lt;a href="#hashes" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Windows version of HabitsRAT&lt;span class="hx:absolute hx:-mt-20" id="windows-version-of-habitsrat"&gt;&lt;/span&gt;
