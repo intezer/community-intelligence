@@ -8,7 +8,7 @@ system&amp;rsquo;s RAM.&lt;/p&gt;
 &lt;p&gt;Investigators use memory forensics to collect valuable information and evidence
 from compromised systems. As threat actors try to evade detection using various
 techniques,
-&lt;a href="https://intezer.com/blog/incident-response/what-is-fileless-malware-explained-with-examples/"target="_blank" rel="noopener"&gt;fileless malware&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/incident-response/what-is-fileless-malware-explained-with-examples/?utm_campaign=research-docs&amp;amp;utm_content=tools&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;fileless malware&lt;/a&gt;
 is particularly challenging. This technique allows malicious code to be
 executed directly in memory without being written to the disk. Memory forensics
 proves very handy in these situations.&lt;/p&gt;
@@ -133,7 +133,7 @@ advancements in tools, techniques, and training help to mitigate these
 difficulties. Automation and machine learning are leveraged to sift through
 large datasets more efficiently. Community-driven efforts are improving the
 sharing of knowledge and best practices. Furthermore, the development of
-&lt;a href="https://intezer.com/blog/incident-response/simplifying-endpoint-forensics-and-memory-analysis/"target="_blank" rel="noopener"&gt;more intuitive and powerful forensic tools&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/incident-response/simplifying-endpoint-forensics-and-memory-analysis/?utm_campaign=research-docs&amp;amp;utm_content=tools&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;more intuitive and powerful forensic tools&lt;/a&gt;
 is gradually lowering the barrier to entry, making memory forensics more
 accessible to a broader range of professionals. (More on this below!)&lt;/p&gt;
 &lt;h2&gt;Examples of Memory Threats&lt;span class="hx:absolute hx:-mt-20" id="examples-of-memory-threats"&gt;&lt;/span&gt;

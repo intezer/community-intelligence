@@ -230,7 +230,7 @@ versions of other assemblies it depends on.&lt;/li&gt;
 &lt;h2&gt;Diving Into the .NET Executables Format&lt;span class="hx:absolute hx:-mt-20" id="diving-into-the-net-executables-format"&gt;&lt;/span&gt;
 &lt;a href="#diving-into-the-net-executables-format" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;In this section, we will dive into the .NET internals. To demonstrate the
 concepts we cover, we will use an
-&lt;a href="https://analyze.intezer.com/files/32519b85c0b422e4656de6e6c41878e95fd95026267daab4215ee59c107d6c77"target="_blank" rel="noopener"&gt;example&lt;/a&gt; -
+&lt;a href="https://analyze.intezer.com/files/32519b85c0b422e4656de6e6c41878e95fd95026267daab4215ee59c107d6c77?utm_campaign=research-docs&amp;amp;utm_content=exe-structure&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;example&lt;/a&gt; -
 the notorious Sunburst (SolarWinds) so you can follow along. Hash:
 &lt;code&gt;32519b85c0b422e4656de6e6c41878e95fd95026267daab4215ee59c107d6c77&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;We will use &lt;a href="https://github.com/dnSpy/dnSpy"target="_blank" rel="noopener"&gt;dnSpy&lt;/a&gt;,

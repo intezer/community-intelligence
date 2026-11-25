@@ -536,7 +536,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=babble-babble-babble-babble-babble-babble-babbleloader&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Dissecting SSLoad Malware: A Comprehensive Technical Analysis</title><link>https://research.intezer.com/blog/2024/06/ssload-technical-malware-analysis/</link><pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2024/06/ssload-technical-malware-analysis/</guid><description>
 &lt;p&gt;SSLoad is a stealthy malware that is used to infiltrate systems through
@@ -569,7 +569,7 @@ campaigns. This installer initiates a delivery chain comprising several
 loaders, ultimately deploying the final payload.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://research.intezer.com/blog/2024/06/ssload-technical-malware-analysis/images/fig1.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
 &lt;p&gt;SHA256:
-&lt;a href="https://analyze.intezer.com/files/90f1511223698f33a086337a6875db3b5d6fbcce06f3195cdd6a8efa90091750"target="_blank" rel="noopener"&gt;&lt;code&gt;90f1511223698f33a086337a6875db3b5d6fbcce06f3195cdd6a8efa90091750&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://analyze.intezer.com/files/90f1511223698f33a086337a6875db3b5d6fbcce06f3195cdd6a8efa90091750?utm_campaign=research-blog&amp;amp;utm_content=ssload-technical-malware-analysis&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;&lt;code&gt;90f1511223698f33a086337a6875db3b5d6fbcce06f3195cdd6a8efa90091750&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Using &lt;a href="https://github.com/GNOME/msitools"target="_blank" rel="noopener"&gt;msitools&lt;/a&gt;, we can determine what
 actions the installer will execute:&lt;/p&gt;
 &lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
@@ -601,7 +601,7 @@ in the metadata: &lt;code&gt;C:\vmagent_new\bin\joblist\500965\out\Release\MenuE
 loader also shares code with the antivirus software and retains remnants of a
 digital signature, as shown by Intezer&amp;rsquo;s analysis.&lt;/p&gt;
 &lt;p&gt;SHA256:
-&lt;a href="https://analyze.intezer.com/files/09ffc4188bf11bf059b616491fcb8a09a474901581f46ec7f2c350fbda4e1e1c"target="_blank" rel="noopener"&gt;&lt;code&gt;09ffc4188bf11bf059b616491fcb8a09a474901581f46ec7f2c350fbda4e1e1c&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://analyze.intezer.com/files/09ffc4188bf11bf059b616491fcb8a09a474901581f46ec7f2c350fbda4e1e1c?utm_campaign=research-blog&amp;amp;utm_content=ssload-technical-malware-analysis&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;&lt;code&gt;09ffc4188bf11bf059b616491fcb8a09a474901581f46ec7f2c350fbda4e1e1c&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
 &lt;img src="https://research.intezer.com/blog/2024/06/ssload-technical-malware-analysis/images/fig2.png" title="String and Code reuse between the loader and 360 Total Security." alt="" loading="lazy" /&gt;
 &lt;figcaption&gt;String and Code reuse between the loader and 360 Total Security.&lt;/figcaption&gt;
@@ -712,13 +712,13 @@ data-copied-label="Copied!"
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;SHA256:
-&lt;a href="https://analyze.intezer.com/files/73774861d946d62c2105fef4718683796cb77de7ed42edaec7affcee5eb0a0ee"target="_blank" rel="noopener"&gt;&lt;code&gt;73774861d946d62c2105fef4718683796cb77de7ed42edaec7affcee5eb0a0ee&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://analyze.intezer.com/files/73774861d946d62c2105fef4718683796cb77de7ed42edaec7affcee5eb0a0ee?utm_campaign=research-blog&amp;amp;utm_content=ssload-technical-malware-analysis&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;&lt;code&gt;73774861d946d62c2105fef4718683796cb77de7ed42edaec7affcee5eb0a0ee&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;Second Stage of The Phantom Loader&lt;span class="hx:absolute hx:-mt-20" id="second-stage-of-the-phantom-loader"&gt;&lt;/span&gt;
 &lt;a href="#second-stage-of-the-phantom-loader" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The second stage of the Phantom Loader is a small, simple 32-bit DLL written in
 C/C++. It loads the payload and sets the entry point to the
 &lt;code&gt;DllRegisterServer&lt;/code&gt; function.&lt;/p&gt;
 &lt;p&gt;SHA256:
-&lt;a href="https://analyze.intezer.com/files/09ffc4188bf11bf059b616491fcb8a09a474901581f46ec7f2c350fbda4e1e1c/sub/3bb8aaec-62fa-46f2-a616-0235bb406ec2"target="_blank" rel="noopener"&gt;&lt;code&gt;6aa3daefee979a0efbd30de15a1fc7c0d05a6e8e3f439d5af3982878c3901a1c&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://analyze.intezer.com/files/09ffc4188bf11bf059b616491fcb8a09a474901581f46ec7f2c350fbda4e1e1c/sub/3bb8aaec-62fa-46f2-a616-0235bb406ec2?utm_campaign=research-blog&amp;amp;utm_content=ssload-technical-malware-analysis&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;&lt;code&gt;6aa3daefee979a0efbd30de15a1fc7c0d05a6e8e3f439d5af3982878c3901a1c&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://research.intezer.com/blog/2024/06/ssload-technical-malware-analysis/images/fig6.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
 &lt;h2&gt;SSLoad: The Downloader&lt;span class="hx:absolute hx:-mt-20" id="ssload-the-downloader"&gt;&lt;/span&gt;
 &lt;a href="#ssload-the-downloader" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The payload is a 32-bit DLL written in Rust, identified as SSLoad. This stage
@@ -726,7 +726,7 @@ has not been documented in previous blogs, indicating it might be an additional
 step in the delivery chain. Key strings, such as the user agent and domains,
 are encrypted using a unique algorithm.&lt;/p&gt;
 &lt;p&gt;SHA256:
-&lt;a href="https://analyze.intezer.com/files/265514c8b91b96062fd2960d52ee09d67ea081c56ebadd7a8661f479124133e9"target="_blank" rel="noopener"&gt;&lt;code&gt;265514c8b91b96062fd2960d52ee09d67ea081c56ebadd7a8661f479124133e9&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://analyze.intezer.com/files/265514c8b91b96062fd2960d52ee09d67ea081c56ebadd7a8661f479124133e9?utm_campaign=research-blog&amp;amp;utm_content=ssload-technical-malware-analysis&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;&lt;code&gt;265514c8b91b96062fd2960d52ee09d67ea081c56ebadd7a8661f479124133e9&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This SSLoad variant begins by decrypting a URL and a user agent. The URL
 directs to a Telegram channel named SSLoad, which serves as a dead-drop site,
 as shown in the screenshot below. This channel contains another encrypted
@@ -829,7 +829,7 @@ key derived earlier. This process decrypts the URL of the Telegram channel.&lt;/
 &lt;p&gt;&lt;img src="https://research.intezer.com/blog/2024/06/ssload-technical-malware-analysis/images/fig9.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
 &lt;h2&gt;SSLoad: The Payload&lt;span class="hx:absolute hx:-mt-20" id="ssload-the-payload"&gt;&lt;/span&gt;
 &lt;a href="#ssload-the-payload" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The extracted payload from this file is:
-&lt;a href="https://analyze.intezer.com/files/6329244cfb3480eae11070f1aa880bff2fd52b374e12ac37f1eacb6379c72b80"target="_blank" rel="noopener"&gt;&lt;code&gt;6329244cfb3480eae11070f1aa880bff2fd52b374e12ac37f1eacb6379c72b80&lt;/code&gt;&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/6329244cfb3480eae11070f1aa880bff2fd52b374e12ac37f1eacb6379c72b80?utm_campaign=research-blog&amp;amp;utm_content=ssload-technical-malware-analysis&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;&lt;code&gt;6329244cfb3480eae11070f1aa880bff2fd52b374e12ac37f1eacb6379c72b80&lt;/code&gt;&lt;/a&gt;
 which is another Rust file.&lt;/p&gt;
 &lt;p&gt;The payload will first create a mutex, using a hardcoded string. This is a
 check if the machine is already infected. If the mutex exists, it will cease
@@ -1011,7 +1011,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=ssload-technical-malware-analysis&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Wrapping Up a Year of Infamous Bazar Campaigns</title><link>https://research.intezer.com/blog/2021/05/wrapping-up-a-year-of-infamous-bazar-campaigns/</link><pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2021/05/wrapping-up-a-year-of-infamous-bazar-campaigns/</guid><description>
 &lt;h2&gt;Bazar is the latest tool developed by the TrickBot gang&lt;span class="hx:absolute hx:-mt-20" id="bazar-is-the-latest-tool-developed-by-the-trickbot-gang"&gt;&lt;/span&gt;
@@ -1220,7 +1220,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=wrapping-up-a-year-of-infamous-bazar-campaigns&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Prince of Persia: The Sands of Foudre</title><link>https://research.intezer.com/blog/2018/08/prince-of-persia-the-sands-of-foudre/</link><pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2018/08/prince-of-persia-the-sands-of-foudre/</guid><description>
 &lt;h2&gt;Introduction&lt;span class="hx:absolute hx:-mt-20" id="introduction"&gt;&lt;/span&gt;
@@ -1445,6 +1445,6 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=prince-of-persia-the-sands-of-foudre&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item></channel></rss>

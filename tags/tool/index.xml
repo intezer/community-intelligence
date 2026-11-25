@@ -183,7 +183,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=lightning-framework-linux-detection-rules-osquery&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>SOC Level Up: Threat Hunting and Detection With Sigma</title><link>https://research.intezer.com/blog/2022/05/threat-hunting-sigma-detection-rules/</link><pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2022/05/threat-hunting-sigma-detection-rules/</guid><description>
 &lt;p&gt;In the last part of the SOC Level Up series, we introduced
@@ -212,7 +212,7 @@ organization.&lt;/p&gt;
 makes threat detection even more significant and forces the security community
 to further evolve the hunting and detection strategy. The new and more advanced
 approach to threat hunting is
-&lt;a href="https://intezer.com/blog/threat-hunting/scale-incident-response-detection-engineering/"target="_blank" rel="noopener"&gt;detection engineering&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/threat-hunting/scale-incident-response-detection-engineering/?utm_campaign=research-blog&amp;amp;utm_content=threat-hunting-sigma-detection-rules&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;detection engineering&lt;/a&gt;
 – a process of constantly evolving and tuning to detect threats before they
 cause significant damage. In a way it requires a change in the mindset, you
 need to see the traces left by a threat as detection opportunities and use them
@@ -256,7 +256,7 @@ also much harder to change the behavior of the threat and stay undetected.&lt;/p
 &lt;p&gt;&lt;em&gt;Source: &lt;a href="https://www.sans.org/tools/the-pyramid-of-pain/"target="_blank" rel="noopener"&gt;The Pyramid of Pain, SANS&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;Using Sigma to Write Detection Rules for Emotet&lt;span class="hx:absolute hx:-mt-20" id="using-sigma-to-write-detection-rules-for-emotet"&gt;&lt;/span&gt;
 &lt;a href="#using-sigma-to-write-detection-rules-for-emotet" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Let&amp;rsquo;s take a look at
-&lt;a href="https://analyze.intezer.com/families/db6abbcc-d292-4991-bc90-207c077f5e53"target="_blank" rel="noopener"&gt;Emotet&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/families/db6abbcc-d292-4991-bc90-207c077f5e53?utm_campaign=research-blog&amp;amp;utm_content=threat-hunting-sigma-detection-rules&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Emotet&lt;/a&gt;
 – a dangerous malware that has been operating since 2014. Despite the arrests
 and the efforts of law enforcement in
 &lt;a href="https://www.europol.europa.eu/media-press/newsroom/news/world%E2%80%99s-most-dangerous-malware-emotet-disrupted-through-global-action"target="_blank" rel="noopener"&gt;January 2021&lt;/a&gt;,
@@ -271,10 +271,10 @@ the file allowing the execution of malicious code that leads to Emotet
 execution.&lt;/p&gt;
 &lt;p&gt;Our goal is to write detection rules for Emotet, so let&amp;rsquo;s take a look at a
 recently discovered
-&lt;a href="https://analyze.intezer.com/files/6d55f25222831cce73fd9a64a8e5a63b002522dc2637bd2704f77168c7c02d88/behavior"target="_blank" rel="noopener"&gt;sample&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/6d55f25222831cce73fd9a64a8e5a63b002522dc2637bd2704f77168c7c02d88/behavior?utm_campaign=research-blog&amp;amp;utm_content=threat-hunting-sigma-detection-rules&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;sample&lt;/a&gt;
 of Emotet. We will use oleid and olevba to discover the macros embedded in the
 file (for more information, check out this blog about
-&lt;a href="https://intezer.com/blog/malware-analysis/analyze-malicious-microsoft-office-files/"target="_blank" rel="noopener"&gt;analyzing malicious Office files&lt;/a&gt;).&lt;/p&gt;
+&lt;a href="https://intezer.com/blog/malware-analysis/analyze-malicious-microsoft-office-files/?utm_campaign=research-blog&amp;amp;utm_content=threat-hunting-sigma-detection-rules&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;analyzing malicious Office files&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://research.intezer.com/blog/2022/05/threat-hunting-sigma-detection-rules/images/fig2.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
 &lt;p&gt;From this short analysis, we know that the malicious document will execute
 commands using cmd and it will use a signed binary called MSHTA to download and
@@ -409,7 +409,7 @@ malware samples.&lt;/p&gt;
 &lt;p&gt;In the next section here, we will show how to build Sigma rules using detection
 indicators that are shared among several samples of the same threat.&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s examine another Excel
-&lt;a href="https://analyze.intezer.com/files/12315dbe67fd3db9ce3c1f520fef14e10e946b7a1d8628583c2a26949312edc5/detect-hunt"target="_blank" rel="noopener"&gt;file&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/12315dbe67fd3db9ce3c1f520fef14e10e946b7a1d8628583c2a26949312edc5/detect-hunt?utm_campaign=research-blog&amp;amp;utm_content=threat-hunting-sigma-detection-rules&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;file&lt;/a&gt;
 that delivers Emotet:&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
 &lt;img src="https://research.intezer.com/blog/2022/05/threat-hunting-sigma-detection-rules/images/fig4.png" title="Analysis of Emotet." alt="" loading="lazy" /&gt;
@@ -483,7 +483,7 @@ malicious activity caused by Emotet.&lt;/p&gt;
 &lt;p&gt;Recently Intezer added detection opportunities per family to allow you to stay
 ahead of emerging threats. This feature allows users to get all of the
 detection artifacts that were seen in a specific family and combined with
-&lt;a href="https://analyze.intezer.com/api/docs/documentation"target="_blank" rel="noopener"&gt;Intezer&amp;rsquo;s API&lt;/a&gt; allows
+&lt;a href="https://analyze.intezer.com/api/docs/documentation?utm_campaign=research-blog&amp;amp;utm_content=threat-hunting-sigma-detection-rules&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&amp;rsquo;s API&lt;/a&gt; allows
 users to extract up-to-date behavioral artifacts, so you can create rules to
 proactively hunt for the existence of a threat within your organization and
 create updated detection rules.&lt;/p&gt;
@@ -502,7 +502,7 @@ Sigma rules using Intezer.&lt;/p&gt;
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=threat-hunting-sigma-detection-rules&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>How to Write YARA Rules That Minimize False Positives</title><link>https://research.intezer.com/blog/2022/05/yara-rules-minimize-false-positives/</link><pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2022/05/yara-rules-minimize-false-positives/</guid><description>
 &lt;h2&gt;Generate Advanced YARA Rules Based on Code Reuse&lt;span class="hx:absolute hx:-mt-20" id="generate-advanced-yara-rules-based-on-code-reuse"&gt;&lt;/span&gt;
@@ -570,7 +570,7 @@ expressions. While advanced YARA rules can be powerful instruments for
 detecting malware, writing them requires a high degree of technical ability and
 an understanding of YARA, and can be a time-consuming process.&lt;/p&gt;
 &lt;p&gt;Writing advanced YARA rules and
-&lt;a href="https://intezer.com/blog/malware-analysis/the-role-of-malware-analysis-in-cybersecurity/"target="_blank" rel="noopener"&gt;malware analysis&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/malware-analysis/the-role-of-malware-analysis-in-cybersecurity/?utm_campaign=research-blog&amp;amp;utm_content=yara-rules-minimize-false-positives&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;malware analysis&lt;/a&gt;
 in general is difficult to scale at high volumes, especially since not every
 organization has access to a team of highly-skilled researchers or reverse
 engineers. How can a security team create advanced YARA rules and still achieve
@@ -592,7 +592,7 @@ trusted or malicious?&lt;/li&gt;
 &lt;li&gt;Classifying a malicious file to its relevant malware family.&lt;/li&gt;
 &lt;li&gt;Uncovering the level of sophistication and potential risk of the threat. For
 example, are you dealing with
-&lt;a href="https://intezer.com/blog/research/mitigating-emotet-the-most-common-banking-trojan/"target="_blank" rel="noopener"&gt;a common banking trojan&lt;/a&gt;,
+&lt;a href="https://intezer.com/blog/research/mitigating-emotet-the-most-common-banking-trojan/?utm_campaign=research-blog&amp;amp;utm_content=yara-rules-minimize-false-positives&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;a common banking trojan&lt;/a&gt;,
 a sophisticated APT or a nation-state sponsored attack? The answer will shape
 your response.&lt;/li&gt;
 &lt;li&gt;Making attribution to the threat actor responsible for creating the malware.&lt;/li&gt;
@@ -632,7 +632,7 @@ to the malware that the signature is based on.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Example YARA Rule for Emotet Malware&lt;span class="hx:absolute hx:-mt-20" id="example-yara-rule-for-emotet-malware"&gt;&lt;/span&gt;
 &lt;a href="#example-yara-rule-for-emotet-malware" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The following example demonstrates a code-based YARA rule produced for
-&lt;a href="https://analyze.intezer.com/families/db6abbcc-d292-4991-bc90-207c077f5e53"target="_blank" rel="noopener"&gt;Emotet&lt;/a&gt;,
+&lt;a href="https://analyze.intezer.com/families/db6abbcc-d292-4991-bc90-207c077f5e53?utm_campaign=research-blog&amp;amp;utm_content=yara-rules-minimize-false-positives&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Emotet&lt;/a&gt;,
 a common financial trojan. With the code-based YARA signature in place, any
 future sample or variant that reuses some aspects of Emotet&amp;rsquo;s code will be
 detected.&lt;/p&gt;
@@ -646,7 +646,7 @@ detected.&lt;/p&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;h3&gt;Example YARA Rule for WannaCry Variant2&lt;span class="hx:absolute hx:-mt-20" id="example-yara-rule-for-wannacry-variant2"&gt;&lt;/span&gt;
 &lt;a href="#example-yara-rule-for-wannacry-variant2" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;This is an example of a YARA signature that was produced via code from a
-&lt;a href="https://analyze.intezer.com/families/0b13c0d4-7779-4c06-98fa-4d33ca98f8a9"target="_blank" rel="noopener"&gt;WannaCry&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/families/0b13c0d4-7779-4c06-98fa-4d33ca98f8a9?utm_campaign=research-blog&amp;amp;utm_content=yara-rules-minimize-false-positives&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;WannaCry&lt;/a&gt;
 sample. Deployed in May 2017, WannaCry was one of the largest, high profile
 ransomware attacks in history, infecting over 200,000 computers across 150
 countries.&lt;/p&gt;
@@ -667,7 +667,7 @@ reduce false positives and save precious resources in the form of time and
 analyst efforts. This is particularly valuable for organizations dealing with a
 large volume of alerts.&lt;/p&gt;
 &lt;p&gt;You can also use
-&lt;a href="https://intezer.com/blog/threat-hunting/scale-incident-response-detection-engineering/"target="_blank" rel="noopener"&gt;Detect &amp;amp; Hunt&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/threat-hunting/scale-incident-response-detection-engineering/?utm_campaign=research-blog&amp;amp;utm_content=yara-rules-minimize-false-positives&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Detect &amp;amp; Hunt&lt;/a&gt;
 to find file-based detection opportunities for creating new YARA rules. You can
 filter these detection opportunities by the artifact type, family, and verdict.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
@@ -708,7 +708,7 @@ equipped to detect variants of the same threat.&lt;/li&gt;
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=yara-rules-minimize-false-positives&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>SOC Level Up: Introduction to Sigma Rules</title><link>https://research.intezer.com/blog/2022/03/intro-to-sigma-rules/</link><pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2022/03/intro-to-sigma-rules/</guid><description>
 &lt;p&gt;&lt;em&gt;Sigma rules are catching on more and more for SOC teams, as a way to write one
@@ -1091,15 +1091,15 @@ making it easier to integrate new detection rules and protect your environment.&
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=intro-to-sigma-rules&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Radare Plugin is Here for Intezer Community</title><link>https://research.intezer.com/blog/2022/02/radare-plugin-automate-reverse-engineering/</link><pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2022/02/radare-plugin-automate-reverse-engineering/</guid><description>
 &lt;p&gt;When you reverse engineer code as part of an incident response team, you want
 to quickly get information about what kind of threat you&amp;rsquo;re dealing with.&lt;/p&gt;
 &lt;p&gt;A while back we released Intezer Analyze plugins both for
-&lt;a href="https://intezer.com/blog/malware-analysis/ida-pro-plugin-now-available-to-the-community/"target="_blank" rel="noopener"&gt;IDA Pro&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/malware-analysis/ida-pro-plugin-now-available-to-the-community/?utm_campaign=research-blog&amp;amp;utm_content=radare-plugin-automate-reverse-engineering&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;IDA Pro&lt;/a&gt;
 and
-&lt;a href="https://intezer.com/blog/malware-analysis/community-ghidra-plugin-is-here/"target="_blank" rel="noopener"&gt;Ghidra&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/malware-analysis/community-ghidra-plugin-is-here/?utm_campaign=research-blog&amp;amp;utm_content=radare-plugin-automate-reverse-engineering&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Ghidra&lt;/a&gt;
 to help you zero in on a file&amp;rsquo;s malicious and unique code. Now it is Radare&amp;rsquo;s
 turn. &lt;a href="https://rada.re/n/radare2.html"target="_blank" rel="noopener"&gt;Radare2&lt;/a&gt; (r2) is an open-source tool
 chain for reverse engineering and forensics. With the release of the community
@@ -1109,7 +1109,7 @@ code genomics from Intezer to attribute the malware family or threat actor.&lt;/
 &lt;a href="#the-radare-plugin-for-reverse-engineering" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;How to get started:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Make sure you have an Intezer Analyze community account, or a paid team
-account. (If not, register &lt;a href="https://analyze.intezer.com/"target="_blank" rel="noopener"&gt;here&lt;/a&gt;.)&lt;/li&gt;
+account. (If not, register &lt;a href="https://analyze.intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=radare-plugin-automate-reverse-engineering&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;here&lt;/a&gt;.)&lt;/li&gt;
 &lt;li&gt;Submit the file to Intezer Analyze.&lt;/li&gt;
 &lt;li&gt;Install the plugin via pip: &lt;code&gt;pip install r2analyze&lt;/code&gt;.&lt;/li&gt;
 &lt;li&gt;Add your API key as an environment variable named &lt;code&gt;INTEZER_API_KEY&lt;/code&gt;.&lt;/li&gt;
@@ -1117,9 +1117,9 @@ account. (If not, register &lt;a href="https://analyze.intezer.com/"target="_bla
 &lt;li&gt;Run the plugin as a r2pipe command (&lt;code&gt;#!pipe r2analyze&lt;/code&gt;).&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Here is an example using a ScarCruft sample
-(&lt;a href="https://analyze.intezer.com/files/7c82689142a415b0a34553478e445988980f48705735939d6d33c17e4e8dac94"target="_blank" rel="noopener"&gt;&lt;code&gt;7c82689142a415b0a34553478e445988980f48705735939d6d33c17e4e8dac94&lt;/code&gt;&lt;/a&gt;).
+(&lt;a href="https://analyze.intezer.com/files/7c82689142a415b0a34553478e445988980f48705735939d6d33c17e4e8dac94?utm_campaign=research-blog&amp;amp;utm_content=radare-plugin-automate-reverse-engineering&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;&lt;code&gt;7c82689142a415b0a34553478e445988980f48705735939d6d33c17e4e8dac94&lt;/code&gt;&lt;/a&gt;).
 The
-&lt;a href="https://analyze.intezer.com/files/7c82689142a415b0a34553478e445988980f48705735939d6d33c17e4e8dac94"target="_blank" rel="noopener"&gt;result&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/7c82689142a415b0a34553478e445988980f48705735939d6d33c17e4e8dac94?utm_campaign=research-blog&amp;amp;utm_content=radare-plugin-automate-reverse-engineering&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;result&lt;/a&gt;
 from Intezer Analyze is shown below.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
 &lt;img src="https://research.intezer.com/blog/2022/02/radare-plugin-automate-reverse-engineering/images/fig1.png" title="Intezer Analyze result for a ScarCruft sample." alt="" loading="lazy" /&gt;
@@ -1142,16 +1142,16 @@ binaries, now you can use this Intezer Analyze plugin to save time and get
 additional insights for your incident response team.&lt;/p&gt;
 &lt;p&gt;Intezer automates the malware analysis process to quickly identify and classify
 malware families. Analyze malware and unknown files for free at
-&lt;a href="https://analyze.intezer.com/"target="_blank" rel="noopener"&gt;analyze.intezer.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://analyze.intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=radare-plugin-automate-reverse-engineering&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;analyze.intezer.com&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Additional Resources&lt;span class="hx:absolute hx:-mt-20" id="additional-resources"&gt;&lt;/span&gt;
 &lt;a href="#additional-resources" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://intezer.com/blog/malware-analysis/ida-pro-plugin-now-available-to-the-community/"target="_blank" rel="noopener"&gt;IDA Pro plugin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://intezer.com/blog/malware-analysis/community-ghidra-plugin-is-here/"target="_blank" rel="noopener"&gt;Ghidra plugin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://intezer.com/blog/malware-analysis/ida-pro-plugin-now-available-to-the-community/?utm_campaign=research-blog&amp;amp;utm_content=radare-plugin-automate-reverse-engineering&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;IDA Pro plugin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://intezer.com/blog/malware-analysis/community-ghidra-plugin-is-here/?utm_campaign=research-blog&amp;amp;utm_content=radare-plugin-automate-reverse-engineering&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Ghidra plugin&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=radare-plugin-automate-reverse-engineering&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Make your First Malware Honeypot in Under 20 Minutes</title><link>https://research.intezer.com/blog/2022/01/how-to-make-malware-honeypot/</link><pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2022/01/how-to-make-malware-honeypot/</guid><description>
 &lt;p&gt;&lt;em&gt;For a free honeypot, you can use one of the several open-source options listed below.&lt;/em&gt;&lt;/p&gt;
@@ -1230,7 +1230,7 @@ data-copied-label="Copied!"
 &lt;p&gt;Many popular applications are covered in this list, especially other free and open-source software options for finishing your honeypot.&lt;/p&gt;
 &lt;h2&gt;Setting Up Your Application&lt;span class="hx:absolute hx:-mt-20" id="setting-up-your-application"&gt;&lt;/span&gt;
 &lt;a href="#setting-up-your-application" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Now, you need to set up the application that you will use as the honeypot. Approximatly 80% of honeypots are attacked within a day of them being set up according to a &lt;a href="https://www.scmagazine.com/brief/cloud-security/misconfigured-cloud-services-quickly-compromised"target="_blank" rel="noopener"&gt;report&lt;/a&gt; from Palo Alto Networks. You can set up any application that you want as the honeypot. This application could be an exposed version of software that your organization uses or develops. Any application can be attacked by threat actors. If you are unsure of what to deploy, below we outline how to deploy a simple honeypot application using Docker.&lt;/p&gt;
-&lt;p&gt;A great way to deploy applications is through &lt;a href="https://docs.docker.com/get-started/overview/"target="_blank" rel="noopener"&gt;Docker&lt;/a&gt;. Docker is a platform that delivers software through images that are run in environments called containers. It is simple to deploy an application with Docker, but Docker itself can also be an application worth targeting. Let&amp;rsquo;s set up a honeypot using a misconfigured Docker API. &lt;a href="https://intezer.com/blog/container-security/fix-your-misconfigured-docker-api-ports/"target="_blank" rel="noopener"&gt;Misconfigured Docker APIs&lt;/a&gt; are a favorite for threat actors to target because of their simplicity to exploit to run malicious code. In order to misconfigure Docker, you need to install it first. This can be achieved very quickly on &lt;a href="https://docs.aws.amazon.com/AmazonECS/latest/developerguide/docker-basics.html"target="_blank" rel="noopener"&gt;Amazon Linux 2&lt;/a&gt;. Start by updating the installed packages on the instance.&lt;/p&gt;
+&lt;p&gt;A great way to deploy applications is through &lt;a href="https://docs.docker.com/get-started/overview/"target="_blank" rel="noopener"&gt;Docker&lt;/a&gt;. Docker is a platform that delivers software through images that are run in environments called containers. It is simple to deploy an application with Docker, but Docker itself can also be an application worth targeting. Let&amp;rsquo;s set up a honeypot using a misconfigured Docker API. &lt;a href="https://intezer.com/blog/container-security/fix-your-misconfigured-docker-api-ports/?utm_campaign=research-blog&amp;amp;utm_content=how-to-make-malware-honeypot&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Misconfigured Docker APIs&lt;/a&gt; are a favorite for threat actors to target because of their simplicity to exploit to run malicious code. In order to misconfigure Docker, you need to install it first. This can be achieved very quickly on &lt;a href="https://docs.aws.amazon.com/AmazonECS/latest/developerguide/docker-basics.html"target="_blank" rel="noopener"&gt;Amazon Linux 2&lt;/a&gt;. Start by updating the installed packages on the instance.&lt;/p&gt;
 &lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
 &lt;div&gt;&lt;pre&gt;&lt;code&gt;sudo yum update -y&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"&gt;
 &lt;button
@@ -1449,7 +1449,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=how-to-make-malware-honeypot&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Detection Rules for Sysjoker (and How to Make Them With Osquery)</title><link>https://research.intezer.com/blog/2022/01/detection-rules-for-sysjoker-and-how-to-make-them-with-osquery/</link><pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2022/01/detection-rules-for-sysjoker-and-how-to-make-them-with-osquery/</guid><description>
 &lt;p&gt;On January 11, 2022, we released a blog post on a new malware called &lt;a href="../../../2022/01/new-backdoor-sysjoker"&gt;SysJoker&lt;/a&gt;. SysJoker is a malware targeting Windows, macOS, and Linux. At the time of the publication, the Linux and macOS versions were not detected by any scanning engines on VirusTotal. As a consequence to this, we decided to release a followup blog posting showing how the information we released can be used to investigate whether you have been affected.&lt;/p&gt;
@@ -1674,7 +1674,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=detection-rules-for-sysjoker-and-how-to-make-them-with-osquery&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Teaching Capa New Tricks: Analyzing Capabilities in PE and ELF Files</title><link>https://research.intezer.com/blog/2021/09/analyzing-capabilities-in-pe-and-elf-files/</link><pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2021/09/analyzing-capabilities-in-pe-and-elf-files/</guid><description>
 &lt;h2&gt;Introduction&lt;span class="hx:absolute hx:-mt-20" id="introduction"&gt;&lt;/span&gt;
@@ -1684,7 +1684,7 @@ are multiple ways of achieving this by either manual analysis, which requires
 reverse engineering skills, or automated analysis. With Intezer Analyze we
 provide a tool that aids both advanced reverse engineers and entry-level
 analysts with the task of analyzing any suspicious file. Earlier this year we
-&lt;a href="https://intezer.com/blog/get-more-context-with-ttps/"target="_blank" rel="noopener"&gt;announced&lt;/a&gt; a new feature
+&lt;a href="https://intezer.com/blog/get-more-context-with-ttps/?utm_campaign=research-blog&amp;amp;utm_content=analyzing-capabilities-in-pe-and-elf-files&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;announced&lt;/a&gt; a new feature
 in Intezer Analyze that extracts the capabilities of a file. From the
 capabilities, you can map these to known Tactics, Techniques, and Procedures
 (TTPs). Under the hood, the functionality is powered by an open-source project
@@ -1715,7 +1715,7 @@ is that by connecting capabilities to code genes, we can detect that a
 capability is shared between different malware families, thus making a strong
 connection between them. To see this in action, let&amp;rsquo;s look at a practical
 example. The following example uses one of the Olympic Destroyer samples
-(&lt;a href="https://analyze.intezer.com/files/3e27b6b287f0b9f7e85bfe18901d961110ae969d58b44af15b1d75be749022c2"target="_blank" rel="noopener"&gt;&lt;code&gt;3e27b6b287f0b9f7e85bfe18901d961110ae969d58b44af15b1d75be749022c2&lt;/code&gt;&lt;/a&gt;)
+(&lt;a href="https://analyze.intezer.com/files/3e27b6b287f0b9f7e85bfe18901d961110ae969d58b44af15b1d75be749022c2?utm_campaign=research-blog&amp;amp;utm_content=analyzing-capabilities-in-pe-and-elf-files&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;&lt;code&gt;3e27b6b287f0b9f7e85bfe18901d961110ae969d58b44af15b1d75be749022c2&lt;/code&gt;&lt;/a&gt;)
 that was part of Cisco Talos'
 &lt;a href="https://blog.talosintelligence.com/2018/02/olympic-destroyer.html"target="_blank" rel="noopener"&gt;report&lt;/a&gt;.
 Olympic Destroyer is a good example because of all the false flags planted by
@@ -1816,7 +1816,7 @@ blog post on capa v3.0 release
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=analyzing-capabilities-in-pe-and-elf-files&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>MoP – "Master of Puppets" – Advanced malware tracking framework revealed at BlackHat Arsenal 2019</title><link>https://research.intezer.com/blog/2019/08/mop-master-of-puppets-advanced-malware-tracking-framework-revealed-at-blackhat-arsenal-2019/</link><pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2019/08/mop-master-of-puppets-advanced-malware-tracking-framework-revealed-at-blackhat-arsenal-2019/</guid><description>
 &lt;p&gt;At BlackHat Arsenal 2019 Intezer’s researcher, Omri Ben-Bassat, revealed
@@ -1845,6 +1845,6 @@ known RATs, such as NjRAT and Gh0stRAT. Find it on
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=mop-master-of-puppets-advanced-malware-tracking-framework-revealed-at-blackhat-arsenal-2019&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item></channel></rss>

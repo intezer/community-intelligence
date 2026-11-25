@@ -190,7 +190,7 @@ be applied. Only use software from trusted sources.&lt;/p&gt;
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=ytstealer-malware-youtube-cookies&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>New Conversation Hijacking Campaign Delivering IcedID</title><link>https://research.intezer.com/blog/2022/03/conversation-hijacking-campaign-delivering-icedid/</link><pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2022/03/conversation-hijacking-campaign-delivering-icedid/</guid><description>
 &lt;p&gt;&lt;em&gt;This post describes the technical analysis of a new campaign detected by
@@ -410,7 +410,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=conversation-hijacking-campaign-delivering-icedid&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Operation ElectroRAT: Attacker Creates Fake Companies to Drain Your Crypto Wallets</title><link>https://research.intezer.com/blog/2021/01/operation-electrorat-attacker-creates-fake-companies-to-drain-your-crypto-wallets/</link><pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2021/01/operation-electrorat-attacker-creates-fake-companies-to-drain-your-crypto-wallets/</guid><description>
 &lt;h2&gt;Intro&lt;span class="hx:absolute hx:-mt-20" id="intro"&gt;&lt;/span&gt;
@@ -582,8 +582,8 @@ as fake apps/websites and marketing/promotional efforts via relevant forums and
 social media.&lt;/p&gt;
 &lt;p&gt;ElectroRAT is the latest example of attackers using Golang to develop
 multi-platform malware. We touched upon this trend in the
-&lt;a href="https://intezer.com/blog/cloud-security/top-linux-cloud-threats-of-2020/"target="_blank" rel="noopener"&gt;Top Linux Cloud Threats of 2020&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://analyze.intezer.com/families/bf6fb1b6-b8d0-44f2-8d08-f1a6668dce29"target="_blank" rel="noopener"&gt;ElectroRAT&lt;/a&gt;&amp;rsquo;s
+&lt;a href="https://intezer.com/blog/cloud-security/top-linux-cloud-threats-of-2020/?utm_campaign=research-blog&amp;amp;utm_content=operation-electrorat-attacker-creates-fake-companies-to-drain-your-crypto-wallets&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Top Linux Cloud Threats of 2020&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://analyze.intezer.com/families/bf6fb1b6-b8d0-44f2-8d08-f1a6668dce29?utm_campaign=research-blog&amp;amp;utm_content=operation-electrorat-attacker-creates-fake-companies-to-drain-your-crypto-wallets&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;ElectroRAT&lt;/a&gt;&amp;rsquo;s
 PE and ELF versions are indexed in Intezer Analyze so that you can quickly
 classify any samples that are genetically similar.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://research.intezer.com/blog/2021/01/operation-electrorat-attacker-creates-fake-companies-to-drain-your-crypto-wallets/images/fig15.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
@@ -707,6 +707,6 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=operation-electrorat-attacker-creates-fake-companies-to-drain-your-crypto-wallets&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item></channel></rss>

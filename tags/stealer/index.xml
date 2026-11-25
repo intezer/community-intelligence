@@ -1,10 +1,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Intezer Research – Stealer</title><link>https://research.intezer.com/tags/stealer/</link><description>Recent content in Stealer on Intezer Research</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 10 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://research.intezer.com/tags/stealer/index.xml" rel="self" type="application/rss+xml"/><item><title>There's Something About CryptBot: Yet Another Silly Stealer (YASS)</title><link>https://research.intezer.com/blog/2024/09/cryptbot-yet-another-silly-stealer-yass/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2024/09/cryptbot-yet-another-silly-stealer-yass/</guid><description>
 &lt;p&gt;Recently Intezer was investigating a file that we came across during
-&lt;a href="https://intezer.com/blog/incident-response/how-intezer-works/"target="_blank" rel="noopener"&gt;alert triage&lt;/a&gt;.
+&lt;a href="https://intezer.com/blog/incident-response/how-intezer-works/?utm_campaign=research-blog&amp;amp;utm_content=cryptbot-yet-another-silly-stealer-yass&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;alert triage&lt;/a&gt;.
 This particular file piqued our interest due to the interesting delivery chain,
 and the even more interesting payload, an intricate infostealer.&lt;/p&gt;
 &lt;p&gt;Intezer has amazing
-&lt;a href="https://intezer.com/blog/malware-analysis/code-strings-and-whats-in-between/"target="_blank" rel="noopener"&gt;code genetic analysis technology&lt;/a&gt;,
+&lt;a href="https://intezer.com/blog/malware-analysis/code-strings-and-whats-in-between/?utm_campaign=research-blog&amp;amp;utm_content=cryptbot-yet-another-silly-stealer-yass&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;code genetic analysis technology&lt;/a&gt;,
 showing us overlaps of code reuse between different files, malicious or not. We
 noticed that the payload &lt;em&gt;did not have significant code overlap&lt;/em&gt; with other
 infostealers. Upon researching the threat and pivoting to similar samples, we
@@ -647,7 +647,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=cryptbot-yet-another-silly-stealer-yass&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>CryptoClippy is Evolving to Pilfer Even More Financial Data</title><link>https://research.intezer.com/blog/2023/05/cryptoclippy-evolves-to-pilfer-more-financial-data/</link><pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2023/05/cryptoclippy-evolves-to-pilfer-more-financial-data/</guid><description>
 &lt;p&gt;A banking trojan is a malware designed to steal sensitive financial
@@ -681,7 +681,7 @@ in Brazil.&lt;/p&gt;
 &lt;p&gt;In this blog, we will provide a technical analysis of the artifacts we found.&lt;/p&gt;
 &lt;h2&gt;Technical Analysis of CryptoClippy&lt;span class="hx:absolute hx:-mt-20" id="technical-analysis-of-cryptoclippy"&gt;&lt;/span&gt;
 &lt;a href="#technical-analysis-of-cryptoclippy" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;We identified a suspicious
-&lt;a href="https://analyze.intezer.com/files/19f0f8831ef9d561f6dc395eff55d165d614fa06d13a9a3d39b120ef18242f12"target="_blank" rel="noopener"&gt;.NET sample&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/19f0f8831ef9d561f6dc395eff55d165d614fa06d13a9a3d39b120ef18242f12?utm_campaign=research-blog&amp;amp;utm_content=cryptoclippy-evolves-to-pilfer-more-financial-data&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;.NET sample&lt;/a&gt;
 that is signed by &amp;ldquo;PLK Management Limited,&amp;rdquo; and its metadata has the company
 and product name pointing to &amp;ldquo;WhatsApp.&amp;rdquo; Still, it doesn’t share code with the
 software.&lt;/p&gt;
@@ -697,7 +697,7 @@ using Base64, which resolves to &lt;code&gt;https://mydigitalrevival[.]com/get.p
 sends the string &amp;ldquo;&lt;code&gt;82DPRmbP&lt;/code&gt;&amp;rdquo;. This domain was mentioned in the Unit42 post.&lt;/p&gt;
 &lt;p&gt;We found more files with the same signer however, unlike the first file, they
 are NSIS installers, like
-&lt;a href="https://analyze.intezer.com/analyses/97a2e3e1-44da-433e-8b20-a1d5f4200160/genetic-analysis"target="_blank" rel="noopener"&gt;this file&lt;/a&gt;.
+&lt;a href="https://analyze.intezer.com/analyses/97a2e3e1-44da-433e-8b20-a1d5f4200160/genetic-analysis?utm_campaign=research-blog&amp;amp;utm_content=cryptoclippy-evolves-to-pilfer-more-financial-data&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;this file&lt;/a&gt;.
 Most of the files have an icon of Correios. This state-owned company operates
 the national postal service of Brazil. The submitted file name starts with
 Rastreio or Correios followed by four letters. Restreio translates to
@@ -808,10 +808,10 @@ obfuscation, and deployed this script.&lt;/p&gt;
 &lt;figcaption&gt;The script that injects the 2nd loader (after removing the obfuscation from the script)&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;The 2nd stage
-&lt;a href="https://analyze.intezer.com/files/894ad71e6fea9a5068512a7de5c2b176bc9556acf96284f131614d0e402059dc"target="_blank" rel="noopener"&gt;loader&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/894ad71e6fea9a5068512a7de5c2b176bc9556acf96284f131614d0e402059dc?utm_campaign=research-blog&amp;amp;utm_content=cryptoclippy-evolves-to-pilfer-more-financial-data&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;loader&lt;/a&gt;
 is a 64-bit DLL with one exported function – main. The logic of the loader is
 similar to the one
-&lt;a href="https://analyze.intezer.com/files/89d7c8c7846068c4f618f80d18944f2fcf47cbebe7390d73c1f16ef0ed48d90b"target="_blank" rel="noopener"&gt;reported&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/89d7c8c7846068c4f618f80d18944f2fcf47cbebe7390d73c1f16ef0ed48d90b?utm_campaign=research-blog&amp;amp;utm_content=cryptoclippy-evolves-to-pilfer-more-financial-data&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;reported&lt;/a&gt;
 by Unit 42, as it also appears to use
 &lt;a href="https://github.com/jthuraisamy/SysWhispers2"target="_blank" rel="noopener"&gt;SysWhisper&lt;/a&gt;, an open-source
 project that implements direct system calls execution for evading detection. In
@@ -841,9 +841,9 @@ starting from Vista and above.&lt;/p&gt;
 &lt;h2&gt;Updates to the CryptoClippy Malware&lt;span class="hx:absolute hx:-mt-20" id="updates-to-the-cryptoclippy-malware"&gt;&lt;/span&gt;
 &lt;a href="#updates-to-the-cryptoclippy-malware" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The payload of the loader from the previous stage is CryptoClippy malware and
 the
-&lt;a href="https://analyze.intezer.com/files/d2c85de7c763e8d8990d06f78f226fda36443253c63678c7c0e998499f3af61a"target="_blank" rel="noopener"&gt;sample&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/d2c85de7c763e8d8990d06f78f226fda36443253c63678c7c0e998499f3af61a?utm_campaign=research-blog&amp;amp;utm_content=cryptoclippy-evolves-to-pilfer-more-financial-data&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;sample&lt;/a&gt;
 that we obtained
-&lt;a href="https://intezer.com/blog/malware-analysis/defining-genetic-malware-analysis/"target="_blank" rel="noopener"&gt;shares most of its code with the samples&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/malware-analysis/defining-genetic-malware-analysis/?utm_campaign=research-blog&amp;amp;utm_content=cryptoclippy-evolves-to-pilfer-more-financial-data&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;shares most of its code with the samples&lt;/a&gt;
 that were published in the previous report. While the main functionality of the
 malware stayed the same, there are several changes that we noticed.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
@@ -1073,6 +1073,6 @@ rapidly evolving menace effectively.&lt;/p&gt;
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=cryptoclippy-evolves-to-pilfer-more-financial-data&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item></channel></rss>

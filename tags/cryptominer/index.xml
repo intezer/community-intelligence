@@ -8,12 +8,12 @@ In 2019, we reported that Rocke Group was
 &lt;a href="../../../2019/05/technical-analysis-cryptocurrency-mining-war-on-the-cloud/"&gt;competing&lt;/a&gt;
 with Pacha Group for cryptomining positioning on Linux-based servers in the
 cloud. We have found a
-&lt;a href="https://analyze.intezer.com/files/fe27d4a8a5f299b0b25d10816e98cef2852af6dc3541bf25a77960b1573ca61d"target="_blank" rel="noopener"&gt;new malware variant&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/fe27d4a8a5f299b0b25d10816e98cef2852af6dc3541bf25a77960b1573ca61d?utm_campaign=research-blog&amp;amp;utm_content=rocke-group-actively-targeting-the-cloud-wants-your-ssh-keys&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;new malware variant&lt;/a&gt;
 developed by Rocke Group, that infects other machines in the network using
 saved SSH keys and weak passwords. It also exploits vulnerabilities in popular
 platforms and services such as Jenkins, Redis and ActiveMQ. Once the victim is
 infected a
-&lt;a href="https://analyze.intezer.com/files/398e3608455dbea2cba8e9944d9b43cbb0982b48b2882fe54adf937a7a62d9e2/sub/d10bf427-6cc9-41cb-bfae-7e12268f6f9e"target="_blank" rel="noopener"&gt;Monero cryptominer&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/398e3608455dbea2cba8e9944d9b43cbb0982b48b2882fe54adf937a7a62d9e2/sub/d10bf427-6cc9-41cb-bfae-7e12268f6f9e?utm_campaign=research-blog&amp;amp;utm_content=rocke-group-actively-targeting-the-cloud-wants-your-ssh-keys&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Monero cryptominer&lt;/a&gt;
 is executed. Below we present our findings with instructions on how to check if
 your system has been compromised, as well as how to protect your cloud
 environments against future Rocke Group attacks.&lt;/p&gt;
@@ -285,7 +285,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=rocke-group-actively-targeting-the-cloud-wants-your-ssh-keys&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Watch Your Containers: Doki Infecting Docker Servers in the Cloud</title><link>https://research.intezer.com/blog/2020/07/watch-your-containers-doki-infecting-docker-servers-in-the-cloud/</link><pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2020/07/watch-your-containers-doki-infecting-docker-servers-in-the-cloud/</guid><description>
 &lt;h2&gt;Key Findings&lt;span class="hx:absolute hx:-mt-20" id="key-findings"&gt;&lt;/span&gt;
@@ -463,7 +463,7 @@ immediately fix configuration to prevent exposure. This includes: Checking for
 any exposed ports, verifying there are no foregin or unknown containers among
 the existing containers, and monitoring excessive use of resources.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;We recommend you read our article,
-&lt;a href="https://intezer.com/blog/best-practices-for-securing-a-docker-runtime-environment/"target="_blank" rel="noopener"&gt;Best Practices for Securing a Docker Runtime Environment&lt;/a&gt;.
+&lt;a href="https://intezer.com/blog/best-practices-for-securing-a-docker-runtime-environment/?utm_campaign=research-blog&amp;amp;utm_content=watch-your-containers-doki-infecting-docker-servers-in-the-cloud&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Best Practices for Securing a Docker Runtime Environment&lt;/a&gt;.
 You can also run our
 &lt;a href="https://github.com/intezer/yara-rules/blob/master/Doki_Attack.yar"target="_blank" rel="noopener"&gt;YARA rule&lt;/a&gt;
 on your cloud servers to check if you have been infected by this campaign.&lt;/strong&gt;&lt;/p&gt;
@@ -487,7 +487,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=watch-your-containers-doki-infecting-docker-servers-in-the-cloud&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Technical Analysis: Pacha Group Competing against Rocke Group for Cryptocurrency Mining Foothold on the Cloud</title><link>https://research.intezer.com/blog/2019/05/technical-analysis-cryptocurrency-mining-war-on-the-cloud/</link><pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2019/05/technical-analysis-cryptocurrency-mining-war-on-the-cloud/</guid><description>
 &lt;p&gt;Pacha Group is a crypto-mining threat actor we at Intezer discovered and
@@ -703,6 +703,6 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=technical-analysis-cryptocurrency-mining-war-on-the-cloud&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item></channel></rss>

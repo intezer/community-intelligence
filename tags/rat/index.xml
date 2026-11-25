@@ -297,8 +297,8 @@ and adapters.&lt;/p&gt;
 &lt;h2&gt;Detect and Respond to Klingon RAT&lt;span class="hx:absolute hx:-mt-20" id="detect-and-respond-to-klingon-rat"&gt;&lt;/span&gt;
 &lt;a href="#detect-and-respond-to-klingon-rat" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Detect if your Windows machine or server has been compromised by Klingon RAT or
 any variant that reuses code using the Intezer Analyze
-&lt;a href="https://analyze.intezer.com/endpoint-analyses"target="_blank" rel="noopener"&gt;Live Endpoint Scanner&lt;/a&gt;
-available via the &lt;a href="https://intezer.com/pricing/"target="_blank" rel="noopener"&gt;enterprise edition&lt;/a&gt;. Running
+&lt;a href="https://analyze.intezer.com/endpoint-analyses?utm_campaign=research-blog&amp;amp;utm_content=klingon-rat-holding-on-for-dear-life&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Live Endpoint Scanner&lt;/a&gt;
+available via the &lt;a href="https://intezer.com/pricing/?utm_campaign=research-blog&amp;amp;utm_content=klingon-rat-holding-on-for-dear-life&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;enterprise edition&lt;/a&gt;. Running
 the scanner will classify all binary code residing in your machine&amp;rsquo;s memory.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
 &lt;img src="https://research.intezer.com/blog/2021/06/klingon-rat-holding-on-for-dear-life/images/fig21.png" title="Figure 21: Endpoint scan of an infected system" alt="" loading="lazy" /&gt;
@@ -431,7 +431,7 @@ the scanner will classify all binary code residing in your machine&amp;rsquo;s m
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=klingon-rat-holding-on-for-dear-life&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>HabitsRAT Used to Target Linux and Windows Servers</title><link>https://research.intezer.com/blog/2021/04/habitsrat-used-to-target-linux-and-windows-servers/</link><pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2021/04/habitsrat-used-to-target-linux-and-windows-servers/</guid><description>
 &lt;p&gt;We have discovered a new malware written in Go, which we are calling HabitsRAT,
@@ -810,7 +810,7 @@ actors pivot and target different operating systems with the same codebase for
 the malware, resulting in low or undetected malware samples, especially for
 Linux—which has a large presence in the cloud. Since the malware is derived
 from the same codebase, detection based on
-&lt;a href="https://analyze.intezer.com/files/338e41f1a8be56339b039835b06d815a3666c8b0d5725b63be7bf54c8745704a"target="_blank" rel="noopener"&gt;code reuse&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/338e41f1a8be56339b039835b06d815a3666c8b0d5725b63be7bf54c8745704a?utm_campaign=research-blog&amp;amp;utm_content=habitsrat-used-to-target-linux-and-windows-servers&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;code reuse&lt;/a&gt;
 has proven to be very effective.&lt;/p&gt;
 &lt;h2&gt;IoCs&lt;span class="hx:absolute hx:-mt-20" id="iocs"&gt;&lt;/span&gt;
 &lt;a href="#iocs" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Hashes&lt;span class="hx:absolute hx:-mt-20" id="hashes"&gt;&lt;/span&gt;
@@ -996,7 +996,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=habitsrat-used-to-target-linux-and-windows-servers&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Operation ElectroRAT: Attacker Creates Fake Companies to Drain Your Crypto Wallets</title><link>https://research.intezer.com/blog/2021/01/operation-electrorat-attacker-creates-fake-companies-to-drain-your-crypto-wallets/</link><pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2021/01/operation-electrorat-attacker-creates-fake-companies-to-drain-your-crypto-wallets/</guid><description>
 &lt;h2&gt;Intro&lt;span class="hx:absolute hx:-mt-20" id="intro"&gt;&lt;/span&gt;
@@ -1168,8 +1168,8 @@ as fake apps/websites and marketing/promotional efforts via relevant forums and
 social media.&lt;/p&gt;
 &lt;p&gt;ElectroRAT is the latest example of attackers using Golang to develop
 multi-platform malware. We touched upon this trend in the
-&lt;a href="https://intezer.com/blog/cloud-security/top-linux-cloud-threats-of-2020/"target="_blank" rel="noopener"&gt;Top Linux Cloud Threats of 2020&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://analyze.intezer.com/families/bf6fb1b6-b8d0-44f2-8d08-f1a6668dce29"target="_blank" rel="noopener"&gt;ElectroRAT&lt;/a&gt;&amp;rsquo;s
+&lt;a href="https://intezer.com/blog/cloud-security/top-linux-cloud-threats-of-2020/?utm_campaign=research-blog&amp;amp;utm_content=operation-electrorat-attacker-creates-fake-companies-to-drain-your-crypto-wallets&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Top Linux Cloud Threats of 2020&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://analyze.intezer.com/families/bf6fb1b6-b8d0-44f2-8d08-f1a6668dce29?utm_campaign=research-blog&amp;amp;utm_content=operation-electrorat-attacker-creates-fake-companies-to-drain-your-crypto-wallets&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;ElectroRAT&lt;/a&gt;&amp;rsquo;s
 PE and ELF versions are indexed in Intezer Analyze so that you can quickly
 classify any samples that are genetically similar.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://research.intezer.com/blog/2021/01/operation-electrorat-attacker-creates-fake-companies-to-drain-your-crypto-wallets/images/fig15.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
@@ -1293,7 +1293,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=operation-electrorat-attacker-creates-fake-companies-to-drain-your-crypto-wallets&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>APT37: Final1stspy Reaping the FreeMilk</title><link>https://research.intezer.com/blog/2018/10/apt37-final1stspy-reaping-the-freemilk/</link><pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2018/10/apt37-final1stspy-reaping-the-freemilk/</guid><description>
 &lt;p&gt;Researchers at Palo Alto Networks recently published a report regarding the
@@ -1380,7 +1380,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=apt37-final1stspy-reaping-the-freemilk&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>New Variants of Agent.BTZ/ComRAT Found: The Threat That Hit The Pentagon In 2008 Still Evolving; Part 2/2</title><link>https://research.intezer.com/blog/2017/09/new-variants-of-agent-btz-comrat-found-part-2/</link><pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2017/09/new-variants-of-agent-btz-comrat-found-part-2/</guid><description>
 &lt;p&gt;&lt;a href="../../../2017/08/new-variants-of-agent-btz-comrat-found/"&gt;Our previous blog&lt;/a&gt;
@@ -1675,7 +1675,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=new-variants-of-agent-btz-comrat-found-part-2&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>New Variants of Agent.BTZ/ComRAT Found: The Threat That Hit The Pentagon In 2008 Still Evolving; Part 1/2</title><link>https://research.intezer.com/blog/2017/08/new-variants-of-agent-btz-comrat-found/</link><pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2017/08/new-variants-of-agent-btz-comrat-found/</guid><description>
 &lt;p&gt;Agent.BTZ–also known as ComRAT–is one of the world’s oldest known
@@ -1890,6 +1890,6 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=new-variants-of-agent-btz-comrat-found&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item></channel></rss>

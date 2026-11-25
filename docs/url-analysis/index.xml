@@ -1,9 +1,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Intezer Research – URL Analysis 101</title><link>https://research.intezer.com/docs/url-analysis/</link><description>Recent content in URL Analysis 101 on Intezer Research</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://research.intezer.com/docs/url-analysis/index.xml" rel="self" type="application/rss+xml"/><item><title>A Beginner's Guide to Phishing URLs</title><link>https://research.intezer.com/docs/url-analysis/part1/</link><pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><guid>https://research.intezer.com/docs/url-analysis/part1/</guid><description>
 &lt;p&gt;&lt;strong&gt;October 2023 Update:&lt;/strong&gt; &lt;em&gt;Intezer analyzes all URLs that we collect as evidence
-for &lt;a href="https://intezer.com/pricing/"target="_blank" rel="noopener"&gt;automated alert triage&lt;/a&gt;, which now includes
-&lt;a href="https://intezer.com/reported-phishing/"target="_blank" rel="noopener"&gt;detecting and extracting QR codes for phishing email investigations.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+for &lt;a href="https://intezer.com/pricing/?utm_campaign=research-docs&amp;amp;utm_content=part1&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;automated alert triage&lt;/a&gt;, which now includes
+&lt;a href="https://intezer.com/reported-phishing/?utm_campaign=research-docs&amp;amp;utm_content=part1&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;detecting and extracting QR codes for phishing email investigations.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;At Intezer, we recently launched a URL analysis feature that will allow
-&lt;a href="https://intezer.com/blog/product-updates/automatically-scan-urls-and-analyze-malware/"target="_blank" rel="noopener"&gt;detecting phishing or malicious URLs.&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://intezer.com/blog/product-updates/automatically-scan-urls-and-analyze-malware/?utm_campaign=research-docs&amp;amp;utm_content=part1&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;detecting phishing or malicious URLs.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;To do so, we have multiple integrations with services such as URLscan and
 APIVoid, and additionally, we are adding in-house built tools and an update to
 public API so you can integrate Intezer into your organizations&amp;rsquo; phishing
@@ -175,7 +175,7 @@ that would raise the probability of the URL being connected to phishing.
 URL of the exercise, &lt;code&gt;http://securitycenter.microsoft.us.admin-mcas-gov.ms&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://research.intezer.com/docs/url-analysis/part1/images/fig2.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;URL Analysis -
-&lt;a href="https://analyze.intezer.com/url/5a70c8a2-2a7a-4f37-bfec-f82fcceca855"target="_blank" rel="noopener"&gt;https://analyze.intezer.com/url/5a70c8a2-2a7a-4f37-bfec-f82fcceca855&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;a href="https://analyze.intezer.com/url/5a70c8a2-2a7a-4f37-bfec-f82fcceca855?utm_campaign=research-docs&amp;amp;utm_content=part1&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;https://analyze.intezer.com/url/5a70c8a2-2a7a-4f37-bfec-f82fcceca855&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;Hacking the Browser&lt;span class="hx:absolute hx:-mt-20" id="hacking-the-browser"&gt;&lt;/span&gt;
 &lt;a href="#hacking-the-browser" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Next I would like to discuss a slightly different kind of manipulation, which
 is based on browser behavior. I put these in a different section because they
@@ -222,7 +222,7 @@ fashion:
 They way you get redirected to a page of the url service which shows you the
 intended URL.&lt;/li&gt;
 &lt;li&gt;Use a service like
-&lt;a href="https://analyze.intezer.com/?tab=url"target="_blank" rel="noopener"&gt;Intezer Analyze&lt;/a&gt; to scan the URL and
+&lt;a href="https://analyze.intezer.com/?tab=url&amp;amp;utm_campaign=research-docs&amp;amp;utm_content=part1&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer Analyze&lt;/a&gt; to scan the URL and
 get an analysis that tells you both what page the URL is redirecting to and
 if it is malicious.&lt;/li&gt;
 &lt;li&gt;Use an &amp;ldquo;un-shorten&amp;rdquo; URL service like
@@ -247,7 +247,7 @@ will leave this out of scope for this blog.&lt;/p&gt;</description></item><item>
 facing a large volume of potentially malicious URLs then other approaches that
 leverage automation (like machine learning) become critical.&lt;/p&gt;
 &lt;p&gt;At Intezer, we recently launched a
-&lt;a href="https://intezer.com/blog/product-updates/automatically-scan-urls-and-analyze-malware/"target="_blank" rel="noopener"&gt;URL scanning feature that will allow detecting phishing/malicious URLs&lt;/a&gt;.
+&lt;a href="https://intezer.com/blog/product-updates/automatically-scan-urls-and-analyze-malware/?utm_campaign=research-docs&amp;amp;utm_content=part2&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;URL scanning feature that will allow detecting phishing/malicious URLs&lt;/a&gt;.
 To do so, we have multiple integrations with services such as URLscan and
 APIVoid, and additionally, we are adding in-house built tools. We built our URL
 scanner to be capable of both automated use cases (adding a deeper layer of

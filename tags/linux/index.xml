@@ -1047,7 +1047,7 @@ multiple unrelated actor groups.&lt;/p&gt;
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=orbit-returns&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Threat Bulletin: Fire in the Woods – A New Variant of FireWood</title><link>https://research.intezer.com/blog/2025/08/threat-bulletin-firewood/</link><pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2025/08/threat-bulletin-firewood/</guid><description>
 &lt;p&gt;&lt;em&gt;A new and low-detected variant of the FireWood backdoor was discovered by
@@ -1191,7 +1191,7 @@ its code is identical to the one we analyzed:&lt;/p&gt;
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=threat-bulletin-firewood&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Detection Rules for Lightning Framework (and How to Make Them With Osquery)</title><link>https://research.intezer.com/blog/2022/08/lightning-framework-linux-detection-rules-osquery/</link><pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2022/08/lightning-framework-linux-detection-rules-osquery/</guid><description>
 &lt;p&gt;On 21 July, 2022, we released a blog post about a new malware called
@@ -1378,7 +1378,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=lightning-framework-linux-detection-rules-osquery&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Lightning Framework: New Undetected "Swiss Army Knife" Linux Malware ⚡</title><link>https://research.intezer.com/blog/2022/07/lightning-framework-new-linux-threat/</link><pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2022/07/lightning-framework-new-linux-threat/</guid><description>
 &lt;p&gt;&lt;em&gt;Lightning Framework is a new undetected Swiss Army Knife-like Linux malware
@@ -1732,15 +1732,15 @@ SentinelOne for their help during investigating this threat.&lt;/em&gt;&lt;/p&gt
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;Lightning.Downloader&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href="https://analyze.intezer.com/files/48f9471c20316b295704e6f8feb2196dd619799edec5835734fc24051f45c5b7"target="_blank" rel="noopener"&gt;&lt;code&gt;48f9471c20316b295704e6f8feb2196dd619799edec5835734fc24051f45c5b7&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://analyze.intezer.com/files/48f9471c20316b295704e6f8feb2196dd619799edec5835734fc24051f45c5b7?utm_campaign=research-blog&amp;amp;utm_content=lightning-framework-new-linux-threat&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;&lt;code&gt;48f9471c20316b295704e6f8feb2196dd619799edec5835734fc24051f45c5b7&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;Lightning.Core&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href="https://analyze.intezer.com/files/fd285c2fb4d42dde23590118dba016bf5b846625da3abdbe48773530a07bcd1e"target="_blank" rel="noopener"&gt;&lt;code&gt;fd285c2fb4d42dde23590118dba016bf5b846625da3abdbe48773530a07bcd1e&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://analyze.intezer.com/files/fd285c2fb4d42dde23590118dba016bf5b846625da3abdbe48773530a07bcd1e?utm_campaign=research-blog&amp;amp;utm_content=lightning-framework-new-linux-threat&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;&lt;code&gt;fd285c2fb4d42dde23590118dba016bf5b846625da3abdbe48773530a07bcd1e&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;Linux.Plugin.Lightning.Sshd&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href="https://analyze.intezer.com/files/ad16989a3ebf0b416681f8db31af098e02eabd25452f8d781383547ead395237"target="_blank" rel="noopener"&gt;&lt;code&gt;ad16989a3ebf0b416681f8db31af098e02eabd25452f8d781383547ead395237&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://analyze.intezer.com/files/ad16989a3ebf0b416681f8db31af098e02eabd25452f8d781383547ead395237?utm_campaign=research-blog&amp;amp;utm_content=lightning-framework-new-linux-threat&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;&lt;code&gt;ad16989a3ebf0b416681f8db31af098e02eabd25452f8d781383547ead395237&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1928,7 +1928,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=lightning-framework-new-linux-threat&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>OrBit: New Undetected Linux Threat Uses Unique Hijack of Execution Flow</title><link>https://research.intezer.com/blog/2022/07/orbit-new-undetected-linux-threat/</link><pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2022/07/orbit-new-undetected-linux-threat/</guid><description>
 &lt;p&gt;Linux is a popular operating system for servers and cloud infrastructures, and
@@ -2258,11 +2258,11 @@ persistent new malware can be.&lt;/p&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href="https://analyze.intezer.com/files/f1612924814ac73339f777b48b0de28b716d606e142d4d3f4308ec648e3f56c8"target="_blank" rel="noopener"&gt;&lt;code&gt;f1612924814ac73339f777b48b0de28b716d606e142d4d3f4308ec648e3f56c8&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://analyze.intezer.com/files/f1612924814ac73339f777b48b0de28b716d606e142d4d3f4308ec648e3f56c8?utm_campaign=research-blog&amp;amp;utm_content=orbit-new-undetected-linux-threat&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;&lt;code&gt;f1612924814ac73339f777b48b0de28b716d606e142d4d3f4308ec648e3f56c8&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Dropper&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href="https://analyze.intezer.com/files/40b5127c8cf9d6bec4dbeb61ba766a95c7b2d0cafafcb82ede5a3a679a3e3020"target="_blank" rel="noopener"&gt;&lt;code&gt;40b5127c8cf9d6bec4dbeb61ba766a95c7b2d0cafafcb82ede5a3a679a3e3020&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://analyze.intezer.com/files/40b5127c8cf9d6bec4dbeb61ba766a95c7b2d0cafafcb82ede5a3a679a3e3020?utm_campaign=research-blog&amp;amp;utm_content=orbit-new-undetected-linux-threat&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;&lt;code&gt;40b5127c8cf9d6bec4dbeb61ba766a95c7b2d0cafafcb82ede5a3a679a3e3020&lt;/code&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Payload&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -2270,7 +2270,7 @@ persistent new malware can be.&lt;/p&gt;
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=orbit-new-undetected-linux-threat&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Symbiote Deep-Dive: Analysis of a New, Nearly-Impossible-to-Detect Linux Threat</title><link>https://research.intezer.com/blog/2022/06/new-linux-threat-symbiote/</link><pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2022/06/new-linux-threat-symbiote/</guid><description>
 &lt;p&gt;&lt;em&gt;This research is a joint effort between Joakim Kennedy, Security Researcher at
@@ -2796,7 +2796,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=new-linux-threat-symbiote&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>TeamTNT Cryptomining Explosion 🧨</title><link>https://research.intezer.com/blog/2022/02/teamtnt-cryptomining-explosion/</link><pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2022/02/teamtnt-cryptomining-explosion/</guid><description>
 &lt;h2&gt;Zusammenfassung (Executive Summary)&lt;span class="hx:absolute hx:-mt-20" id="zusammenfassung-executive-summary"&gt;&lt;/span&gt;
@@ -3173,7 +3173,7 @@ released their report. At the time of the report the file had four detections.&l
 &lt;img src="https://research.intezer.com/blog/2022/02/teamtnt-cryptomining-explosion/images/fig30.png" title="Figure 29: Screenshot of dns script." alt="" loading="lazy" /&gt;
 &lt;figcaption&gt;Figure 29: Screenshot of dns script.&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;The init.sh script executes another script named &lt;strong&gt;dns&lt;/strong&gt;. Based on the architecture of the victim system, a tool called &lt;strong&gt;dns3&lt;/strong&gt; (&lt;a href="https://analyze.intezer.com/files/07377cac8687a4cde6e29bc00314c265c7ad71a6919de91f689b58efe07770b0"target="_blank" rel="noopener"&gt;link to analysis&lt;/a&gt;) is downloaded and masqueraded as part of systemd. Based on the code relation this is Tsunami. It has 32-bit and 64-bit versions, both versions which were submitted to VirusTotal on April 19, 2020. For more information check the Tools section.&lt;/p&gt;
+&lt;p&gt;The init.sh script executes another script named &lt;strong&gt;dns&lt;/strong&gt;. Based on the architecture of the victim system, a tool called &lt;strong&gt;dns3&lt;/strong&gt; (&lt;a href="https://analyze.intezer.com/files/07377cac8687a4cde6e29bc00314c265c7ad71a6919de91f689b58efe07770b0?utm_campaign=research-blog&amp;amp;utm_content=teamtnt-cryptomining-explosion&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;link to analysis&lt;/a&gt;) is downloaded and masqueraded as part of systemd. Based on the code relation this is Tsunami. It has 32-bit and 64-bit versions, both versions which were submitted to VirusTotal on April 19, 2020. For more information check the Tools section.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
 &lt;img src="https://research.intezer.com/blog/2022/02/teamtnt-cryptomining-explosion/images/fig31.png" title="Figure 30: Screenshot of dns3 in Intezer Analyze." alt="" loading="lazy" /&gt;
 &lt;figcaption&gt;Figure 30: Screenshot of dns3 in Intezer Analyze.&lt;/figcaption&gt;
@@ -3392,7 +3392,7 @@ section and it deletes the scripts immediately after their execution.&lt;/p&gt;
 steals cluster credentials, and &lt;a href="https://github.com/brompwnie/botb"target="_blank" rel="noopener"&gt;BOtB&lt;/a&gt;, a tool for performing a container breakout
 using known vulnerabilities.&lt;/p&gt;
 &lt;p&gt;To establish a connection with the Command and control (C2) server the malware
-used &lt;strong&gt;tmate&lt;/strong&gt; or the &lt;a href="https://analyze.intezer.com/files/74f122fb0059977167c5ed34a7e217d9dfe8e8199020e3fe19532be108a7d607"target="_blank" rel="noopener"&gt;Tsunami bot&lt;/a&gt;. It is unclear how the group decides which tool to
+used &lt;strong&gt;tmate&lt;/strong&gt; or the &lt;a href="https://analyze.intezer.com/files/74f122fb0059977167c5ed34a7e217d9dfe8e8199020e3fe19532be108a7d607?utm_campaign=research-blog&amp;amp;utm_content=teamtnt-cryptomining-explosion&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Tsunami bot&lt;/a&gt;. It is unclear how the group decides which tool to
 use.&lt;/p&gt;
 &lt;p&gt;In this campaign the Tsunami bot was packed using Ezuri in an attempt to evade
 detection. The process name of the bot was set to &amp;lsquo;bioset&amp;rsquo; to masquerade as a
@@ -3652,7 +3652,7 @@ and &lt;strong&gt;top&lt;/strong&gt;.&lt;/p&gt;
 terminal. It establishes a secure connection over SSH to the tmate.io website
 and generates a random URL for each session. The user can share the URL with
 other trusted users. Tmate supports all popular operating systems, including
-GNU/Linux, &lt;a href="https://intezer.com/blog/alert-triage/macos-automated-triage-with-intezer/"target="_blank" rel="noopener"&gt;macOS&lt;/a&gt;, and BSD systems.&lt;/p&gt;
+GNU/Linux, &lt;a href="https://intezer.com/blog/alert-triage/macos-automated-triage-with-intezer/?utm_campaign=research-blog&amp;amp;utm_content=teamtnt-cryptomining-explosion&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;macOS&lt;/a&gt;, and BSD systems.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
 &lt;img src="https://research.intezer.com/blog/2022/02/teamtnt-cryptomining-explosion/images/fig79.png" title="Figure 76: Screenshot from the official tmate site." alt="" loading="lazy" /&gt;
 &lt;figcaption&gt;Figure 76: Screenshot from the official tmate site.&lt;/figcaption&gt;
@@ -4545,7 +4545,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=teamtnt-cryptomining-explosion&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>New SysJoker Backdoor Targets Windows, Linux, and macOS</title><link>https://research.intezer.com/blog/2022/01/new-backdoor-sysjoker/</link><pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2022/01/new-backdoor-sysjoker/</guid><description>
 &lt;p&gt;Malware targeting multiple operating systems has become no exception in the
@@ -5011,7 +5011,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=new-backdoor-sysjoker&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Conducting Digital Forensics Incident Response (DFIR) on an Infected GitLab Server</title><link>https://research.intezer.com/blog/2021/11/dfir-infected-gitlab-server/</link><pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2021/11/dfir-infected-gitlab-server/</guid><description>
 &lt;h2&gt;GitLab servers are under attack with a now-patched critical vulnerability&lt;span class="hx:absolute hx:-mt-20" id="gitlab-servers-are-under-attack-with-a-now-patched-critical-vulnerability"&gt;&lt;/span&gt;
@@ -5046,7 +5046,7 @@ details about the malicious process:&lt;/p&gt;
 &lt;li&gt;EUID of the process is 998&lt;/li&gt;
 &lt;li&gt;The process connected to &lt;code&gt;172.96.190[.]95:904&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;The alert also
-&lt;a href="https://analyze.intezer.com/files/cd54a34dbd7d345a7fd7fd8744feb5c956825317e9225edb002c3258683947f1"target="_blank" rel="noopener"&gt;links&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/cd54a34dbd7d345a7fd7fd8744feb5c956825317e9225edb002c3258683947f1?utm_campaign=research-blog&amp;amp;utm_content=dfir-infected-gitlab-server&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;links&lt;/a&gt;
 to Intezer, which identifies the shellcode as a metasploit.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;During this time, the second alert appeared, shown below, notifying the user
@@ -5136,7 +5136,7 @@ Special thanks to Adir Shemesh.&lt;/p&gt;
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=dfir-infected-gitlab-server&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Vermilion Strike: Linux and Windows Re-implementation of Cobalt Strike</title><link>https://research.intezer.com/blog/2021/09/vermilionstrike-reimplementation-cobaltstrike/</link><pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2021/09/vermilionstrike-reimplementation-cobaltstrike/</guid><description>
 &lt;h2&gt;Key Findings&lt;span class="hx:absolute hx:-mt-20" id="key-findings"&gt;&lt;/span&gt;
@@ -5153,7 +5153,7 @@ is a popular red team tool for Windows which is also heavily used by threat
 actors. At the time of this writing, there is no official
 &lt;a href="https://blog.cobaltstrike.com/2016/03/23/linux-left-out-in-the-cold/"target="_blank" rel="noopener"&gt;Cobalt Strike version for Linux&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;In August 2021, we at Intezer discovered a
-&lt;a href="https://analyze.intezer.com/files/294b8db1f2702b60fb2e42fdc50c2cee6a5046112da9a5703a548a4fa50477bc"target="_blank" rel="noopener"&gt;fully undetected ELF implementation&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/294b8db1f2702b60fb2e42fdc50c2cee6a5046112da9a5703a548a4fa50477bc?utm_campaign=research-blog&amp;amp;utm_content=vermilionstrike-reimplementation-cobaltstrike&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;fully undetected ELF implementation&lt;/a&gt;
 of Cobalt Strike&amp;rsquo;s &lt;a href="https://www.cobaltstrike.com/help-beacon"target="_blank" rel="noopener"&gt;beacon&lt;/a&gt;, which we
 named &lt;strong&gt;Vermilion Strike&lt;/strong&gt;. The stealthy sample uses Cobalt Strike&amp;rsquo;s Command
 and Control (C2) protocol when communicating to the C2 server and has Remote
@@ -5313,7 +5313,7 @@ configuration decoding function for the ELF and DLL beacons is shown below.&lt;/
 &lt;p&gt;The DLL has the same domains as the ELF for C2, as well as an additional
 configured domain &lt;code&gt;amazon.hksupd[.]com&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;Using the stager we managed to get a new payload from the server
-(&lt;a href="https://analyze.intezer.com/files/e40370f463b4a4feb2d515a3fb64af1573523f03917b2fd9e7a9d0a741ef89a5"target="_blank" rel="noopener"&gt;e40370f463b4a4feb2d515a3fb64af1573523f03917b2fd9e7a9d0a741ef89a5&lt;/a&gt;).
+(&lt;a href="https://analyze.intezer.com/files/e40370f463b4a4feb2d515a3fb64af1573523f03917b2fd9e7a9d0a741ef89a5?utm_campaign=research-blog&amp;amp;utm_content=vermilionstrike-reimplementation-cobaltstrike&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;e40370f463b4a4feb2d515a3fb64af1573523f03917b2fd9e7a9d0a741ef89a5&lt;/a&gt;).
 It has a lot of shared code with the sample from 2019. This sample and another
 Windows version of Vermilion Strike
 (&lt;code&gt;c49631db0b2e41125ccade68a0fe7fb70939315f1c580510e40e5b30ead868f5&lt;/code&gt;) includes a
@@ -5329,7 +5329,7 @@ predominance of Linux servers in the cloud and its continued rise invites APTs
 to modify their toolsets in order to navigate the existing environment. Linux
 threats often have low detection rates compared to their Windows counterparts
 due to reasons discussed in
-&lt;a href="https://intezer.com/blog/malware-analysis/why-we-should-be-paying-more-attention-to-linux-threats/"target="_blank" rel="noopener"&gt;Why we Should be Paying More Attention to Linux Threats&lt;/a&gt;.&lt;/p&gt;
+&lt;a href="https://intezer.com/blog/malware-analysis/why-we-should-be-paying-more-attention-to-linux-threats/?utm_campaign=research-blog&amp;amp;utm_content=vermilionstrike-reimplementation-cobaltstrike&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Why we Should be Paying More Attention to Linux Threats&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Vermilion Strike is not the only Linux port of Cobalt Strike&amp;rsquo;s Beacon. Another
 example is the open-source project &lt;a href="https://github.com/darkr4y/geacon"target="_blank" rel="noopener"&gt;geacon&lt;/a&gt;,
 a Go-based implementation. Vermilion Strike may not be the last Linux
@@ -5343,14 +5343,14 @@ versions.&lt;/p&gt;
 &lt;figcaption&gt;Intezer verdict of Windows version of Vermilion Strike&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;Intezer
-&lt;a href="https://analyze.intezer.com/files/07b815cee2b85a41820cd8157a68f35aa1ed0aa5f4093b8cb79a1d645a16273f"target="_blank" rel="noopener"&gt;verdict&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/07b815cee2b85a41820cd8157a68f35aa1ed0aa5f4093b8cb79a1d645a16273f?utm_campaign=research-blog&amp;amp;utm_content=vermilionstrike-reimplementation-cobaltstrike&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;verdict&lt;/a&gt;
 of Windows version of Vermilion Strike.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
 &lt;img src="https://research.intezer.com/blog/2021/09/vermilionstrike-reimplementation-cobaltstrike/images/fig14.png" title="Intezer verdict of Linux version of Vermilion Strike" alt="" loading="lazy" /&gt;
 &lt;figcaption&gt;Intezer verdict of Linux version of Vermilion Strike&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;Intezer
-&lt;a href="https://analyze.intezer.com/files/294b8db1f2702b60fb2e42fdc50c2cee6a5046112da9a5703a548a4fa50477bc"target="_blank" rel="noopener"&gt;verdict&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/294b8db1f2702b60fb2e42fdc50c2cee6a5046112da9a5703a548a4fa50477bc?utm_campaign=research-blog&amp;amp;utm_content=vermilionstrike-reimplementation-cobaltstrike&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;verdict&lt;/a&gt;
 of Linux version of Vermilion Strike.&lt;/p&gt;
 &lt;h3&gt;Detect if a Machine in Your Network Has Been Compromised&lt;span class="hx:absolute hx:-mt-20" id="detect-if-a-machine-in-your-network-has-been-compromised"&gt;&lt;/span&gt;
 &lt;a href="#detect-if-a-machine-in-your-network-has-been-compromised" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;We recommend using the IoCs section below to ensure that the Vermilion Strike
@@ -5384,7 +5384,7 @@ process.&lt;/em&gt;&lt;/p&gt;
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=vermilionstrike-reimplementation-cobaltstrike&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>HabitsRAT Used to Target Linux and Windows Servers</title><link>https://research.intezer.com/blog/2021/04/habitsrat-used-to-target-linux-and-windows-servers/</link><pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2021/04/habitsrat-used-to-target-linux-and-windows-servers/</guid><description>
 &lt;p&gt;We have discovered a new malware written in Go, which we are calling HabitsRAT,
@@ -5763,7 +5763,7 @@ actors pivot and target different operating systems with the same codebase for
 the malware, resulting in low or undetected malware samples, especially for
 Linux—which has a large presence in the cloud. Since the malware is derived
 from the same codebase, detection based on
-&lt;a href="https://analyze.intezer.com/files/338e41f1a8be56339b039835b06d815a3666c8b0d5725b63be7bf54c8745704a"target="_blank" rel="noopener"&gt;code reuse&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/338e41f1a8be56339b039835b06d815a3666c8b0d5725b63be7bf54c8745704a?utm_campaign=research-blog&amp;amp;utm_content=habitsrat-used-to-target-linux-and-windows-servers&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;code reuse&lt;/a&gt;
 has proven to be very effective.&lt;/p&gt;
 &lt;h2&gt;IoCs&lt;span class="hx:absolute hx:-mt-20" id="iocs"&gt;&lt;/span&gt;
 &lt;a href="#iocs" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Hashes&lt;span class="hx:absolute hx:-mt-20" id="hashes"&gt;&lt;/span&gt;
@@ -5949,7 +5949,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=habitsrat-used-to-target-linux-and-windows-servers&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Rocke Group Actively Targeting the Cloud: Wants Your SSH Keys</title><link>https://research.intezer.com/blog/2021/04/rocke-group-actively-targeting-the-cloud-wants-your-ssh-keys/</link><pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2021/04/rocke-group-actively-targeting-the-cloud-wants-your-ssh-keys/</guid><description>
 &lt;h2&gt;New Malware Variant Exploits Production Environment&lt;span class="hx:absolute hx:-mt-20" id="new-malware-variant-exploits-production-environment"&gt;&lt;/span&gt;
@@ -5961,12 +5961,12 @@ In 2019, we reported that Rocke Group was
 &lt;a href="../../../2019/05/technical-analysis-cryptocurrency-mining-war-on-the-cloud/"&gt;competing&lt;/a&gt;
 with Pacha Group for cryptomining positioning on Linux-based servers in the
 cloud. We have found a
-&lt;a href="https://analyze.intezer.com/files/fe27d4a8a5f299b0b25d10816e98cef2852af6dc3541bf25a77960b1573ca61d"target="_blank" rel="noopener"&gt;new malware variant&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/fe27d4a8a5f299b0b25d10816e98cef2852af6dc3541bf25a77960b1573ca61d?utm_campaign=research-blog&amp;amp;utm_content=rocke-group-actively-targeting-the-cloud-wants-your-ssh-keys&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;new malware variant&lt;/a&gt;
 developed by Rocke Group, that infects other machines in the network using
 saved SSH keys and weak passwords. It also exploits vulnerabilities in popular
 platforms and services such as Jenkins, Redis and ActiveMQ. Once the victim is
 infected a
-&lt;a href="https://analyze.intezer.com/files/398e3608455dbea2cba8e9944d9b43cbb0982b48b2882fe54adf937a7a62d9e2/sub/d10bf427-6cc9-41cb-bfae-7e12268f6f9e"target="_blank" rel="noopener"&gt;Monero cryptominer&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/398e3608455dbea2cba8e9944d9b43cbb0982b48b2882fe54adf937a7a62d9e2/sub/d10bf427-6cc9-41cb-bfae-7e12268f6f9e?utm_campaign=research-blog&amp;amp;utm_content=rocke-group-actively-targeting-the-cloud-wants-your-ssh-keys&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Monero cryptominer&lt;/a&gt;
 is executed. Below we present our findings with instructions on how to check if
 your system has been compromised, as well as how to protect your cloud
 environments against future Rocke Group attacks.&lt;/p&gt;
@@ -6238,12 +6238,12 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=rocke-group-actively-targeting-the-cloud-wants-your-ssh-keys&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Early Bird Catches the Worm: New Golang Worm Drops XMRig Miner on Servers</title><link>https://research.intezer.com/blog/2020/12/new-golang-worm-drops-xmrig-miner-on-servers/</link><pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2020/12/new-golang-worm-drops-xmrig-miner-on-servers/</guid><description>
 &lt;p&gt;In early December, we discovered a new, undetected worm written in Golang. This
 worm continues the popular
-&lt;a href="https://intezer.com/blog/cloud-security/top-linux-cloud-threats-of-2020/"target="_blank" rel="noopener"&gt;2020 trend&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/cloud-security/top-linux-cloud-threats-of-2020/?utm_campaign=research-blog&amp;amp;utm_content=new-golang-worm-drops-xmrig-miner-on-servers&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;2020 trend&lt;/a&gt;
 of multi-platform malware developed in Golang.&lt;/p&gt;
 &lt;p&gt;The worm attempts to spread across the network in order to run XMRig Miner on a
 large scale. The malware targets both Windows and Linux servers and can easily
@@ -6420,14 +6420,14 @@ Authentication) if possible.&lt;/li&gt;
 &lt;h2&gt;Summary of Golang Malware&lt;span class="hx:absolute hx:-mt-20" id="summary-of-golang-malware"&gt;&lt;/span&gt;
 &lt;a href="#summary-of-golang-malware" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;In 2020, we saw a noticeable trend of Golang malware targeting different
 platforms, including Windows, Linux, Mac and
-&lt;a href="https://intezer.com/blog/malware-analysis/now-supporting-genetic-malware-analysis-for-android-applications/"target="_blank" rel="noopener"&gt;Android&lt;/a&gt;.
+&lt;a href="https://intezer.com/blog/malware-analysis/now-supporting-genetic-malware-analysis-for-android-applications/?utm_campaign=research-blog&amp;amp;utm_content=new-golang-worm-drops-xmrig-miner-on-servers&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Android&lt;/a&gt;.
 We assess with high confidence that this will continue in 2021.&lt;/p&gt;
 &lt;p&gt;The fact that the worm’s code is nearly identical for both its PE and ELF
 malware—and the ELF malware going undetected in VirusTotal—demonstrates that
 Linux threats are still flying under the radar for most security and detection
 platforms.&lt;/p&gt;
 &lt;p&gt;Both PE and ELF worms are now classified as XMRig Miner Dropper in
-&lt;a href="http://analyze.intezer.com/"target="_blank" rel="noopener"&gt;Intezer Analyze&lt;/a&gt;, which means you can detect and
+&lt;a href="http://analyze.intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=new-golang-worm-drops-xmrig-miner-on-servers&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer Analyze&lt;/a&gt;, which means you can detect and
 classify any variants that are genetically similar.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://research.intezer.com/blog/2020/12/new-golang-worm-drops-xmrig-miner-on-servers/images/fig11.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Special thanks to Joakim Kennedy for his contribution to this research.&lt;/strong&gt;&lt;/p&gt;
@@ -6579,7 +6579,7 @@ classify any variants that are genetically similar.&lt;/p&gt;
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=new-golang-worm-drops-xmrig-miner-on-servers&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Stantinko's Proxy After Your Apache Server</title><link>https://research.intezer.com/blog/2020/11/stantinkos-proxy-after-your-apache-server/</link><pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2020/11/stantinkos-proxy-after-your-apache-server/</guid><description>
 &lt;h2&gt;Intro&lt;span class="hx:absolute hx:-mt-20" id="intro"&gt;&lt;/span&gt;
@@ -6770,7 +6770,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=stantinkos-proxy-after-your-apache-server&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>A Storm is Brewing: IPStorm Now Has Linux Malware</title><link>https://research.intezer.com/blog/2020/10/a-storm-is-brewing-ipstorm-now-has-linux-malware/</link><pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2020/10/a-storm-is-brewing-ipstorm-now-has-linux-malware/</guid><description>
 &lt;h2&gt;UPDATE NOVEMBER 2023: IPStorm Infrastructure Dismantled by FBI&lt;span class="hx:absolute hx:-mt-20" id="update-november-2023-ipstorm-infrastructure-dismantled-by-fbi"&gt;&lt;/span&gt;
@@ -6786,7 +6786,7 @@ to infect Linux, Mac, and Android devices around the world.&lt;/p&gt;
 &lt;a href="#a-storm-is-brewing" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The development of cross-platform malware is not new, however, we continue to
 observe a number of malware that were previously documented only targeting
 Windows now
-&lt;a href="https://intezer.com/blog/looking-back-on-the-last-decade-of-linux-apt-attacks/"target="_blank" rel="noopener"&gt;targeting the Linux platform&lt;/a&gt;.
+&lt;a href="https://intezer.com/blog/looking-back-on-the-last-decade-of-linux-apt-attacks/?utm_campaign=research-blog&amp;amp;utm_content=a-storm-is-brewing-ipstorm-now-has-linux-malware&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;targeting the Linux platform&lt;/a&gt;.
 One of these threats is IPStorm.&lt;/p&gt;
 &lt;p&gt;In May 2019, researchers from
 &lt;a href="https://www.anomali.com/blog/the-interplanetary-storm-new-malware-in-wild-using-interplanetary-file-systems-ipfs-p2p-network"target="_blank" rel="noopener"&gt;Anomali&lt;/a&gt;
@@ -7279,7 +7279,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=a-storm-is-brewing-ipstorm-now-has-linux-malware&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Watch Your Containers: Doki Infecting Docker Servers in the Cloud</title><link>https://research.intezer.com/blog/2020/07/watch-your-containers-doki-infecting-docker-servers-in-the-cloud/</link><pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2020/07/watch-your-containers-doki-infecting-docker-servers-in-the-cloud/</guid><description>
 &lt;h2&gt;Key Findings&lt;span class="hx:absolute hx:-mt-20" id="key-findings"&gt;&lt;/span&gt;
@@ -7457,7 +7457,7 @@ immediately fix configuration to prevent exposure. This includes: Checking for
 any exposed ports, verifying there are no foregin or unknown containers among
 the existing containers, and monitoring excessive use of resources.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;We recommend you read our article,
-&lt;a href="https://intezer.com/blog/best-practices-for-securing-a-docker-runtime-environment/"target="_blank" rel="noopener"&gt;Best Practices for Securing a Docker Runtime Environment&lt;/a&gt;.
+&lt;a href="https://intezer.com/blog/best-practices-for-securing-a-docker-runtime-environment/?utm_campaign=research-blog&amp;amp;utm_content=watch-your-containers-doki-infecting-docker-servers-in-the-cloud&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Best Practices for Securing a Docker Runtime Environment&lt;/a&gt;.
 You can also run our
 &lt;a href="https://github.com/intezer/yara-rules/blob/master/Doki_Attack.yar"target="_blank" rel="noopener"&gt;YARA rule&lt;/a&gt;
 on your cloud servers to check if you have been infected by this campaign.&lt;/strong&gt;&lt;/p&gt;
@@ -7481,7 +7481,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=watch-your-containers-doki-infecting-docker-servers-in-the-cloud&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Kaiji: New Chinese Linux malware turning to Golang</title><link>https://research.intezer.com/blog/2020/05/kaiji-new-chinese-linux-malware-turning-to-golang/</link><pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2020/05/kaiji-new-chinese-linux-malware-turning-to-golang/</guid><description>
 &lt;p&gt;It is not often that you see a botnet&amp;rsquo;s tooling written from scratch. The
@@ -7604,7 +7604,7 @@ noted by vendors
 that malware developers are turning to modern languages such as Golang for
 their operations.&lt;/p&gt;
 &lt;p&gt;The Kaiji samples are now
-&lt;a href="https://analyze.intezer.com/files/9f090a241eec74a69e06a5ffed876c7a37a2ff31e171924673b6bb5f1552814c"target="_blank" rel="noopener"&gt;indexed in Intezer Analyze&lt;/a&gt;.
+&lt;a href="https://analyze.intezer.com/files/9f090a241eec74a69e06a5ffed876c7a37a2ff31e171924673b6bb5f1552814c?utm_campaign=research-blog&amp;amp;utm_content=kaiji-new-chinese-linux-malware-turning-to-golang&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;indexed in Intezer Analyze&lt;/a&gt;.
 Powered by our new Golang cross platform code connections, users will be able
 to easily spot if this threat actor switches to Windows.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://research.intezer.com/blog/2020/05/kaiji-new-chinese-linux-malware-turning-to-golang/images/fig9.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
@@ -7637,7 +7637,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=kaiji-new-chinese-linux-malware-turning-to-golang&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Fantastic payloads and where we find them</title><link>https://research.intezer.com/blog/2020/03/fantastic-payloads-and-where-we-find-them/</link><pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2020/03/fantastic-payloads-and-where-we-find-them/</guid><description>
 &lt;p&gt;Attackers have long used evasion features in their malware to avoid detection
@@ -7822,7 +7822,7 @@ just a different version of the same thing.&lt;/p&gt;
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=fantastic-payloads-and-where-we-find-them&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Linux Rekoobe Operating with New, Undetected Malware Samples</title><link>https://research.intezer.com/blog/2020/01/linux-rekoobe-operating-with-new-undetected-malware-samples/</link><pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2020/01/linux-rekoobe-operating-with-new-undetected-malware-samples/</guid><description>
 &lt;h2&gt;Introduction&lt;span class="hx:absolute hx:-mt-20" id="introduction"&gt;&lt;/span&gt;
@@ -7995,7 +7995,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=linux-rekoobe-operating-with-new-undetected-malware-samples&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>ACBackdoor: Analysis of a New Multiplatform Backdoor</title><link>https://research.intezer.com/blog/2019/11/acbackdoor-analysis-of-a-new-multiplatform-backdoor/</link><pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2019/11/acbackdoor-analysis-of-a-new-multiplatform-backdoor/</guid><description>
 &lt;h2&gt;Introduction&lt;span class="hx:absolute hx:-mt-20" id="introduction"&gt;&lt;/span&gt;
@@ -8210,7 +8210,7 @@ lower detection rates than Windows.&lt;/p&gt;
 &lt;p&gt;The binary code from both ACBackdoor implants have been indexed in Intezer
 Analyze. Users can now detect and classify Linux and Windows variants of this
 threat by uploading their suspicious file(s) or scanning the code running in
-their endpoint via &lt;a href="https://analyze.intezer.com/#/"target="_blank" rel="noopener"&gt;analyze.intezer.com&lt;/a&gt;.&lt;/p&gt;
+their endpoint via &lt;a href="https://analyze.intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=acbackdoor-analysis-of-a-new-multiplatform-backdoor&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com#/"target="_blank" rel="noopener"&gt;analyze.intezer.com&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;IOCs&lt;span class="hx:absolute hx:-mt-20" id="iocs"&gt;&lt;/span&gt;
 &lt;a href="#iocs" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
 &lt;div&gt;&lt;pre&gt;&lt;code&gt;5d51dbf649d34cd6927efdb6ef082f27a6ccb25a92e892800c583a881bbf9415
@@ -8231,7 +8231,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=acbackdoor-analysis-of-a-new-multiplatform-backdoor&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>PureLocker: New Ransomware-as-a-Service Being Used in Targeted Attacks Against Servers</title><link>https://research.intezer.com/blog/2019/11/purelocker-ransomware-being-used-in-targeted-attacks-against-servers/</link><pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2019/11/purelocker-ransomware-being-used-in-targeted-attacks-against-servers/</guid><description>
 &lt;p&gt;&lt;em&gt;Analysis by Intezer and IBM X-Force points its origins to a
@@ -8411,7 +8411,7 @@ classification. It twists the usage of any previously used code, even code for
 effective evasion and anti-analysis, into a reliable indicator for detection.&lt;/p&gt;
 &lt;p&gt;The PureLocker ransomware is now indexed in Intezer&amp;rsquo;s code genome database and
 the genetic analysis of its samples
-&lt;a href="https://analyze.intezer.com/#/files/c592c52381d43a6604b3fc657c5dc6bee61aa288bfa37e8fc54140841267338d"target="_blank" rel="noopener"&gt;can be viewed in Intezer Analyze&lt;/a&gt;.&lt;/p&gt;
+&lt;a href="https://analyze.intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=purelocker-ransomware-being-used-in-targeted-attacks-against-servers&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com#/files/c592c52381d43a6604b3fc657c5dc6bee61aa288bfa37e8fc54140841267338d"target="_blank" rel="noopener"&gt;can be viewed in Intezer Analyze&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Intezer would like to thank IBM&amp;rsquo;s X-Force IRIS team for its collaboration on
 this mutual research. For more information, check out
 &lt;a href="https://exchange.xforce.ibmcloud.com/collection/New-Ransomware-Available-for-Targeted-Attacks-99c7156cff70e1d8e1687ab7dadc8c0e"target="_blank" rel="noopener"&gt;IBM&amp;rsquo;s X-Force exchange collection related to this threat&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
@@ -8433,7 +8433,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=purelocker-ransomware-being-used-in-targeted-attacks-against-servers&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Russian Cybercrime Group FullofDeep Behind QNAPCrypt Ransomware Campaigns</title><link>https://research.intezer.com/blog/2019/09/russian-cybercrime-group-fullofdeep-behind-qnapcrypt-ransomware-campaigns/</link><pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2019/09/russian-cybercrime-group-fullofdeep-behind-qnapcrypt-ransomware-campaigns/</guid><description>
 &lt;h2&gt;Introduction&lt;span class="hx:absolute hx:-mt-20" id="introduction"&gt;&lt;/span&gt;
@@ -8494,11 +8494,11 @@ instance.&lt;/p&gt;
 &lt;p&gt;In addition, both the original and new QNAPCrypt samples are indexed in Intezer
 Analyze&amp;rsquo;s code genome database. If you have a suspicious file that you suspect
 to be QNAPCrypt, you can upload it to the free
-&lt;a href="https://analyze.intezer.com/#/"target="_blank" rel="noopener"&gt;Intezer Analyze community edition&lt;/a&gt; in order to
+&lt;a href="https://analyze.intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=russian-cybercrime-group-fullofdeep-behind-qnapcrypt-ransomware-campaigns&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com#/"target="_blank" rel="noopener"&gt;Intezer Analyze community edition&lt;/a&gt; in order to
 view the verdict, code and string reuse, and more.&lt;/p&gt;
 &lt;p&gt;Please refer to the &lt;strong&gt;mitigation recommendations&lt;/strong&gt; section in our blog post
 titled,
-&lt;a href="https://intezer.com/blog-why-we-should-be-paying-more-attention-to-linux-threats/"target="_blank" rel="noopener"&gt;Why we Should be Paying More Attention to Linux Threats&lt;/a&gt;,
+&lt;a href="https://intezer.com/blog-why-we-should-be-paying-more-attention-to-linux-threats/?utm_campaign=research-blog&amp;amp;utm_content=russian-cybercrime-group-fullofdeep-behind-qnapcrypt-ransomware-campaigns&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Why we Should be Paying More Attention to Linux Threats&lt;/a&gt;,
 for best practices Linux users can adopt in order to mitigate the threats posed
 by QNAPCrypt and other Linux-based threats.&lt;/p&gt;
 &lt;h2&gt;IOCs&lt;span class="hx:absolute hx:-mt-20" id="iocs"&gt;&lt;/span&gt;
@@ -8519,7 +8519,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=russian-cybercrime-group-fullofdeep-behind-qnapcrypt-ransomware-campaigns&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Watching the WatchBog: New BlueKeep Scanner and Linux Exploits</title><link>https://research.intezer.com/blog/2019/07/watching-the-watchbog-new-bluekeep-scanner-and-linux-exploits/</link><pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2019/07/watching-the-watchbog-new-bluekeep-scanner-and-linux-exploits/</guid><description>
 &lt;ul&gt;
@@ -8567,7 +8567,7 @@ functionalities as of late.&lt;/p&gt;
 &lt;p&gt;After uploading this file to Intezer Analyze we can immediately see that it
 shares code with WatchBog, before even beginning to reverse engineer the file:&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://research.intezer.com/blog/2019/07/watching-the-watchbog-new-bluekeep-scanner-and-linux-exploits/images/fig2.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;a href="https://analyze.intezer.com/#/files/b17829d758e8689143456240ebd79b420f963722707246f5dc9b085a411f7b5e"target="_blank" rel="noopener"&gt;Intezer Analyze analysis&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href="https://analyze.intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=watching-the-watchbog-new-bluekeep-scanner-and-linux-exploits&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com#/files/b17829d758e8689143456240ebd79b420f963722707246f5dc9b085a411f7b5e"target="_blank" rel="noopener"&gt;Intezer Analyze analysis&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;While investigating this new spreader module, we discovered a flaw with its
 design that allowed us to stage a &amp;lsquo;man-in-the-middle&amp;rsquo; attack, to help us
 analyze the binary. We provide an analysis of this module in the technical
@@ -8770,7 +8770,7 @@ based on WatchBog&amp;rsquo;s malicious code for detecting this threat.&lt;/li&g
 &lt;a href="#genetic-analysis" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;WatchBog is indexed in Intezer&amp;rsquo;s genetic database. If you have a suspicious
 file that you suspect to be WatchBog, you can upload it to Intezer Analyze in
 order to detect code reuse to this malware family. You are welcome to
-&lt;a href="https://analyze.intezer.com/#/"target="_blank" rel="noopener"&gt;try it in our free community edition&lt;/a&gt;.&lt;/p&gt;
+&lt;a href="https://analyze.intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=watching-the-watchbog-new-bluekeep-scanner-and-linux-exploits&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com#/"target="_blank" rel="noopener"&gt;try it in our free community edition&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://research.intezer.com/blog/2019/07/watching-the-watchbog-new-bluekeep-scanner-and-linux-exploits/images/fig21.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
 &lt;h2&gt;IOCs&lt;span class="hx:absolute hx:-mt-20" id="iocs"&gt;&lt;/span&gt;
 &lt;a href="#iocs" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
@@ -8803,7 +8803,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=watching-the-watchbog-new-bluekeep-scanner-and-linux-exploits&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>EvilGnome: Rare Malware Spying on Linux Desktop Users</title><link>https://research.intezer.com/blog/2019/07/evilgnome-rare-malware-spying-on-linux-desktop-users/</link><pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2019/07/evilgnome-rare-malware-spying-on-linux-desktop-users/</guid><description>
 &lt;h2&gt;Introduction&lt;span class="hx:absolute hx:-mt-20" id="introduction"&gt;&lt;/span&gt;
@@ -8948,7 +8948,7 @@ main executable &lt;code&gt;gnome-shell-ext&lt;/code&gt;:&lt;/p&gt;
 never seen before by the system:&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://research.intezer.com/blog/2019/07/evilgnome-rare-malware-spying-on-linux-desktop-users/images/fig10.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Figure 8:
-&lt;a href="https://analyze.intezer.com/#/analyses/8db39fae-8f82-42b2-9816-b353a7dbb16b"target="_blank" rel="noopener"&gt;Intezer Analyze report of the Spy Agent sample&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;a href="https://analyze.intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=evilgnome-rare-malware-spying-on-linux-desktop-users&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com#/analyses/8db39fae-8f82-42b2-9816-b353a7dbb16b"target="_blank" rel="noopener"&gt;Intezer Analyze report of the Spy Agent sample&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;This large amount of unique genes located within this file is not a trend we
 regularly see in Linux files and therefore it seems suspicious.&lt;/p&gt;
 &lt;p&gt;The Spy Agent was built in C++, using classes with an object oriented
@@ -9073,10 +9073,10 @@ into the group&amp;rsquo;s operations.&lt;/p&gt;
 you have a suspicious file that you suspect to be EvilGnome, you can upload it
 to Intezer Analyze in order to detect code reuse to this threat family and many
 others. You are welcome to
-&lt;a href="https://analyze.intezer.com/#/"target="_blank" rel="noopener"&gt;try it for free in our community edition&lt;/a&gt;.&lt;/p&gt;
+&lt;a href="https://analyze.intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=evilgnome-rare-malware-spying-on-linux-desktop-users&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com#/"target="_blank" rel="noopener"&gt;try it for free in our community edition&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://research.intezer.com/blog/2019/07/evilgnome-rare-malware-spying-on-linux-desktop-users/images/fig20.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Figure 18:
-&lt;a href="https://analyze.intezer.com/#/analyses/eeec2273-82ac-4190-b434-8ffb304deeef"target="_blank" rel="noopener"&gt;Intezer Analyze report of the Spy Agent sample&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;a href="https://analyze.intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=evilgnome-rare-malware-spying-on-linux-desktop-users&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com#/analyses/eeec2273-82ac-4190-b434-8ffb304deeef"target="_blank" rel="noopener"&gt;Intezer Analyze report of the Spy Agent sample&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;IOCs&lt;span class="hx:absolute hx:-mt-20" id="iocs"&gt;&lt;/span&gt;
 &lt;a href="#iocs" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;EvilGnome&lt;span class="hx:absolute hx:-mt-20" id="evilgnome"&gt;&lt;/span&gt;
 &lt;a href="#evilgnome" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
@@ -9115,7 +9115,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=evilgnome-rare-malware-spying-on-linux-desktop-users&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>How We Seized 15 Active Ransomware Campaigns Targeting Linux File Storage Servers</title><link>https://research.intezer.com/blog/2019/07/seizing-15-active-ransomware-campaigns-targeting-linux-file-storage-servers/</link><pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2019/07/seizing-15-active-ransomware-campaigns-targeting-linux-file-storage-servers/</guid><description>
 &lt;h2&gt;Introduction&lt;span class="hx:absolute hx:-mt-20" id="introduction"&gt;&lt;/span&gt;
@@ -9140,8 +9140,8 @@ this malware to deploy new instances. Lastly, we will present a detailed
 technical analysis of the malware and the investigation of the entire campaign.&lt;/p&gt;
 &lt;p&gt;For reference, here is the genetic analysis of the QNAPCrypt malware:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://analyze.intezer.com/#/files/3d7ebe73319a3435293838296fbb86c2e920fd0ccc9169285cc2c4d7fa3f120d"target="_blank" rel="noopener"&gt;ARM variant&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://analyze.intezer.com/#/files/076a6fa4e051c061e19b9e3e37da9c63a9bc7c1a99111ac13b32eb2f70b7fa5c"target="_blank" rel="noopener"&gt;x86 variant&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://analyze.intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=seizing-15-active-ransomware-campaigns-targeting-linux-file-storage-servers&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com#/files/3d7ebe73319a3435293838296fbb86c2e920fd0ccc9169285cc2c4d7fa3f120d"target="_blank" rel="noopener"&gt;ARM variant&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://analyze.intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=seizing-15-active-ransomware-campaigns-targeting-linux-file-storage-servers&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com#/files/076a6fa4e051c061e19b9e3e37da9c63a9bc7c1a99111ac13b32eb2f70b7fa5c"target="_blank" rel="noopener"&gt;x86 variant&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;figure&gt;
 &lt;img src="https://research.intezer.com/blog/2019/07/seizing-15-active-ransomware-campaigns-targeting-linux-file-storage-servers/images/fig1.png" title="QNAPCrypt malware" alt="" loading="lazy" /&gt;
@@ -9196,7 +9196,7 @@ implants in order to circumvent this design flaw in their infrastructure to
 continue with their malicious operations.&lt;/p&gt;
 &lt;p&gt;After several days of continuously DoS&amp;rsquo;ing their infrastructure, we have
 observed a newer variant in the wild that
-&lt;a href="https://analyze.intezer.com/#/files/076a6fa4e051c061e19b9e3e37da9c63a9bc7c1a99111ac13b32eb2f70b7fa5c"target="_blank" rel="noopener"&gt;shares a significant amount of code&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=seizing-15-active-ransomware-campaigns-targeting-linux-file-storage-servers&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com#/files/076a6fa4e051c061e19b9e3e37da9c63a9bc7c1a99111ac13b32eb2f70b7fa5c"target="_blank" rel="noopener"&gt;shares a significant amount of code&lt;/a&gt;
 with previous QNAPCrypt instances and Linux.Rex. This time, the newer variant
 uses an embedded static wallet and RSA public key in contrast to previous
 instances.&lt;/p&gt;
@@ -9455,7 +9455,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=seizing-15-active-ransomware-campaigns-targeting-linux-file-storage-servers&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>HiddenWasp Malware Stings Targeted Linux Systems</title><link>https://research.intezer.com/blog/2019/05/hiddenwasp-malware-targeting-linux-systems/</link><pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2019/05/hiddenwasp-malware-targeting-linux-systems/</guid><description>
 &lt;h2&gt;Overview&lt;span class="hx:absolute hx:-mt-20" id="overview"&gt;&lt;/span&gt;
@@ -9803,7 +9803,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=hiddenwasp-malware-targeting-linux-systems&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Technical Analysis: Pacha Group Competing against Rocke Group for Cryptocurrency Mining Foothold on the Cloud</title><link>https://research.intezer.com/blog/2019/05/technical-analysis-cryptocurrency-mining-war-on-the-cloud/</link><pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2019/05/technical-analysis-cryptocurrency-mining-war-on-the-cloud/</guid><description>
 &lt;p&gt;Pacha Group is a crypto-mining threat actor we at Intezer discovered and
@@ -10019,7 +10019,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=technical-analysis-cryptocurrency-mining-war-on-the-cloud&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Technical Analysis: Pacha Group Deploying Undetected Cryptojacking Campaigns on Linux Servers</title><link>https://research.intezer.com/blog/2019/02/technical-analysis-pacha-group/</link><pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2019/02/technical-analysis-pacha-group/</guid><description>
 &lt;h2&gt;Introduction&lt;span class="hx:absolute hx:-mt-20" id="introduction"&gt;&lt;/span&gt;
@@ -10048,7 +10048,7 @@ Linux.GreedyAntd and classified the threat actor as &lt;strong&gt;Pacha Group&lt
 &lt;h2&gt;Technical Analysis&lt;span class="hx:absolute hx:-mt-20" id="technical-analysis"&gt;&lt;/span&gt;
 &lt;a href="#technical-analysis" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Infrastructure Overview&lt;span class="hx:absolute hx:-mt-20" id="infrastructure-overview"&gt;&lt;/span&gt;
 &lt;a href="#infrastructure-overview" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Based on our findings Linux.GreedyAntd’s operations closely resemble previous
-&lt;a href="https://intezer.com/blog/cloud-security/competition-for-cryptocurrency-mining-foothold-on-the-cloud/"target="_blank" rel="noopener"&gt;cryptojacking campaigns&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/cloud-security/competition-for-cryptocurrency-mining-foothold-on-the-cloud/?utm_campaign=research-blog&amp;amp;utm_content=technical-analysis-pacha-group&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;cryptojacking campaigns&lt;/a&gt;
 deployed by Pacha Group in the past. A resumed overview of the current
 infrastructure is as follows:&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://research.intezer.com/blog/2019/02/technical-analysis-pacha-group/images/fig2.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
@@ -10337,7 +10337,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=technical-analysis-pacha-group&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>ChinaZ Revelations: Revealing ChinaZ Relationships with other Chinese Threat Actor Groups</title><link>https://research.intezer.com/blog/2019/01/chinaz-relations/</link><pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2019/01/chinaz-relations/</guid><description>
 &lt;h2&gt;Introduction&lt;span class="hx:absolute hx:-mt-20" id="introduction"&gt;&lt;/span&gt;
@@ -10786,7 +10786,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=chinaz-relations&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Muhstik Botnet Reloaded: New Variants Targeting phpMyAdmin Servers</title><link>https://research.intezer.com/blog/2018/11/muhstik-botnet-reloaded-new-variants-targeting-phpmyadmin-servers/</link><pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2018/11/muhstik-botnet-reloaded-new-variants-targeting-phpmyadmin-servers/</guid><description>
 &lt;p&gt;&lt;em&gt;The Muhstik botnet was first exposed by
@@ -11123,7 +11123,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=muhstik-botnet-reloaded-new-variants-targeting-phpmyadmin-servers&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>"EternalMiner" Copycats exploiting SambaCry for cryptocurrency mining</title><link>https://research.intezer.com/blog/2017/07/eternalminer-copycats/</link><pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2017/07/eternalminer-copycats/</guid><description>
 &lt;p&gt;About eight weeks ago, a critical RCE vulnerability present in every Samba
@@ -11269,6 +11269,6 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=eternalminer-copycats&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item></channel></rss>

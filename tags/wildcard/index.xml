@@ -85,7 +85,7 @@ variants were compiled five months after our original publication.&lt;/p&gt;
 &lt;/table&gt;
 &lt;h4&gt;DMAdevice&lt;span class="hx:absolute hx:-mt-20" id="dmadevice"&gt;&lt;/span&gt;
 &lt;a href="#dmadevice" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Using Intezer Analyze we were able to
-&lt;a href="https://analyze.intezer.com/files/e076e9893adb0c6d0c70cd7019a266d5fd02b429c01cfe51329b2318e9239836"target="_blank" rel="noopener"&gt;identify code reuse&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/e076e9893adb0c6d0c70cd7019a266d5fd02b429c01cfe51329b2318e9239836?utm_campaign=research-blog&amp;amp;utm_content=wildcard-evolution-of-sysjoker-cyber-threat&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;identify code reuse&lt;/a&gt;
 between these samples and the original Windows SysJoker samples.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://research.intezer.com/blog/2023/11/wildcard-evolution-of-sysjoker-cyber-threat/images/fig2.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
 &lt;p&gt;The structure of the main methods is largely similar, with some differences.&lt;/p&gt;
@@ -145,7 +145,7 @@ data-copied-label="Copied!"
 &lt;/div&gt;
 &lt;h4&gt;AppMessagingRegistrar&lt;span class="hx:absolute hx:-mt-20" id="appmessagingregistrar"&gt;&lt;/span&gt;
 &lt;a href="#appmessagingregistrar" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;This variant was compiled after the DMAdevice version. While it also
-&lt;a href="https://analyze.intezer.com/files/67ddd2af9a8ca3f92bda17bd990e0f3c4ab1d9bea47333fe31205eede8ecc706"target="_blank" rel="noopener"&gt;shares code&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/67ddd2af9a8ca3f92bda17bd990e0f3c4ab1d9bea47333fe31205eede8ecc706?utm_campaign=research-blog&amp;amp;utm_content=wildcard-evolution-of-sysjoker-cyber-threat&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;shares code&lt;/a&gt;
 with SysJoker, this variant implements different capabilities. For example, it
 uses multiple XOR keys to decode strings. This variant also uses different url
 paths:&lt;/p&gt;
@@ -158,7 +158,7 @@ paths:&lt;/p&gt;
 &lt;p&gt;However, similar to the other WildCard malware, it also uses OneDrive as a dead
 drop resolver. Also similar, AppMessagingRegistrar is downloaded from a server
 inside a ZIP file and is executed by a
-&lt;a href="https://analyze.intezer.com/files/96dc31cf0f9e7e59b4e00627f9c7f7a8cac3b8f4338b27d713b0aaf6abacfe6f"target="_blank" rel="noopener"&gt;DLL file&lt;/a&gt;.
+&lt;a href="https://analyze.intezer.com/files/96dc31cf0f9e7e59b4e00627f9c7f7a8cac3b8f4338b27d713b0aaf6abacfe6f?utm_campaign=research-blog&amp;amp;utm_content=wildcard-evolution-of-sysjoker-cyber-threat&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;DLL file&lt;/a&gt;.
 The DLL file masquerades as Brave Browser.&lt;/p&gt;
 &lt;p&gt;Metadate of AppMessagingRegistrar executable:&lt;/p&gt;
 &lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
@@ -207,7 +207,7 @@ developers.&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;a href="https://analyze.intezer.com/files/d4095f8b2fd0e6deb605baa1530c32336298afd026afc0f41030fa43371e3e72"target="_blank" rel="noopener"&gt;RustDown&lt;/a&gt;
+&lt;p&gt;&lt;a href="https://analyze.intezer.com/files/d4095f8b2fd0e6deb605baa1530c32336298afd026afc0f41030fa43371e3e72?utm_campaign=research-blog&amp;amp;utm_content=wildcard-evolution-of-sysjoker-cyber-threat&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;RustDown&lt;/a&gt;
 is intended to look like a legitimate PHP executable named php-cgi.
 &lt;a href="https://www.php.net/manual/en/install.unix.commandline.php"target="_blank" rel="noopener"&gt;PHP-CGI&lt;/a&gt; stands
 for PHP Common Gateway Interface. Providing an important tool that allows PHP
@@ -537,6 +537,6 @@ blog.&lt;/strong&gt;&lt;/p&gt;
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=wildcard-evolution-of-sysjoker-cyber-threat&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item></channel></rss>

@@ -2,7 +2,7 @@
 &lt;p&gt;This marks the first of several blog posts that will focus on Executable and
 Linkable Format (ELF) files. In this series, we&amp;rsquo;ll introduce various topics,
 ranging from the basics of ELF files built upon Linux
-&lt;a href="https://intezer.com/blog/malware-analysis/analyzing-capabilities-in-PE-and-ELF-files/"target="_blank" rel="noopener"&gt;malware technologies&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/malware-analysis/analyzing-capabilities-in-PE-and-ELF-files/?utm_campaign=research-docs&amp;amp;utm_content=part1&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;malware technologies&lt;/a&gt;
 such as infection vectors, custom packer techniques and common malware
 practices like dynamic API resolving techniques or ELF header crafting.&lt;/p&gt;
 &lt;p&gt;The overall goal of the series is to help both advanced and beginner Linux

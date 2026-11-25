@@ -526,7 +526,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=elephant-malware-targeting-ukrainian-orgs&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Targeted Phishing Attack against Ukrainian Government Expands to Georgia</title><link>https://research.intezer.com/blog/2021/07/targeted-phishing-attack-against-ukrainian-government-expands-to-georgia/</link><pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2021/07/targeted-phishing-attack-against-ukrainian-government-expands-to-georgia/</guid><description>
 &lt;p&gt;In May 2021,
@@ -733,7 +733,7 @@ routinely ensure that no traces of malicious code or malware exist in-memory.
 Intezer&amp;rsquo;s live Endpoint Scanner can help you achieve this at scale by
 collecting all binaries running in-memory, including fileless, and
 classifying them using Genetic Code Analysis technology. We also have a
-&lt;a href="https://intezer.com/blog/malware-analysis/accelerate-incident-response-with-intezer-analyze-volatility-plugin/"target="_blank" rel="noopener"&gt;Volatility plugin&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/malware-analysis/accelerate-incident-response-with-intezer-analyze-volatility-plugin/?utm_campaign=research-blog&amp;amp;utm_content=targeted-phishing-attack-against-ukrainian-government-expands-to-georgia&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Volatility plugin&lt;/a&gt;
 for analyzing memory dumps.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;IoCs&lt;span class="hx:absolute hx:-mt-20" id="iocs"&gt;&lt;/span&gt;
@@ -895,13 +895,13 @@ for analyzing memory dumps.&lt;/li&gt;
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=targeted-phishing-attack-against-ukrainian-government-expands-to-georgia&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>A Zebra in Gopher’s Clothing: Russian APT Uses COVID-19 Lures to Deliver Zebrocy</title><link>https://research.intezer.com/blog/2020/12/russian-apt-uses-covid-19-lures-to-deliver-zebrocy/</link><pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2020/12/russian-apt-uses-covid-19-lures-to-deliver-zebrocy/</guid><description>
 &lt;h2&gt;Summary&lt;span class="hx:absolute hx:-mt-20" id="summary"&gt;&lt;/span&gt;
 &lt;a href="#summary" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;In November, we uncovered COVID-19 phishing lures that were used to deliver the
 Go version of
-&lt;a href="https://analyze.intezer.com/families/2196bcb4-94b0-4773-beb6-87900b338521"target="_blank" rel="noopener"&gt;Zebrocy&lt;/a&gt;.
+&lt;a href="https://analyze.intezer.com/families/2196bcb4-94b0-4773-beb6-87900b338521?utm_campaign=research-blog&amp;amp;utm_content=russian-apt-uses-covid-19-lures-to-deliver-zebrocy&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Zebrocy&lt;/a&gt;.
 Zebrocy is mainly used against governments and commercial organizations engaged
 in foreign affairs. The lures consisted of documents about Sinopharm
 International Corporation—a pharmaceutical company that COVID-19 vaccine is
@@ -910,7 +910,7 @@ evacuation letter from Directorate General of Civil Aviation.&lt;/p&gt;
 &lt;p&gt;The lure was delivered as part of a Virtual Hard Drive (VHD) file that requires
 victims to use Windows 10 to access the files. While the malware samples were
 heavily obfuscated, it was possible to attribute them to the
-&lt;a href="https://analyze.intezer.com/families/4b0df7b0-b079-4a21-a72d-a35efabef6d8"target="_blank" rel="noopener"&gt;Sofacy&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/families/4b0df7b0-b079-4a21-a72d-a35efabef6d8?utm_campaign=research-blog&amp;amp;utm_content=russian-apt-uses-covid-19-lures-to-deliver-zebrocy&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Sofacy&lt;/a&gt;
 threat actor since they shared genomes with samples used in previous campaigns.&lt;/p&gt;
 &lt;p&gt;It appears that the threat actor switched from delivering VHD files with the
 Delphi version of Zebrocy, to the Go version in the middle of November. Given
@@ -1011,7 +1011,7 @@ use. The group is known to use
 &lt;p&gt;The second file is the malware. By default, Windows hides known file extensions
 and the user can be easily tricked into believing that it’s a Word document.
 The scan results of the executable from VirusTotal is shown in Figure 4 and
-&lt;a href="https://analyze.intezer.com/"target="_blank" rel="noopener"&gt;Intezer Analyze&lt;/a&gt; in Figure 5. Only nine of the
+&lt;a href="https://analyze.intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=russian-apt-uses-covid-19-lures-to-deliver-zebrocy&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer Analyze&lt;/a&gt; in Figure 5. Only nine of the
 70 antivirus engines detected the file as generic malware while Analyze
 detected the file as malware associated with Sofacy.&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
@@ -1174,7 +1174,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=russian-apt-uses-covid-19-lures-to-deliver-zebrocy&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Mapping the Connections Inside Russia’s APT Ecosystem</title><link>https://research.intezer.com/blog/2019/09/russian-apt-ecosystem/</link><pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2019/09/russian-apt-ecosystem/</guid><description>
 &lt;p&gt;&lt;em&gt;This research is a joint effort conducted by Omri Ben-Bassat from Intezer and
@@ -1604,7 +1604,7 @@ the APT Detector tool.&lt;/p&gt;
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=russian-apt-ecosystem&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>EvilGnome: Rare Malware Spying on Linux Desktop Users</title><link>https://research.intezer.com/blog/2019/07/evilgnome-rare-malware-spying-on-linux-desktop-users/</link><pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2019/07/evilgnome-rare-malware-spying-on-linux-desktop-users/</guid><description>
 &lt;h2&gt;Introduction&lt;span class="hx:absolute hx:-mt-20" id="introduction"&gt;&lt;/span&gt;
@@ -1749,7 +1749,7 @@ main executable &lt;code&gt;gnome-shell-ext&lt;/code&gt;:&lt;/p&gt;
 never seen before by the system:&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://research.intezer.com/blog/2019/07/evilgnome-rare-malware-spying-on-linux-desktop-users/images/fig10.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Figure 8:
-&lt;a href="https://analyze.intezer.com/#/analyses/8db39fae-8f82-42b2-9816-b353a7dbb16b"target="_blank" rel="noopener"&gt;Intezer Analyze report of the Spy Agent sample&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;a href="https://analyze.intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=evilgnome-rare-malware-spying-on-linux-desktop-users&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com#/analyses/8db39fae-8f82-42b2-9816-b353a7dbb16b"target="_blank" rel="noopener"&gt;Intezer Analyze report of the Spy Agent sample&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;This large amount of unique genes located within this file is not a trend we
 regularly see in Linux files and therefore it seems suspicious.&lt;/p&gt;
 &lt;p&gt;The Spy Agent was built in C++, using classes with an object oriented
@@ -1874,10 +1874,10 @@ into the group&amp;rsquo;s operations.&lt;/p&gt;
 you have a suspicious file that you suspect to be EvilGnome, you can upload it
 to Intezer Analyze in order to detect code reuse to this threat family and many
 others. You are welcome to
-&lt;a href="https://analyze.intezer.com/#/"target="_blank" rel="noopener"&gt;try it for free in our community edition&lt;/a&gt;.&lt;/p&gt;
+&lt;a href="https://analyze.intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=evilgnome-rare-malware-spying-on-linux-desktop-users&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com#/"target="_blank" rel="noopener"&gt;try it for free in our community edition&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://research.intezer.com/blog/2019/07/evilgnome-rare-malware-spying-on-linux-desktop-users/images/fig20.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Figure 18:
-&lt;a href="https://analyze.intezer.com/#/analyses/eeec2273-82ac-4190-b434-8ffb304deeef"target="_blank" rel="noopener"&gt;Intezer Analyze report of the Spy Agent sample&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;a href="https://analyze.intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=evilgnome-rare-malware-spying-on-linux-desktop-users&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com#/analyses/eeec2273-82ac-4190-b434-8ffb304deeef"target="_blank" rel="noopener"&gt;Intezer Analyze report of the Spy Agent sample&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;IOCs&lt;span class="hx:absolute hx:-mt-20" id="iocs"&gt;&lt;/span&gt;
 &lt;a href="#iocs" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;EvilGnome&lt;span class="hx:absolute hx:-mt-20" id="evilgnome"&gt;&lt;/span&gt;
 &lt;a href="#evilgnome" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
@@ -1916,7 +1916,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=evilgnome-rare-malware-spying-on-linux-desktop-users&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>NotPetya Returns as Bad Rabbit</title><link>https://research.intezer.com/blog/2017/10/notpetya-returns-bad-rabbit/</link><pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2017/10/notpetya-returns-bad-rabbit/</guid><description>
 &lt;p&gt;Large scale cyber attacks seem to be happening once a month these days.
@@ -1940,7 +1940,7 @@ You can see in the screenshot below that according to our analysis, the binary
 did not contain any code from any Adobe product but does contain code from
 NotPetya. In fact, we find that 27% of the code in the loader has been seen in
 only NotPetya samples. Find the public report
-&lt;a href="https://analyze.intezer.com/#/analyses/6ba279af-8ce2-46c6-8b86-5fa65a5ed42a"target="_blank" rel="noopener"&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://analyze.intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=notpetya-returns-bad-rabbit&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com#/analyses/6ba279af-8ce2-46c6-8b86-5fa65a5ed42a"target="_blank" rel="noopener"&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://research.intezer.com/blog/2017/10/notpetya-returns-bad-rabbit/images/fig2.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
 &lt;p&gt;Below is a direct comparison of function (&lt;code&gt;0x1000C244&lt;/code&gt;) of NotPetya
 (&lt;code&gt;027cc450ef5f8c5f653329641ec1fed91f694e0d229928963b30f6b0d7d3a745&lt;/code&gt;) and
@@ -1959,7 +1959,7 @@ initialize some type of struct.&lt;/p&gt;
 on disk (&lt;code&gt;579fd8a0385482fb4c789561a30b09f25671e86422f40ef5cca2036b28f99648&lt;/code&gt;)
 also has a code connection with NotPetya samples. According to our technology,
 we can see that 13% of the code has been reused. You can find the public report
-&lt;a href="https://analyze.intezer.com/#/analyses/d41e8a98-a106-4b4f-9b7c-fd9e2c80ca7d"target="_blank" rel="noopener"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;a href="https://analyze.intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=notpetya-returns-bad-rabbit&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com#/analyses/d41e8a98-a106-4b4f-9b7c-fd9e2c80ca7d"target="_blank" rel="noopener"&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;#badrabbit found to have 13% code reuse of #notpetya #petya here&amp;rsquo;s a public
 report with the unpacked sample: &lt;a href="https://t.co/NOIul4yLVT"target="_blank" rel="noopener"&gt;https://t.co/NOIul4yLVT&lt;/a&gt;&lt;/p&gt;
@@ -1981,7 +1981,7 @@ report with the unpacked sample: &lt;a href="https://t.co/NOIul4yLVT"target="_bl
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=notpetya-returns-bad-rabbit&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>New Variants of Agent.BTZ/ComRAT Found: The Threat That Hit The Pentagon In 2008 Still Evolving; Part 2/2</title><link>https://research.intezer.com/blog/2017/09/new-variants-of-agent-btz-comrat-found-part-2/</link><pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2017/09/new-variants-of-agent-btz-comrat-found-part-2/</guid><description>
 &lt;p&gt;&lt;a href="../../../2017/08/new-variants-of-agent-btz-comrat-found/"&gt;Our previous blog&lt;/a&gt;
@@ -2276,7 +2276,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=new-variants-of-agent-btz-comrat-found-part-2&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>New Variants of Agent.BTZ/ComRAT Found: The Threat That Hit The Pentagon In 2008 Still Evolving; Part 1/2</title><link>https://research.intezer.com/blog/2017/08/new-variants-of-agent-btz-comrat-found/</link><pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2017/08/new-variants-of-agent-btz-comrat-found/</guid><description>
 &lt;p&gt;Agent.BTZ–also known as ComRAT–is one of the world’s oldest known
@@ -2491,6 +2491,6 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=new-variants-of-agent-btz-comrat-found&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item></channel></rss>

