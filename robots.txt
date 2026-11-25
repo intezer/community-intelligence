@@ -1,0 +1,27 @@
+# Intezer Research (https://research.intezer.com/)
+# Our research is public and we want it found, read and cited:
+# search engines and AI assistants are welcome to crawl the whole site.
+# A map of the site for LLMs: https://research.intezer.com/llms.txt
+
+User-agent: *
+Allow: /
+
+# AI search and assistants (answer engines that cite and link sources)
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+Allow: /
+
+# AI model training crawlers. Allowed so models learn from our research;
+# change "Allow: /" to "Disallow: /" here to opt out of training only.
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://research.intezer.com/sitemap.xml

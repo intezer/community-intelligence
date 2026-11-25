@@ -495,13 +495,7 @@ actually matters.&lt;/p&gt;
 teaching detection engines what normal AI behavior looks like before the volume
 that is doubling and tripling month over month makes that work unavoidable.
 Understanding this distinction is what separates a SOC that scales with AI
-adoption from one that is buried by it.&lt;/p&gt;
-&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
-&lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
-&lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=when-the-whole-company-adopts-ai&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description></item><item><title>When the AI Edits Its Own Trust Boundary: Remote Code Execution Vulnerability in AWS's Agentic IDE</title><link>https://research.intezer.com/blog/2026/07/remote-code-execution-kiro/</link><pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2026/07/remote-code-execution-kiro/</guid><description>
+adoption from one that is buried by it.&lt;/p&gt;</description></item><item><title>When the AI Edits Its Own Trust Boundary: Remote Code Execution Vulnerability in AWS's Agentic IDE</title><link>https://research.intezer.com/blog/2026/07/remote-code-execution-kiro/</link><pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2026/07/remote-code-execution-kiro/</guid><description>
 &lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:rounded-lg hx:border hx:py-2 hx:ltr:pr-4 hx:rtl:pl-4 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
 &lt;div class="hx:ltr:pl-3 hx:ltr:pr-2 hx:rtl:pr-3 hx:rtl:pl-2"&gt;&lt;svg height=1.2em class="hx:inline-block hx:align-middle" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;&lt;/div&gt;
 &lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
@@ -895,13 +889,7 @@ code execution.&lt;/p&gt;
 is clear. The security boundary cannot reside within the model&amp;rsquo;s judgment or in
 prompts the model can be talked out of. It has to live in the platform, on the
 actions that matter, and it has to hold even when the model has been fully
-convinced to do the wrong thing.&lt;/p&gt;
-&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
-&lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
-&lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=remote-code-execution-kiro&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description></item><item><title>How attackers are gaining access to LLM inference</title><link>https://research.intezer.com/blog/2026/06/how-attackers-access-llm-inference/</link><pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2026/06/how-attackers-access-llm-inference/</guid><description>
+convinced to do the wrong thing.&lt;/p&gt;</description></item><item><title>How attackers are gaining access to LLM inference</title><link>https://research.intezer.com/blog/2026/06/how-attackers-access-llm-inference/</link><pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate><guid>https://research.intezer.com/blog/2026/06/how-attackers-access-llm-inference/</guid><description>
 &lt;p&gt;&lt;em&gt;This article is based on joint research with Eran Segal, researcher at
 &lt;a href="https://www.kodemsecurity.com/"target="_blank" rel="noopener"&gt;Kodem Security&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;The most capable commercial AI models are now useful enough to attackers that
@@ -1478,10 +1466,4 @@ pay for it.&lt;/p&gt;
 &lt;td&gt;&lt;code&gt;SystemSettings.exe&lt;/code&gt; (OpenAI, Replicate, Voyage keys)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;div class="hx:overflow-x-auto hx:mt-6 hx:flex hx:flex-col hx:rounded-lg hx:border hx:py-4 hx:px-4 hx:border-gray-200 hx:contrast-more:border-current hx:contrast-more:dark:border-current hx:border-blue-200 hx:bg-blue-100 hx:text-blue-900 hx:dark:border-blue-200/30 hx:dark:bg-blue-900/30 hx:dark:text-blue-200"&gt;
-&lt;p class="hx:flex hx:items-center hx:font-medium"&gt;&lt;svg height=16px class="hx:inline-block hx:align-middle hx:mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"&gt;&lt;path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/&gt;&lt;/svg&gt;Note&lt;/p&gt;
-&lt;div class="hx:w-full hx:min-w-0 hx:leading-7"&gt;
-&lt;div class="hx:mt-6 hx:leading-7 hx:first:mt-0"&gt;&lt;p&gt;Learn more about &lt;a href="https://intezer.com/?utm_campaign=research-blog&amp;amp;utm_content=how-attackers-access-llm-inference&amp;amp;utm_medium=referral&amp;amp;utm_source=research.intezer.com"target="_blank" rel="noopener"&gt;Intezer&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description></item></channel></rss>
+&lt;/table&gt;</description></item></channel></rss>
