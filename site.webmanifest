@@ -2,8 +2,8 @@
   "name": "Intezer Research",
   "short_name": "Intezer Research",
   "start_url": "./",
-  "theme_color": "#0B0820",
-  "background_color": "#0B0820",
+  "theme_color": "#09111E",
+  "background_color": "#09111E",
   "display": "standalone",
   "icons": [
     { "src": "android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
