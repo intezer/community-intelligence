@@ -1,6 +1,6 @@
 # Intezer Research
 
-> Malware analysis, threat research, and reverse engineering from Intezer's Research Team.
+> Malware analysis, threat research and thought leadership from Intezer’s Research Team: the malware families, campaigns and threat actors we track.
 
 - Source: https://research.intezer.com/
 - Attribution: Intezer's Research Team (Intezer Research, https://research.intezer.com/)
