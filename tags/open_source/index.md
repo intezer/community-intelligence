@@ -1,0 +1,12 @@
+# Open_source
+
+> 1 post from Intezer’s Research Team on #open_source, 2020. Read: Using YARA Rules to Turn Open Source Against Malware
+
+- Source: https://research.intezer.com/tags/open_source/
+- Attribution: Intezer's Research Team (Intezer Research, https://research.intezer.com/)
+
+
+## Posts
+
+- [Using YARA Rules to Turn Open Source Against Malware](https://research.intezer.com/blog/2020/09/turning-open-source-against-malware/) (2020-09-03): Threat actors copy open source offensive security libraries like MemoryModule into malware. We show how to build code-based YARA rules that detect this reuse.
+
